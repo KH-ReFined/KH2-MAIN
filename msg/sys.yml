@@ -1,0 +1,406 @@
+# === System Text === #
+
+- id: 0x4D6C
+  en: "Your progress is safe, kupo!"
+  gr: "Dein Fortschritt ist gespeichert, kupo!"
+  sp: "¡Tu progreso está a salvo, kupó!"
+  fr: "Votre progression a été sauvegardée, kupo!"
+
+- id: 0x4D6D
+  en: "Could not save your progress, kupo! Please save it manually!"
+  gr: "Konnte deinen Fortschritt nicht speichern, kupo! Bitte speichere ihn manuell!"
+  sp: "¡No se pudo guardar tu progreso, kupó! ¡Por favor, guarda partida manualmente!"
+  fr: "Votre progression n'a pas pu être sauvegardée, kupo! Sauvegardez manuellement!"
+
+- id: 0x01BA
+  en: "Press{:icon dynamic-cross} to abort!"
+  it: "Premi{:icon dynamic-cross} per cancellare!"
+  gr: "Drücke {:icon dynamic-circle} zum abbrechen!"
+  sp: "¡Pulsa {:icon dynamic-circle} para abortar!"
+  fr: "Appuyez sur {:icon dynamic-circle} pour annuler!"
+
+- id: 0x01BB
+  en: "Sequence aborted!"
+  gr: "Sequenz abgebrochen!"
+  sp: "¡Secuencia abortada!"
+  fr: "Séquence annulée!"
+
+# === Item Text === #
+
+- id: 0x0649
+  en: "Using the Keyblade's true power,
+    
+    use the Drive Command to change
+    
+    into Final Form."
+  gr: "Mit der wahren Macht des Schlüsselschwertes,
+    
+    nutze das Drive-Kommando, um
+    
+    in die Über-Form zu wechseln."
+  sp: "Gracias al verdadero poder de la Llave Espada,
+    
+    usa el Comando de Fusión para cambiar
+    
+    a la Forma Final."
+  fr: "En utilisant le vrai pouvoir de la Keyblade,
+    
+    utilisez le menu de Fusion pour utiliser
+    
+    la forme Suprême."
+    
+- id: 0x064A
+  en: "Anti Form"
+  gr: "Anti-Form"
+  sp: "Anti-Forma"
+  fr: "Non-forme"
+
+- id: 0x064B
+  en: "Using the darkness in Sora's heart,
+    
+    use the Drive Command to change
+    
+    into Anti Form."
+  gr: "Mit der Dunkelheit in Soras Herzen,
+    
+    nutze das Drive-Kommando, um
+    
+    in die Anti-Form zu wechseln."
+  sp: "Gracias a la oscuridad del corazón de Sora,
+    
+    usa el Comando de Fusión para cambiar
+    
+    a la Anti-Forma."
+  fr: "En utilisant les ténèbres du cœur de Sora,
+    
+    utilisez le menu de Fusion pour utiliser
+    
+    la Non-forme."
+
+# === Configuration Text === #
+
+- id: 0x01BC
+  en: "Autosave"
+  gr: "Auto-Speichern"
+  sp: "Autoguardado"
+  fr: "Sauvegarde auto."
+
+- id: 0x01BD
+  en: "Audio Language"
+  gr: "Sprachausgabe"
+  sp: "Idioma del Audio"
+  fr: "Langue audio"
+
+- id: 0x01BE
+  en: "Background Music"
+  gr: "Hintergrundmusik"
+  sp: "Música de Ambiente"
+  fr: "Musique de fond"
+
+- id: 0x01BF
+  en: "Heartless Palette"
+  gr: "Herzlosen-Palette"
+  sp: "Aspecto de los Sincorazón"
+  fr: "Visuels des sans-cœurs"
+
+- id: 0x01C0
+  en: "Controller Prompts"
+  gr: "Steuerungseingaben"
+  sp: "Indicaciones de los Controles"
+  fr: "Affichage des contrôles"
+
+- id: 0x01C1
+  en: "Informative"
+  gr: "Informativ"
+  sp: "Informativo"
+  fr: "Informatif"
+
+- id: 0x01C2
+  en: "Silent"
+  gr: "Unbemerkt"
+  sp: "Silencioso"
+  fr: "Silencieux"
+
+- id: 0x01C3
+  en: "Disabled"
+  gr: "Deaktiviert"
+  sp: "Desactivado"
+  fr: "Désactivé"
+
+- id: 0x01C4
+  en: "English"
+  gr: "Englisch"
+  sp: "Inglés"
+  fr: "Anglais"
+
+- id: 0x01C5
+  en: "Japanese"
+  gr: "Japanisch"
+  sp: "Japonés"
+  fr: "Japonais"
+
+- id: 0x01C6
+  en: "MIDI"
+  gr: "Original"
+  sp: "Original"
+  fr: "Original"
+  
+- id: 0x01C7
+  en: "Remastered"
+  gr: "Neuauflage"
+  sp: "Remasterizada"
+  fr: "Remasterisé"
+
+- id: 0x01C8
+  en: "Classic"
+  gr: "Klassisch"
+  sp: "Clásico"
+  fr: "Classique"
+  
+- id: 0x01C9
+  en: "Special"
+  gr: "Speziell"
+  sp: "Especial"
+  fr: "Spécial"
+
+- id: 0x01CA
+  en: "Controller"
+  gr: "Controller"
+  sp: "Mando"
+  fr: "Manette"
+
+- id: 0x01CB
+  en: "Keyboard"
+  gr: "Tastatur"
+  sp: "Teclado"
+  fr: "Clavier"
+
+- id: 0x01CC
+  en: "Automatic"
+  gr: "Automatisch"
+  sp: "Automáticas"
+  fr: "Automatique"
+
+- id: 0x01CD
+  en: "Autosaving will be done with an indicator."
+  gr: "Auto-Speichern erfolgt mit einem Indikator."
+  sp: "El Autoguardado se realizará con un aviso."
+  fr: "La sauvegarde automatique sera effectuée avec un indicateur."
+
+- id: 0x01CE
+  en: "Autosaving will be done silently."
+  gr: "Auto-Speichern erfolgt unbemerkt."
+  sp: "El Autoguardado se realizará silenciosamente."
+  fr: "La sauvegarde automatique sera effectuée silencieusement."
+
+- id: 0x01CF
+  en: "Autosaving will be disabled."
+  gr: "Auto-Speichern ist deaktiviert."
+  sp: "El Autoguardado estará desactivado."
+  fr: "La sauvegarde automatique sera désactivée."
+
+- id: 0x01D0
+  en: "The audio will be in English."
+  gr: "Die Sprachausgabe wird in Englisch sein."
+  sp: "El audio estará en Inglés."
+  fr: "Le doublage sera en Anglais."
+
+- id: 0x01D1
+  en: "The audio will be in Japanese."
+  gr: "Die Sprachausgabe wird in Japanisch sein."
+  sp: "El audio estará en Japonés."
+  fr: "Le doublage sera en Japonais."
+    
+- id: 0x01D2
+  en: "The background music will be MIDI Synthesized."
+  gr: "Die Hintergrundmusik wird durch MIDI abgespielt."
+  sp: "La música de ambiente será la original (MIDI)."
+  fr: "La musique de fond sera en MIDI."
+  
+- id: 0x01D3
+  en: "The background music will be remastered."
+  gr: "Die Hintergrundmusik wird durch die Neuauflage abgespielt."
+  sp: "La música de ambiente será la remasterizada."
+  fr: "La musique de fond sera remasterisée."
+  
+- id: 0x01D4
+  en: "The Heartless will use the Classic Palette."
+  gr: "Die Herzlosen nehmen die klassischen Farben an."
+  sp: "Los Sincorazón tendrán el aspecto clásico."
+  fr: "Les sans-cœurs seront dans leur palette de couleur originale."
+  
+- id: 0x01D5
+  en: "The Heartless will use the Special Palette."
+  gr: "Die Herzlosen nehmen die speziellen Farben an."
+  sp: "Los Sincorazón tendrán el aspecto especial."
+  fr: "Les sans-cœurs seront dans leur palette de couleur spéciale."
+  
+- id: 0x01D6
+  en: "The game will display the Controller Prompts."
+  gr: "Das Spiel wird die Controllereingaben zeigen."
+  sp: "El juego mostrará los controles de mando."
+  fr: "Le jeu va afficher les contrôles manette à l'écran."
+  
+- id: 0x01D7
+  en: "The game will display the Keyboard Prompts."
+  gr: "Das Spiel wird die Tastatureingaben zeigen."
+  sp: "El juego mostrará los controles de teclado."
+  fr: "Le jeu va afficher les contrôles clavier à l'écran."
+  
+- id: 0x01D8
+  en: "The game will adjust the prompts automatically."
+  gr: "Das Spiel wird die Eingaben automatisch anpassen."
+  sp: "El juego ajustará automáticamente las indicaciones de los controles."
+  fr: "Le jeu va afficher les contrôles à l'écran selon votre matériel."
+
+- id: 0x01D9
+  en: "※※※※※※※※※※※※※※※※"
+  gr: "※※※※※※※※※※※※※※※※"
+  sp: "※※※※※※※※※※※※※※※※"
+  fr: "※※※※※※※※※※※※※※※※"
+
+- id: 0x01DA
+  en: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
+  gr: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
+  sp: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
+  fr: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
+
+- id: 0x4D6E
+  en: "Achievements"
+  gr: "Erfolge"
+  sp: "Logros"
+  fr: "Succès"
+
+- id: 0x4D6F
+  en: "Enable the Achievement Engine."
+  gr: "Aktiviere die Erfolge-Engine."
+  sp: "Activa el Sistema de Logros."
+  fr: "Activer le système de Succès"
+  
+- id: 0x4D70
+  en: "Disable the Achievement Engine."
+  gr: "Deaktiviere die Erfolge-Engine."
+  sp: "Desactiva el Sistema de Logros."
+  fr: "Désactiver le système de Succès"
+
+# === Ability Text === #
+
+- id: 0x3787
+  en: "Encounter Plus"
+  gr: "Gefecht +"
+  sp: "Más Encuentros"
+  fr: "Rencontre +"
+
+- id: 0x3788
+  en: "Increases the rate in which enemies appear, 
+  
+    including rarer enemies."
+  gr: "Erhöht die Wahrscheinlichkeit, dass Gegner, inklusive
+  
+    seltenerer Gegner, erscheinen."
+  sp: "Aumenta las probabilidades de encontrarse con enemigos,
+  
+    también aquellos que son raros."
+  fr: "Augmente le nombre d'ennemis, 
+  
+    mais aussi des ennemis plus rares."
+
+- id: 0x4E83
+  en: "Dodge Roll LV1"
+  gr: "Ausweichrolle LV1"
+  sp: "Voltereta NV1"
+  fr: "Roulade LV1"
+
+- id: 0x4E85
+  en: "Dodge Roll LV2"
+  gr: "Ausweichrolle LV2"
+  sp: "Voltereta NV2"
+  fr: "Roulade LV2"
+
+- id: 0x4E87
+  en: "Dodge Roll LV3"
+  gr: "Ausweichrolle LV3"
+  sp: "Voltereta NV3"
+  fr: "Roulade LV3"
+
+- id: 0x4E8D
+  en: "Sonic Blade"
+  gr: "Limitklatsche"
+  sp: "Estocada Veloz"
+  fr: "Aquilon"
+
+- id: 0x4EFE
+  en: "Sonic Blade"
+  gr: "Limitklatsche"
+  sp: "Estocada Veloz"
+  fr: "Aquilon"
+
+- id: 0x4E8F
+  en: "Ars Arcanum"
+  gr: "Amok-Arkana"
+  sp: "Último Arcano"
+  fr: "Arcanes"
+
+- id: 0x4F01
+  en: "Ars Arcanum"
+  gr: "Amok-Arkana"
+  sp: "Último Arcano"
+  fr: "Arcanes"
+
+- id: 0x4E93
+  en: "Ragnarok"
+  gr: "Ragnarök"
+  sp: "Ragnarok"
+  fr: "Ragnarok"
+
+- id: 0x4EF6
+  en: "Ragnarok"
+  gr: "Ragnarök"
+  sp: "Ragnarok"
+  fr: "Ragnarok"
+
+# === New Game Text === #
+
+- id: 0x4337
+  en: "Play Roxas' Story?"
+  gr: "Roxas' Geschichte spielen?"
+  sp: "¿Quieres jugar la historia de Roxas?"
+  fr: "Jouer l'histoire de Roxas?"
+
+- id: 0x4338
+  en: "YES"
+  gr: "JA"
+  sp: "SÍ"
+  fr: "OUI"
+
+- id: 0x4339
+  en: "NO"
+  gr: "NEIN"
+  sp: "NO"
+  fr: "NON"
+
+- id: 0x433A 
+  en: "Play through Roxas' Story normally."
+  gr: "Normal durch Roxas' Geschichte spielen."
+  sp: "Juega la historia completa."
+  fr: "Jouer l'histoire de Roxas normalement."
+
+- id: 0x433B
+  en: "                Skip Roxas' Story entirely.
+  
+    {:color #FFFF0080}(You will miss important story elements if you do!)"
+  gr: "                Überspringe Roxas' Geschichte komplett.
+  
+    {:color #FFFF0080}(Du wirst wichtige Elemente der Geschichte verpassen, wenn du es überspringst!)"
+  sp: "                Saltar la historia de Roxas.
+  
+    {:color #FFFF0080}(¡Te perderás elementos importantes de la historia si lo haces!)"
+  fr: "                Passer l'histoire de Roxas entièrement.
+  
+    {:color #FFFF0080}(Vous raterez des éléments importants de l'histoire si vous le faites!)"
+
+- id: 0x4381
+  en: "Roxas' Story"
+  gr: "Roxas' Geschichte"
+  sp: "Historia de Roxas"
+  fr: "L'histoire de Roxas"

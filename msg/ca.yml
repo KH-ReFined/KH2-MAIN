@@ -1,0 +1,169 @@
+﻿- id: 0x183C
+  en: >-
+    {:unk08 02 00 06}Set sail to--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3D 00}The Black Pearl!
+
+    {:chardelay 00 00}Nevermind...
+  it: >-
+    {:unk08 02 00 06}Fai rotta verso--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3D 00}La Perla Nera!
+
+    {:chardelay 00 00}Non importa...
+  sp: >-
+    {:unk08 02 00 06}¡Zarpar a--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3D 00}La Perla Negra!
+
+    {:chardelay 00 00}No importa...
+  gr: >-
+    {:unk08 02 00 06}In die See stechen nach--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3D 00}Die Black Pearl!
+
+    {:chardelay 00 00}Nee, doch nicht...
+  fr: >-
+    {:unk08 02 00 06}Mettre les voiles vers--
+
+    {:chardelay 3C 00}Port Royal !
+
+    {:chardelay 3D 00}Le Black Pearl !
+
+    {:chardelay 00 00}Quoique, non...
+
+- id: 0x183D
+  en: >-
+    {:unk08 02 00 06}Set sail to--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 00 00}Nevermind...
+  it: >-
+    {:unk08 02 00 06}Fai rotta verso--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 00 00}Non importa...
+  sp: >-
+    {:unk08 02 00 06}¡Zarpar a--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 00 00}No importa...
+  gr: >-
+    {:unk08 02 00 06}In die See stechen nach--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 00 00}Nee, doch nicht...
+  fr: >-
+    {:unk08 02 00 06}Mettre les voiles vers--
+
+    {:chardelay 3C 00}Port Royal !
+
+    {:chardelay 00 00}Quoique, non...
+
+- id: 0x183E
+  en: >-
+    {:unk08 02 00 06}Set sail to--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3E 00}Isla de Muerta!
+
+    {:chardelay 00 00}Nevermind...
+  it: >-
+    {:unk08 02 00 06}Fai rotta verso--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3E 00}L'Isla de Muerta!
+
+    {:chardelay 00 00}Non importa...
+  sp: >-
+    {:unk08 02 00 06}¡Zarpar a--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3E 00}Isla de Muerta!
+
+    {:chardelay 00 00}No importa...
+  gr: >-
+    {:unk08 02 00 06}In die See stechen nach--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3E 00}Isla de Muerta!
+
+    {:chardelay 00 00}Nee, doch nicht...
+  fr: >-
+    {:unk08 02 00 06}Mettre les voiles vers--
+
+    {:chardelay 3C 00}Port Royal !
+
+    {:chardelay 3E 00}Ile de la Muerta !
+
+    {:chardelay 00 00}Quoique, non...
+
+- id: 0x183F
+  en: >-
+    {:unk08 02 00 06}Set sail to--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3E 00}Isla de Muerta!
+
+    {:chardelay 3F 00}Ship Graveyard!
+
+    {:chardelay 00 00}Nevermind...
+  it: >-
+    {:unk08 02 00 06}Fai rotta verso--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3E 00}L'Isla de Muerta!
+
+    {:chardelay 3F 00}Il Cimitero Navale!
+
+    {:chardelay 00 00}Non importa...
+  sp: >-
+    {:unk08 02 00 06}¡Zarpar a--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3E 00}Isla de Muerta!
+
+    {:chardelay 3F 00}Cementerio de barcos!
+
+    {:chardelay 00 00}No importa...
+  gr: >-
+    {:unk08 02 00 06}In die See stechen nach--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3E 00}Isla de Muerta!
+
+    {:chardelay 3F 00}Schiffsfriedhof!
+
+    {:chardelay 00 00}Nee, doch nicht...
+  fr: >-
+    {:unk08 02 00 06}Mettre les voiles vers--
+
+    {:chardelay 3C 00}Port Royal !
+
+    {:chardelay 3E 00}Ile de la Muerta !
+
+    {:chardelay 3F 00}Cimetière D'épaves !
+
+    {:chardelay 00 00}Quoique, non...
+
+
