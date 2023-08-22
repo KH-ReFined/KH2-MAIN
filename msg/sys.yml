@@ -15,9 +15,9 @@
 - id: 0x01BA
   en: "Press{:icon dynamic-cross} to abort!"
   it: "Premi{:icon dynamic-cross} per cancellare!"
-  gr: "Drücke {:icon dynamic-circle} zum abbrechen!"
-  sp: "¡Pulsa {:icon dynamic-circle} para abortar!"
-  fr: "Appuyez sur {:icon dynamic-circle} pour annuler!"
+  gr: "Drücke {:icon dynamic-cross} zum abbrechen!"
+  sp: "¡Pulsa {:icon dynamic-cross} para abortar!"
+  fr: "Appuyez sur {:icon dynamic-cross} pour annuler!"
 
 - id: 0x01BB
   en: "Sequence aborted!"
