@@ -45,6 +45,11 @@ assets:
     - name: sys/fontimage.png
 
 - name: msg/us/ca.bar
+  multi:
+    - name: msg/fr/ca.bar
+    - name: msg/gr/ca.bar
+    - name: msg/it/ca.bar
+    - name: msg/sp/ca.bar
   method: binarc
   source:
   - name: ca
@@ -52,16 +57,6 @@ assets:
     method: kh2msg
     source:
       - name: msg/ca.yml
-        language: en
-      
-- name: msg/us/jm.bar
-  method: binarc
-  source:
-  - name: jm
-    type: list
-    method: kh2msg
-    source:
-      - name: msg/jm.yml
         language: en
 
 - name: libretto-ca.bar
@@ -104,6 +99,11 @@ assets:
     - name: voice/us/battle/tt0_roxas.win32.scd
 
 - name: msg/us/sys.bar
+  multi:
+    - name: msg/fr/sys.bar
+    - name: msg/gr/sys.bar
+    - name: msg/it/sys.bar
+    - name: msg/sp/sys.bar
   method: binarc
   source:
   - name: sys
