@@ -71,7 +71,7 @@
     usa el Comando de Fusión para cambiar
     
     a la Anti-Forma."
-  fr: "En utilisant les ténèbres du cœur de Sora,
+  fr: "En utilisant les ténèbres du coeur de Sora,
     
     utilisez le menu de Fusion pour utiliser
     
@@ -101,7 +101,7 @@
   en: "Heartless Palette"
   gr: "Herzlosen-Palette"
   sp: "Aspecto de los Sincorazón"
-  fr: "Visuels des sans-cœurs"
+  fr: "Visuels des sans-coeurs"
 
 - id: 0x01C0
   en: "Controller Prompts"
@@ -227,13 +227,13 @@
   en: "The Heartless will use the Classic Palette."
   gr: "Die Herzlosen nehmen die klassischen Farben an."
   sp: "Los Sincorazón tendrán el aspecto clásico."
-  fr: "Les sans-cœurs seront dans leur palette de couleur originale."
+  fr: "Les sans-coeurs seront dans leur palette de couleur originale."
   
 - id: 0x01D5
   en: "The Heartless will use the Special Palette."
   gr: "Die Herzlosen nehmen die speziellen Farben an."
   sp: "Los Sincorazón tendrán el aspecto especial."
-  fr: "Les sans-cœurs seront dans leur palette de couleur spéciale."
+  fr: "Les sans-coeurs seront dans leur palette de couleur spéciale."
   
 - id: 0x01D6
   en: "The game will display the Controller Prompts."
@@ -264,6 +264,12 @@
   gr: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
   sp: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
   fr: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
+
+- id: 0x01DE
+  en: "Prepare and Retry"
+  gr: "Vorbereiten und Neu Versuchen"
+  sp: "Prepararse y Reintentar"
+  fr: "Se Préparer et Réessayer"
 
 - id: 0x4D6E
   en: "Achievements"

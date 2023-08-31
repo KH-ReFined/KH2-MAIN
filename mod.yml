@@ -99,11 +99,6 @@ assets:
     - name: voice/us/battle/tt0_roxas.win32.scd
 
 - name: msg/us/sys.bar
-  multi:
-    - name: msg/fr/sys.bar
-    - name: msg/gr/sys.bar
-    - name: msg/it/sys.bar
-    - name: msg/sp/sys.bar
   method: binarc
   source:
   - name: sys
@@ -112,6 +107,46 @@ assets:
     source:
     - name: msg/sys.yml
       language: en
+
+- name: msg/fr/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: fr
+
+- name: msg/it/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: it
+
+- name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: sp
+
+- name: msg/gr/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: gr
 
 # === Ultrawide Accommodations ===
 
@@ -140,284 +175,456 @@ assets:
 # === Crown Switching ===
 
 - name: obj/P_EX100.a.us
+  multi:
+    - name: obj/P_EX100.a.jp
+    - name: obj/P_EX100.a.xx
   package: kh2_fifth
   method: copy
   source:
   - name: obj/P_EX100.a.us
 
 - name: obj/P_EX100_BTLF.a.us
+  multi:
+    - name: obj/P_EX100_BTLF.a.jp
+    - name: obj/P_EX100_BTLF.a.xx
   package: kh2_fifth
   method: copy
   source:
   - name: obj/P_EX100_BTLF.a.us
 
 - name: obj/P_EX100_MAGF.a.us
+  multi:
+    - name: obj/P_EX100_MAGF.a.jp
+    - name: obj/P_EX100_MAGF.a.xx
   package: kh2_fifth
   method: copy
   source:
   - name: obj/P_EX100_MAGF.a.us
 
+- name: obj/P_EX100_KH1F.a.us
+  multi:
+    - name: obj/P_EX100_KH1F.a.jp
+    - name: obj/P_EX100_KH1F.a.xx
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: obj/P_EX100_KH1F.a.us
+
 - name: obj/P_EX100_TRIF.a.us
+  multi:
+    - name: obj/P_EX100_TRIF.a.jp
+    - name: obj/P_EX100_TRIF.a.xx
   package: kh2_fifth
   method: copy
   source:
   - name: obj/P_EX100_TRIF.a.us
 
 - name: obj/P_EX100_ULTF.a.us
+  multi:
+    - name: obj/P_EX100_ULTF.a.jp
+    - name: obj/P_EX100_ULTF.a.xx
   package: kh2_fifth
   method: copy
   source:
   - name: obj/P_EX100_ULTF.a.us
 
 - name: obj/P_EX100_HTLF.a.us
+  multi:
+    - name: obj/P_EX100_HTLF.a.jp
+    - name: obj/P_EX100_HTLF.a.xx
   package: kh2_fifth
   method: copy
   source:
   - name: obj/P_EX100_HTLF.a.us
 
-- name: obj/P_EX100_KH1F.a.us
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: obj/P_EX100_KH1F.a.us
-
 - name: remastered/obj/P_EX100.a.us/-0.dds
+  multi:
+    - name: remastered/obj/P_EX100.a.jp/-0.dds
+    - name: remastered/obj/P_EX100.a.xx/-0.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100.a.us/-0.dds
 - name: remastered/obj/P_EX100.a.us/-1.dds
+  multi:
+    - name: remastered/obj/P_EX100.a.jp/-1.dds
+    - name: remastered/obj/P_EX100.a.xx/-1.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100.a.us/-1.dds
 - name: remastered/obj/P_EX100.a.us/-2.dds
+  multi:
+    - name: remastered/obj/P_EX100.a.jp/-2.dds
+    - name: remastered/obj/P_EX100.a.xx/-2.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100.a.us/-2.dds
 - name: remastered/obj/P_EX100.a.us/-3.dds
+  multi:
+    - name: remastered/obj/P_EX100.a.jp/-3.dds
+    - name: remastered/obj/P_EX100.a.xx/-3.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100.a.us/-3.dds
 - name: remastered/obj/P_EX100.a.us/-4.dds
+  multi:
+    - name: remastered/obj/P_EX100.a.jp/-4.dds
+    - name: remastered/obj/P_EX100.a.xx/-4.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100.a.us/-4.dds
 - name: remastered/obj/P_EX100.a.us/-5.dds
+  multi:
+    - name: remastered/obj/P_EX100.a.jp/-5.dds
+    - name: remastered/obj/P_EX100.a.xx/-5.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100.a.us/-5.dds
 - name: remastered/obj/P_EX100.a.us/-6.dds
+  multi:
+    - name: remastered/obj/P_EX100.a.jp/-6.dds
+    - name: remastered/obj/P_EX100.a.xx/-6.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100.a.us/-6.dds
 - name: remastered/obj/P_EX100.a.us/-7.dds
+  multi:
+    - name: remastered/obj/P_EX100.a.jp/-7.dds
+    - name: remastered/obj/P_EX100.a.xx/-7.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100.a.us/-7.dds
 - name: remastered/obj/P_EX100.a.us/-8.dds
+  multi:
+    - name: remastered/obj/P_EX100.a.jp/-8.dds
+    - name: remastered/obj/P_EX100.a.xx/-8.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100.a.us/-8.dds
+
 - name: remastered/obj/P_EX100_BTLF.a.us/-0.dds
+  multi:
+    - name: remastered/obj/P_EX100_BTLF.a.jp/-0.dds
+    - name: remastered/obj/P_EX100_BTLF.a.xx/-0.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_BTLF.a.us/-0.dds
 - name: remastered/obj/P_EX100_BTLF.a.us/-1.dds
+  multi:
+    - name: remastered/obj/P_EX100_BTLF.a.jp/-1.dds
+    - name: remastered/obj/P_EX100_BTLF.a.xx/-1.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_BTLF.a.us/-1.dds
 - name: remastered/obj/P_EX100_BTLF.a.us/-2.dds
+  multi:
+    - name: remastered/obj/P_EX100_BTLF.a.jp/-2.dds
+    - name: remastered/obj/P_EX100_BTLF.a.xx/-2.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_BTLF.a.us/-2.dds
 - name: remastered/obj/P_EX100_BTLF.a.us/-3.dds
+  multi:
+    - name: remastered/obj/P_EX100_BTLF.a.jp/-3.dds
+    - name: remastered/obj/P_EX100_BTLF.a.xx/-3.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_BTLF.a.us/-3.dds
 - name: remastered/obj/P_EX100_BTLF.a.us/-4.dds
+  multi:
+    - name: remastered/obj/P_EX100_BTLF.a.jp/-4.dds
+    - name: remastered/obj/P_EX100_BTLF.a.xx/-4.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_BTLF.a.us/-4.dds
-- name: remastered/obj/P_EX100_HTLF.a.us/-0.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_HTLF.a.us/-0.dds
-- name: remastered/obj/P_EX100_HTLF.a.us/-1.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_HTLF.a.us/-1.dds
-- name: remastered/obj/P_EX100_HTLF.a.us/-2.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_HTLF.a.us/-2.dds
-- name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
-- name: remastered/obj/P_EX100_KH1F.a.us/-0.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-0.dds
-- name: remastered/obj/P_EX100_KH1F.a.us/-1.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-1.dds
-- name: remastered/obj/P_EX100_KH1F.a.us/-2.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-2.dds
-- name: remastered/obj/P_EX100_KH1F.a.us/-3.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-3.dds
-- name: remastered/obj/P_EX100_KH1F.a.us/-4.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-4.dds
-- name: remastered/obj/P_EX100_KH1F.a.us/-5.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-5.dds
-- name: remastered/obj/P_EX100_KH1F.a.us/-6.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-6.dds
-- name: remastered/obj/P_EX100_KH1F.a.us/-7.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-7.dds
-- name: remastered/obj/P_EX100_KH1F.a.us/-8.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-8.dds
-- name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
+
 - name: remastered/obj/P_EX100_MAGF.a.us/-0.dds
+  multi:
+    - name: remastered/obj/P_EX100_MAGF.a.jp/-0.dds
+    - name: remastered/obj/P_EX100_MAGF.a.xx/-0.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.a.us/-0.dds
 - name: remastered/obj/P_EX100_MAGF.a.us/-1.dds
+  multi:
+    - name: remastered/obj/P_EX100_MAGF.a.jp/-1.dds
+    - name: remastered/obj/P_EX100_MAGF.a.xx/-1.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.a.us/-1.dds
 - name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+  multi:
+    - name: remastered/obj/P_EX100_MAGF.a.jp/-2.dds
+    - name: remastered/obj/P_EX100_MAGF.a.xx/-2.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+
+- name: remastered/obj/P_EX100_KH1F.a.us/-0.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-0.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-0.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-0.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-1.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-1.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-1.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-1.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-2.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-2.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-2.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-2.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-3.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-3.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-3.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-3.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-4.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-4.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-4.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-4.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-5.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-5.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-5.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-5.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-6.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-6.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-6.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-6.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-7.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-7.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-7.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-7.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-8.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-8.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-8.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-8.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-9.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-9.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
+
 - name: remastered/obj/P_EX100_TRIF.a.us/-0.dds
+  multi:
+    - name: remastered/obj/P_EX100_TRIF.a.jp/-0.dds
+    - name: remastered/obj/P_EX100_TRIF.a.xx/-0.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_TRIF.a.us/-0.dds
 - name: remastered/obj/P_EX100_TRIF.a.us/-1.dds
+  multi:
+    - name: remastered/obj/P_EX100_TRIF.a.jp/-1.dds
+    - name: remastered/obj/P_EX100_TRIF.a.xx/-1.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_TRIF.a.us/-1.dds
 - name: remastered/obj/P_EX100_TRIF.a.us/-2.dds
+  multi:
+    - name: remastered/obj/P_EX100_TRIF.a.jp/-2.dds
+    - name: remastered/obj/P_EX100_TRIF.a.xx/-2.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_TRIF.a.us/-2.dds
 - name: remastered/obj/P_EX100_TRIF.a.us/-3.dds
+  multi:
+    - name: remastered/obj/P_EX100_TRIF.a.jp/-3.dds
+    - name: remastered/obj/P_EX100_TRIF.a.xx/-3.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_TRIF.a.us/-3.dds
 - name: remastered/obj/P_EX100_TRIF.a.us/-4.dds
+  multi:
+    - name: remastered/obj/P_EX100_TRIF.a.jp/-4.dds
+    - name: remastered/obj/P_EX100_TRIF.a.xx/-4.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_TRIF.a.us/-4.dds
 - name: remastered/obj/P_EX100_TRIF.a.us/-5.dds
+  multi:
+    - name: remastered/obj/P_EX100_TRIF.a.jp/-5.dds
+    - name: remastered/obj/P_EX100_TRIF.a.xx/-5.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_TRIF.a.us/-5.dds
+  
 - name: remastered/obj/P_EX100_ULTF.a.us/-0.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-0.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-0.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.a.us/-0.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-1.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-1.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-1.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.a.us/-1.dds
-- name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-2.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-2.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-2.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.a.us/-2.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-3.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-3.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-3.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.a.us/-3.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-4.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-4.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-4.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.a.us/-4.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-5.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-5.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-5.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.a.us/-5.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-6.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-6.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-6.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.a.us/-6.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-7.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-7.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-7.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.a.us/-7.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-8.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-8.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-8.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.a.us/-8.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-9.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-9.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-9.dds
   package: kh2_fifth
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.a.us/-9.dds
+- name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-10.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-10.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
+
+- name: remastered/obj/P_EX100_HTLF.a.us/-0.dds
+  multi:
+    - name: remastered/obj/P_EX100_HTLF.a.jp/-0.dds
+    - name: remastered/obj/P_EX100_HTLF.a.xx/-0.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.a.us/-0.dds
+
+- name: remastered/obj/P_EX100_HTLF.a.us/-1.dds
+  multi:
+    - name: remastered/obj/P_EX100_HTLF.a.jp/-1.dds
+    - name: remastered/obj/P_EX100_HTLF.a.xx/-1.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.a.us/-1.dds
+- name: remastered/obj/P_EX100_HTLF.a.us/-2.dds
+  multi:
+    - name: remastered/obj/P_EX100_HTLF.a.jp/-2.dds
+    - name: remastered/obj/P_EX100_HTLF.a.xx/-2.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.a.us/-2.dds
+- name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
+  multi:
+    - name: remastered/obj/P_EX100_HTLF.a.jp/-3.dds
+    - name: remastered/obj/P_EX100_HTLF.a.xx/-3.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
