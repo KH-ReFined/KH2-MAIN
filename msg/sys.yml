@@ -367,31 +367,31 @@
 
 # === New Game Text === #
 
-- id: 0x4337
+- id: 0x6000
   en: "Play Roxas' Story?"
   gr: "Roxas' Geschichte spielen?"
   sp: "¿Quieres jugar la historia de Roxas?"
   fr: "Jouer l'histoire de Roxas?"
 
-- id: 0x4338
+- id: 0x6001
   en: "YES"
   gr: "JA"
   sp: "SÍ"
   fr: "OUI"
 
-- id: 0x4339
+- id: 0x6002
   en: "NO"
   gr: "NEIN"
   sp: "NO"
   fr: "NON"
 
-- id: 0x433A 
+- id: 0x6003
   en: "Play through Roxas' Story normally."
   gr: "Normal durch Roxas' Geschichte spielen."
   sp: "Juega la historia completa."
   fr: "Jouer l'histoire de Roxas normalement."
 
-- id: 0x433B
+- id: 0x6004
   en: "                Skip Roxas' Story entirely.
   
     {:color #FFFF0080}(You will miss important story elements if you do!)"
@@ -405,8 +405,17 @@
   
     {:color #FFFF0080}(Vous raterez des éléments importants de l'histoire si vous le faites!)"
 
-- id: 0x4381
-  en: "Roxas' Story"
-  gr: "Roxas' Geschichte"
-  sp: "Historia de Roxas"
-  fr: "L'histoire de Roxas"
+- id: 0x6005
+  en: "Autosaving Functionality"
+
+- id: 0x6006
+  en: "In-Game Dialog Language"
+
+- id: 0x6007
+  en: "In-Game Soundtrack"
+
+- id: 0x6008
+  en: "Heartless Color Palette"
+
+- id: 0x6009
+  en: "Controller Prompts"
