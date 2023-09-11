@@ -407,15 +407,20 @@
 
 - id: 0x6005
   en: "Autosaving Functionality"
+  gr: "Auto-Speicher Funktion"
 
 - id: 0x6006
   en: "In-Game Dialog Language"
+  gr: "Sprachausgabe"
 
 - id: 0x6007
   en: "In-Game Soundtrack"
+  gr: "Hintergrundmusik"
 
 - id: 0x6008
   en: "Heartless Color Palette"
+  gr: "Herzlosen-Palette"
 
 - id: 0x6009
   en: "Controller Prompts"
+  gr: "Steuerungseingaben"
