@@ -238,15 +238,15 @@
   fr: "Les sans-coeurs seront dans leur palette de couleur spéciale."
   
 - id: 0x01D6
-  en: "The game will only display 
-  
-     Mouse & Keyboard Prompts."
+  en: "The game will only display Controller Prompts."
   gr: "Das Spiel wird die Controllereingaben zeigen."
   sp: "El juego mostrará los controles de mando."
   fr: "Le jeu va afficher les contrôles manette à l'écran."
   
 - id: 0x01D7
-  en: "The game will only display the Keyboard Prompts."
+  en: "The game will only display 
+  
+     Mouse & Keyboard Prompts."
   gr: "Das Spiel wird die Tastatureingaben zeigen."
   sp: "El juego mostrará los controles de teclado."
   fr: "Le jeu va afficher les contrôles clavier à l'écran."
