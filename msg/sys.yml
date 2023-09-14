@@ -13,16 +13,16 @@
   fr: "Votre progression n'a pas pu être sauvegardée, kupo! Sauvegardez manuellement!"
 
 - id: 0x01BA
-  en: "Press{:icon dynamic-cross} to abort!"
+  en: "Press{:icon dynamic-cross} to cancel!"
   it: "Premi{:icon dynamic-cross} per cancellare!"
-  gr: "Drücke {:icon dynamic-cross} zum abbrechen!"
-  sp: "¡Pulsa {:icon dynamic-cross} para abortar!"
-  fr: "Appuyez sur {:icon dynamic-cross} pour annuler!"
+  gr: "Drücke{:icon dynamic-cross} zum abbrechen!"
+  sp: "¡Pulsa{:icon dynamic-cross} para cancelar!"
+  fr: "Appuyez sur{:icon dynamic-cross} pour annuler!"
 
 - id: 0x01BB
-  en: "Sequence aborted!"
-  gr: "Sequenz abgebrochen!"
-  sp: "¡Secuencia abortada!"
+  en: "Soft-Reset cancelled!"
+  gr: "Soft-Reset abgebrochen!"
+  sp: "¡Soft-Reset cancelado!"
   fr: "Séquence annulée!"
 
 # === Item Text === #
@@ -80,7 +80,7 @@
 # === Configuration Text === #
 
 - id: 0x01BC
-  en: "Autosave"
+  en: "Auto-Save"
   gr: "Auto-Speichern"
   sp: "Autoguardado"
   fr: "Sauvegarde auto."
@@ -140,7 +140,7 @@
   fr: "Japonais"
 
 - id: 0x01C6
-  en: "MIDI"
+  en: "Original"
   gr: "Original"
   sp: "Original"
   fr: "Original"
@@ -152,13 +152,13 @@
   fr: "Remasterisé"
 
 - id: 0x01C8
-  en: "Classic"
+  en: "Original"
   gr: "Klassisch"
   sp: "Clásico"
   fr: "Classique"
   
 - id: 0x01C9
-  en: "Special"
+  en: "Final Mix"
   gr: "Speziell"
   sp: "Especial"
   fr: "Spécial"
@@ -212,10 +212,18 @@
   fr: "Le doublage sera en Japonais."
     
 - id: 0x01D2
-  en: "The background music will be MIDI Synthesized."
-  gr: "Die Hintergrundmusik wird durch MIDI abgespielt."
-  sp: "La música de ambiente será la original (MIDI)."
-  fr: "La musique de fond sera en MIDI."
+  en: "The background music will be the
+  
+          original Playstation® 2 Release."
+  gr: "Die Hintergrundmusik wird aus dem
+      
+        originalen Playstation® 2 Release sein."
+  sp: "La música de ambiente será la de la versión 
+        
+        original para Playstation® 2."
+  fr: "La musique sera remplacée par la musique de la 
+          
+       version Playstation® 2 originale."
   
 - id: 0x01D3
   en: "The background music will be remastered."
@@ -224,28 +232,34 @@
   fr: "La musique de fond sera remasterisée."
   
 - id: 0x01D4
-  en: "The Heartless will use the Classic Palette."
-  gr: "Die Herzlosen nehmen die klassischen Farben an."
+  en: "The Heartless will use the Original Palette."
+  gr: "Die Herzlosen nehmen die originalen Farben an."
   sp: "Los Sincorazón tendrán el aspecto clásico."
-  fr: "Les sans-coeurs seront dans leur palette de couleur originale."
+  fr: "Les sans coeurs utiliseront leurs palette de couleur d'origine."
   
 - id: 0x01D5
-  en: "The Heartless will use the Special Palette."
-  gr: "Die Herzlosen nehmen die speziellen Farben an."
-  sp: "Los Sincorazón tendrán el aspecto especial."
-  fr: "Les sans-coeurs seront dans leur palette de couleur spéciale."
+  en: "The Heartless will use the Final Mix Palette."
+  gr: "Die Herzlosen nehmen die Final Mix Farben an."
+  sp: "Los Sincorazón tendrán el aspecto de la versión Final Mix."
+  fr: "Les sans coeurs utiliseront leurs palette de couleur du Final Mix."
   
 - id: 0x01D6
-  en: "The game will display the Controller Prompts."
-  gr: "Das Spiel wird die Controllereingaben zeigen."
-  sp: "El juego mostrará los controles de mando."
-  fr: "Le jeu va afficher les contrôles manette à l'écran."
+  en: "The game will only display Controller Prompts."
+  gr: "Das Spiel wird nur die Controller-Eingaben anzeigen."
+  sp: "El juego solo mostrará los iconos de mando."
+  fr: "Le jeu n'affichera que les commandes pour Manette."
   
 - id: 0x01D7
-  en: "The game will display the Keyboard Prompts."
-  gr: "Das Spiel wird die Tastatureingaben zeigen."
-  sp: "El juego mostrará los controles de teclado."
-  fr: "Le jeu va afficher les contrôles clavier à l'écran."
+  en: "The game will only display 
+  
+     Mouse & Keyboard Prompts."
+  gr: "Das Spiel wird nur die
+    
+     Maus & Tastatur-Eingaben zeigen."
+  sp: "El juego solo mostrará los iconos de
+      
+            teclado y ratón."
+  fr: "Le jeu n'affichera que les commandes pour Clavier/Souris"
   
 - id: 0x01D8
   en: "The game will adjust the prompts automatically."
@@ -368,10 +382,10 @@
 # === New Game Text === #
 
 - id: 0x6000
-  en: "Play Roxas' Story?"
-  gr: "Roxas' Geschichte spielen?"
-  sp: "¿Quieres jugar la historia de Roxas?"
-  fr: "Jouer l'histoire de Roxas?"
+  en: "Play through the prologue?"
+  gr: "Durch den Prolog spielen?"
+  sp: "¿Jugar el prólogo?"
+  fr: "Jouer le prologue?"
 
 - id: 0x6001
   en: "YES"
@@ -386,22 +400,22 @@
   fr: "NON"
 
 - id: 0x6003
-  en: "Play through Roxas' Story normally."
-  gr: "Normal durch Roxas' Geschichte spielen."
-  sp: "Juega la historia completa."
-  fr: "Jouer l'histoire de Roxas normalement."
+  en: "Play through the prologue as intended!"
+  gr: "Spiele durch den Prolog wie gewollt!"
+  sp: "¡Juega la sección inicial del juego con normalidad!"
+  fr: "Jouer le prologue de manière normale!"
 
 - id: 0x6004
-  en: "                Skip Roxas' Story entirely.
+  en: "                  Skip the prologue entirely.
   
-    {:color #FFFF0080}(You will miss important story elements if you do!)"
+    {:color #FFFF0080} (You will miss important story elements if you do!)"
   gr: "                Überspringe Roxas' Geschichte komplett.
-  
+
     {:color #FFFF0080}(Du wirst wichtige Elemente der Geschichte verpassen, wenn du es überspringst!)"
-  sp: "                Saltar la historia de Roxas.
+  sp: "                Salta la sección inicial del juego al completo.
   
     {:color #FFFF0080}(¡Te perderás elementos importantes de la historia si lo haces!)"
-  fr: "                Passer l'histoire de Roxas entièrement.
+  fr: "                Passer le prologue entièrement..
   
     {:color #FFFF0080}(Vous raterez des éléments importants de l'histoire si vous le faites!)"
 
