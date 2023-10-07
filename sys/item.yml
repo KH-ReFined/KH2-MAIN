@@ -91,7 +91,7 @@ Items:
   Icon2: 206
 - Id: 248
   Type: Ability
-  Flag0: 1
+  Flag0: 0
   Flag1: 19
   Rank: C
   StatEntry: 1792
