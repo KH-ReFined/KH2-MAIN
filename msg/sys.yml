@@ -25,7 +25,7 @@
   en: "Soft-Reset cancelled!"
   gr: "Soft-Reset abgebrochen!"
   sp: "¡Soft-Reset cancelado!"
-  fr: "Soft-Reset annulée!"
+  fr: "Séquence annulée!"
   it: "Soft-Reset annullato!"
 
 # === Item Text === #
@@ -51,17 +51,17 @@
     utilisez le menu de Fusion pour utiliser
     
     la forme Suprême."
-  it: "Sfruttando il vero potere del Keyblade,
+  it: "Grazie al vero potere del Keyblade,
     
-    utilizza il comando del Turbo per entrare
+    potrai usare il comando Turbo per effettuare
     
-    in Fusione Finale."
+    la Fusione Finale."
     
 - id: 0x064A
   en: "Anti Form"
   gr: "Anti-Form"
   sp: "Anti-Forma"
-  fr: "Non-Forme"
+  fr: "Non-forme"
   it: "Anti-Fusione"
 
 - id: 0x064B
@@ -85,11 +85,11 @@
     utilisez le menu de Fusion pour utiliser
     
     la Non-forme."
-  it: "Sfruttando l'oscurità nel cuore di Sora,
-      
-    utilizza il comando del Turbo per entrare
+  it: "Grazie all'oscurità nel cuore di Sora,
     
-    in Anti-Fusione."
+    potrai usare il comando Turbo per effettuare
+    
+    l'Anti-Fusione."
 
 # === Configuration Text === #
 
@@ -97,36 +97,36 @@
   en: "Auto-Save"
   gr: "Auto-Speichern"
   sp: "Autoguardado"
-  fr: "Sauvegarde Auto"
-  it: "Salvataggio Automatico"
+  fr: "Sauvegarde auto."
+  it: "Salvataggio automatico"
 
 - id: 0x01BD
   en: "Audio Language"
   gr: "Sprachausgabe"
   sp: "Idioma del Audio"
-  fr: "Langue Audio"
-  it: "Lingua Audio"
+  fr: "Langue audio"
+  it: "Lingua doppiaggio"
 
 - id: 0x01BE
   en: "Background Music"
   gr: "Hintergrundmusik"
   sp: "Música de Ambiente"
-  fr: "Musique de Fond"
-  it: "Colonna Sonora"
+  fr: "Musique de fond"
+  it: "Colonna sonora"
 
 - id: 0x01BF
   en: "Heartless Palette"
   gr: "Herzlosen-Palette"
   sp: "Aspecto de los Sincorazón"
-  fr: "Visuels des Sans-Coeurs"
+  fr: "Visuels des sans-coeurs"
   it: "Aspetto degli Heartless"
 
 - id: 0x01C0
-  en: "Controller Prompts"
+  en: "Button Prompts"
   gr: "Steuerungseingaben"
   sp: "Indicaciones de los Controles"
-  fr: "Affichage des Contrôles"
-  it: "Icone dei Comandi"
+  fr: "Affichage des contrôles"
+  it: "Icone dei comandi"
 
 - id: 0x01C1
   en: "Informative"
@@ -189,7 +189,7 @@
   gr: "Speziell"
   sp: "Especial"
   fr: "Spécial"
-  it: "Speciale"
+  it: "Final Mix"
 
 - id: 0x01CA
   en: "Controller"
@@ -217,14 +217,18 @@
   gr: "Auto-Speichern erfolgt mit einem Indikator."
   sp: "El Autoguardado se realizará con un aviso."
   fr: "La sauvegarde automatique sera effectuée avec un indicateur."
-  it: "Il salvataggio automatico sarà effettuato mostrando un avviso."
+  it: "Il salvataggio automatico sarà effettuato
+  
+        mostrando un avviso."
 
 - id: 0x01CE
   en: "Autosaving will be done silently."
   gr: "Auto-Speichern erfolgt unbemerkt."
   sp: "El Autoguardado se realizará silenciosamente."
   fr: "La sauvegarde automatique sera effectuée silencieusement."
-  it: "Il salvataggio automatico sarà effettuato silenziosamente."
+  it: "Il salvataggio automatico sarà 
+  
+        effettuato silenziosamente."
 
 - id: 0x01CF
   en: "Autosaving will be disabled."
@@ -250,19 +254,19 @@
 - id: 0x01D2
   en: "The background music will be the
   
-    original Playstation® 2 Release."
+          original Playstation® 2 Release."
   gr: "Die Hintergrundmusik wird aus dem
-  
-    originalen Playstation® 2 Release sein."
-  sp: "La música de ambiente será la de la versión
-  
-    original para Playstation® 2."
-  fr: "La musique sera remplacée par la musique de la
-  
-    version Playstation® 2 originale."
+      
+        originalen Playstation® 2 Release sein."
+  sp: "La música de ambiente será la de la versión 
+        
+        original para Playstation® 2."
+  fr: "La musique sera remplacée par la musique de la 
+          
+       version Playstation® 2 originale."
   it: "La colonna sonora sarà quella della
   
-    versione originale Playstation® 2."
+        versione originale Playstation® 2."
   
 - id: 0x01D3
   en: "The background music will be remastered."
@@ -290,31 +294,31 @@
   gr: "Das Spiel wird nur die Controller-Eingaben anzeigen."
   sp: "El juego solo mostrará los iconos de mando."
   fr: "Le jeu n'affichera que les commandes pour Manette."
-  it: "Il gioco mostrerà a schermo i comandi del Controller."
+  it: "Il gioco mostrerà i comandi del controller."
   
 - id: 0x01D7
-  en: "The game will only display
+  en: "The game will only display 
   
-    Mouse & Keyboard Prompts."
+     Mouse & Keyboard Prompts."
   gr: "Das Spiel wird nur die
-  
-    Maus & Tastatur-Eingaben zeigen."
-  sp: "El juego solo mostrará los iconos
-  
-    de Teclado y Ratón."
-  fr: "Le jeu n'affichera que les
-  
-    commandes pour Clavier/Souris"
-  it: "Il gioco mostrerà a schermo i
-  
-    comandi di Mouse e Tastiera."
     
+     Maus & Tastatur-Eingaben zeigen."
+  sp: "El juego solo mostrará los iconos de
+      
+            teclado y ratón."
+  fr: "Le jeu n'affichera que les commandes pour Clavier/Souris"
+  it: "Il gioco mostrerà i comandi
+    
+        di mouse e tastiera."
+  
 - id: 0x01D8
   en: "The game will adjust the prompts automatically."
   gr: "Das Spiel wird die Eingaben automatisch anpassen."
   sp: "El juego ajustará automáticamente las indicaciones de los controles."
   fr: "Le jeu va afficher les contrôles à l'écran selon votre matériel."
-  it: "Il gioco sceglierà automaticamente la tipologia di comandi da mostrare a schermo."
+  it: "Il gioco sceglierà automaticamente la 
+  
+        tipologia di comandi da mostrare."
 
 - id: 0x01D9
   en: "※※※※※※※※※※※※※※※※"
@@ -348,15 +352,15 @@
   en: "Enable the Achievement Engine."
   gr: "Aktiviere die Erfolge-Engine."
   sp: "Activa el Sistema de Logros."
-  fr: "Activer le Système de Succès"
-  it: "Attiva il Sistema degli Obiettivi."
+  fr: "Activer le système de Succès"
+  it: "Attiva gli obiettivi."
   
 - id: 0x4D70
   en: "Disable the Achievement Engine."
   gr: "Deaktiviere die Erfolge-Engine."
   sp: "Desactiva el Sistema de Logros."
   fr: "Désactiver le système de Succès"
-  it: "Disattiva il Sistema degli Obiettivi."
+  it: "Disattiva gli obiettivi."
 
 # === Ability Text === #
 
@@ -368,7 +372,7 @@
   it: "Incontri Plus"
 
 - id: 0x3788
-  en: "Increases the rate in which enemies appear,
+  en: "Increases the rate in which enemies appear, 
   
     including rarer enemies."
   gr: "Erhöht die Wahrscheinlichkeit, dass Gegner, inklusive
@@ -377,10 +381,10 @@
   sp: "Aumenta las probabilidades de encontrarse con enemigos,
   
     también aquellos que son raros."
-  fr: "Augmente le nombre d'ennemis,
+  fr: "Augmente le nombre d'ennemis, 
   
     mais aussi des ennemis plus rares."
-  it: "Aumenta la frequenza di incontri con i nemici,
+  it: "Aumenta la frequenza di incontri con i nemici, 
   
     inclusi quelli rari."
 
@@ -454,21 +458,21 @@
   gr: "Durch den Prolog spielen?"
   sp: "¿Jugar el prólogo?"
   fr: "Jouer le prologue?"
-  it: "Giocare il prologo?"
+  it: "Vuoi giocare il prologo?"
 
 - id: 0x6001
   en: "YES"
   gr: "JA"
   sp: "SÍ"
   fr: "OUI"
-  it: "SÌ"
+  it: "Sì"
 
 - id: 0x6002
   en: "NO"
   gr: "NEIN"
   sp: "NO"
   fr: "NON"
-  it: "NO"
+  it: "No"
 
 - id: 0x6003
   en: "Play through the prologue as intended!"
@@ -478,7 +482,7 @@
   it: "Gioca il prologo come previsto normalmente!"
 
 - id: 0x6004
-  en: "                Skip the prologue entirely.
+  en: "                  Skip the prologue entirely.
   
     {:color #FFFF0080} (You will miss important story elements if you do!)"
   gr: "                Überspringe Roxas' Geschichte komplett.
@@ -492,39 +496,39 @@
     {:color #FFFF0080}(Vous raterez des éléments importants de l'histoire si vous le faites!)"
   it: "                Salta interamente il prologo.
   
-    {:color #FFFF0080}(Procedendo perderai elementi di trama importanti!)"
-
+    {:color #FFFF0080}Procedendo perderai elementi di trama importanti!"
+    
 - id: 0x6005
   en: "Autosaving Functionality"
   gr: "Auto-Speicher Funktion"
-  sp: "Autoguardado"
-  fr: "Sauvegarde Auto"
-  it: "Funzione di Auto-Salvataggio"
+  sp: "MISSING"
+  fr: "MISSING"
+  it: "Scegli la modalità di salvataggio automatico."
 
 - id: 0x6006
   en: "In-Game Dialog Language"
   gr: "Sprachausgabe"
-  sp: "Idioma del Audio"
-  fr: "Langue Audio"
-  it: "Lingua del Doppiaggio"
+  sp: "MISSING"
+  fr: "MISSING"
+  it: "Scegli la lingua del doppiaggio."
 
 - id: 0x6007
   en: "In-Game Soundtrack"
   gr: "Hintergrundmusik"
-  sp: "Música de Ambiente"
-  fr: "Musique de Fond"
-  it: "Colonna Sonora"
+  sp: "MISSING"
+  fr: "MISSING"
+  it: "Scegli la tipologia di colonna sonora."
 
 - id: 0x6008
   en: "Heartless Color Palette"
   gr: "Herzlosen-Palette"
-  sp: "Aspecto de los Sincorazón"
-  fr: "Visuels des Sans-Coeurs"
-  it: "Aspetto degli Heartless"
+  sp: "MISSING"
+  fr: "MISSING"
+  it: "Scegli l'aspetto degli Heartless."
 
 - id: 0x6009
-  en: "Controller Prompts"
+  en: "Button Prompts"
   gr: "Steuerungseingaben"
-  sp: "Indicaciones de los Controles"
-  fr: "Affichage des Contrôles"
-  it: "Icone dei Comandi"
+  sp: "MISSING"
+  fr: "MISSING"
+  it: "Scegli le icone dei comandi da mostrare."
