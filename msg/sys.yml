@@ -5,25 +5,28 @@
   gr: "Dein Fortschritt ist gespeichert, kupo!"
   sp: "¡Tu progreso está a salvo, kupó!"
   fr: "Votre progression a été sauvegardée, kupo!"
+  it: "Il tuo progresso è al sicuro, kupò!"
 
 - id: 0x4D6D
   en: "Could not save your progress, kupo! Please save it manually!"
   gr: "Konnte deinen Fortschritt nicht speichern, kupo! Bitte speichere ihn manuell!"
   sp: "¡No se pudo guardar tu progreso, kupó! ¡Por favor, guarda partida manualmente!"
   fr: "Votre progression n'a pas pu être sauvegardée, kupo! Sauvegardez manuellement!"
+  it: "Il tuo progresso non può essere salvato, kupò! Si prega di salvare manualmente!"
 
 - id: 0x01BA
   en: "Press{:icon dynamic-cross} to cancel!"
-  it: "Premi{:icon dynamic-cross} per cancellare!"
   gr: "Drücke{:icon dynamic-cross} zum abbrechen!"
   sp: "¡Pulsa{:icon dynamic-cross} para cancelar!"
   fr: "Appuyez sur{:icon dynamic-cross} pour annuler!"
+  it: "Premi{:icon dynamic-cross} per annullare!"
 
 - id: 0x01BB
   en: "Soft-Reset cancelled!"
   gr: "Soft-Reset abgebrochen!"
   sp: "¡Soft-Reset cancelado!"
-  fr: "Séquence annulée!"
+  fr: "Soft-Reset annulée!"
+  it: "Soft-Reset annullato!"
 
 # === Item Text === #
 
@@ -48,12 +51,18 @@
     utilisez le menu de Fusion pour utiliser
     
     la forme Suprême."
+  it: "Sfruttando il vero potere del Keyblade,
+    
+    utilizza il comando del Turbo per entrare
+    
+    in Fusione Finale."
     
 - id: 0x064A
   en: "Anti Form"
   gr: "Anti-Form"
   sp: "Anti-Forma"
-  fr: "Non-forme"
+  fr: "Non-Forme"
+  it: "Anti-Fusione"
 
 - id: 0x064B
   en: "Using the darkness in Sora's heart,
@@ -76,6 +85,11 @@
     utilisez le menu de Fusion pour utiliser
     
     la Non-forme."
+    it: "Sfruttando l'oscurità nel cuore di Sora,
+      
+    utilizza il comando del Turbo per entrare
+    
+    in Anti-Fusione."
 
 # === Configuration Text === #
 
@@ -83,133 +97,155 @@
   en: "Auto-Save"
   gr: "Auto-Speichern"
   sp: "Autoguardado"
-  fr: "Sauvegarde auto."
+  fr: "Sauvegarde Auto"
+  it: "Salvataggio Automatico"
 
 - id: 0x01BD
   en: "Audio Language"
   gr: "Sprachausgabe"
   sp: "Idioma del Audio"
-  fr: "Langue audio"
+  fr: "Langue Audio"
+  it: "Lingua Audio"
 
 - id: 0x01BE
   en: "Background Music"
   gr: "Hintergrundmusik"
   sp: "Música de Ambiente"
-  fr: "Musique de fond"
+  fr: "Musique de Fond"
+  it: "Colonna Sonora"
 
 - id: 0x01BF
   en: "Heartless Palette"
   gr: "Herzlosen-Palette"
   sp: "Aspecto de los Sincorazón"
-  fr: "Visuels des sans-coeurs"
+  fr: "Visuels des Sans-Coeurs"
+  it: "Aspetto degli Heartless"
 
 - id: 0x01C0
   en: "Controller Prompts"
   gr: "Steuerungseingaben"
   sp: "Indicaciones de los Controles"
-  fr: "Affichage des contrôles"
+  fr: "Affichage des Contrôles"
+  it: "Icone dei Comandi"
 
 - id: 0x01C1
   en: "Informative"
   gr: "Informativ"
   sp: "Informativo"
   fr: "Informatif"
+  it: "Informativo"
 
 - id: 0x01C2
   en: "Silent"
   gr: "Unbemerkt"
   sp: "Silencioso"
   fr: "Silencieux"
+  it: "Silenzioso"
 
 - id: 0x01C3
   en: "Disabled"
   gr: "Deaktiviert"
   sp: "Desactivado"
   fr: "Désactivé"
+  it: "Disattivato"
 
 - id: 0x01C4
   en: "English"
   gr: "Englisch"
   sp: "Inglés"
   fr: "Anglais"
+  it: "Inglese"
 
 - id: 0x01C5
   en: "Japanese"
   gr: "Japanisch"
   sp: "Japonés"
   fr: "Japonais"
+  it: "Giapponese"
 
 - id: 0x01C6
   en: "Original"
   gr: "Original"
   sp: "Original"
   fr: "Original"
+  it: "Originale"
   
 - id: 0x01C7
   en: "Remastered"
   gr: "Neuauflage"
   sp: "Remasterizada"
   fr: "Remasterisé"
+  it: "Rimasterizzata"
 
 - id: 0x01C8
   en: "Original"
   gr: "Klassisch"
   sp: "Clásico"
   fr: "Classique"
+  it: "Classico"
   
 - id: 0x01C9
   en: "Final Mix"
   gr: "Speziell"
   sp: "Especial"
   fr: "Spécial"
+  it: "Speciale"
 
 - id: 0x01CA
   en: "Controller"
   gr: "Controller"
   sp: "Mando"
   fr: "Manette"
+  it: "Controller"
 
 - id: 0x01CB
   en: "Keyboard"
   gr: "Tastatur"
   sp: "Teclado"
   fr: "Clavier"
+  it: "Tastiera"
 
 - id: 0x01CC
   en: "Automatic"
   gr: "Automatisch"
   sp: "Automáticas"
   fr: "Automatique"
+  it: "Automatico"
 
 - id: 0x01CD
   en: "Autosaving will be done with an indicator."
   gr: "Auto-Speichern erfolgt mit einem Indikator."
   sp: "El Autoguardado se realizará con un aviso."
   fr: "La sauvegarde automatique sera effectuée avec un indicateur."
+  it: "Il salvataggio automatico sarà effettuato mostrando un avviso."
 
 - id: 0x01CE
   en: "Autosaving will be done silently."
   gr: "Auto-Speichern erfolgt unbemerkt."
   sp: "El Autoguardado se realizará silenciosamente."
   fr: "La sauvegarde automatique sera effectuée silencieusement."
+  it: "Il salvataggio automatico sarà effettuato silenziosamente."
 
 - id: 0x01CF
   en: "Autosaving will be disabled."
   gr: "Auto-Speichern ist deaktiviert."
   sp: "El Autoguardado estará desactivado."
   fr: "La sauvegarde automatique sera désactivée."
+  it: "Il salvataggio automatico sarà disattivato."
 
 - id: 0x01D0
   en: "The audio will be in English."
   gr: "Die Sprachausgabe wird in Englisch sein."
   sp: "El audio estará en Inglés."
   fr: "Le doublage sera en Anglais."
+  it: "La lingua del doppiaggio sarà in Inglese."
 
 - id: 0x01D1
   en: "The audio will be in Japanese."
   gr: "Die Sprachausgabe wird in Japanisch sein."
   sp: "El audio estará en Japonés."
   fr: "Le doublage sera en Japonais."
+  it: "La lingua del doppiaggio sarà in Giapponese."
     
 - id: 0x01D2
   en: "The background music will be the
@@ -224,30 +260,37 @@
   fr: "La musique sera remplacée par la musique de la 
           
        version Playstation® 2 originale."
+  it: "La colonna sonora sarà quella della
+  
+        versione originale Playstation® 2."
   
 - id: 0x01D3
   en: "The background music will be remastered."
   gr: "Die Hintergrundmusik wird durch die Neuauflage abgespielt."
   sp: "La música de ambiente será la remasterizada."
   fr: "La musique de fond sera remasterisée."
+  it: "La colonna sonora sarà quella rimasterizzata."
   
 - id: 0x01D4
   en: "The Heartless will use the Original Palette."
   gr: "Die Herzlosen nehmen die originalen Farben an."
   sp: "Los Sincorazón tendrán el aspecto clásico."
   fr: "Les sans coeurs utiliseront leurs palette de couleur d'origine."
+  it: "Gli Heartless avranno l'aspetto classico."
   
 - id: 0x01D5
   en: "The Heartless will use the Final Mix Palette."
   gr: "Die Herzlosen nehmen die Final Mix Farben an."
   sp: "Los Sincorazón tendrán el aspecto de la versión Final Mix."
   fr: "Les sans coeurs utiliseront leurs palette de couleur du Final Mix."
+  it: "Gli Heartless avranno l'aspetto della versione Final Mix."
   
 - id: 0x01D6
   en: "The game will only display Controller Prompts."
   gr: "Das Spiel wird nur die Controller-Eingaben anzeigen."
   sp: "El juego solo mostrará los iconos de mando."
   fr: "Le jeu n'affichera que les commandes pour Manette."
+  it: "Il gioco mostrerà a schermo i comandi del Controller."
   
 - id: 0x01D7
   en: "The game will only display 
@@ -256,52 +299,64 @@
   gr: "Das Spiel wird nur die
     
      Maus & Tastatur-Eingaben zeigen."
-  sp: "El juego solo mostrará los iconos de
+  sp: "El juego solo mostrará los iconos
       
-            teclado y ratón."
-  fr: "Le jeu n'affichera que les commandes pour Clavier/Souris"
+        de Teclado y Ratón."
+  fr: "Le jeu n'affichera que les 
+  
+        commandes pour Clavier/Souris"
+  it: "Il gioco mostrerà a schermo i
+  
+        comandi di Mouse & Tastiera."
   
 - id: 0x01D8
   en: "The game will adjust the prompts automatically."
   gr: "Das Spiel wird die Eingaben automatisch anpassen."
   sp: "El juego ajustará automáticamente las indicaciones de los controles."
   fr: "Le jeu va afficher les contrôles à l'écran selon votre matériel."
+  it: "Il gioco sceglierà automaticamente la tipologia di comandi da mostrare a schermo."
 
 - id: 0x01D9
   en: "※※※※※※※※※※※※※※※※"
   gr: "※※※※※※※※※※※※※※※※"
   sp: "※※※※※※※※※※※※※※※※"
   fr: "※※※※※※※※※※※※※※※※"
+  it: "※※※※※※※※※※※※※※※※"
 
 - id: 0x01DA
   en: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
   gr: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
   sp: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
   fr: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
+  it: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
 
 - id: 0x01DE
   en: "Prepare & Retry"
   gr: "Vorbereiten und Neu Versuchen"
   sp: "Prepararse y Reintentar"
   fr: "Se Préparer et Réessayer"
+  it: "Preparati & Riprova"
 
 - id: 0x4D6E
   en: "Achievements"
   gr: "Erfolge"
   sp: "Logros"
   fr: "Succès"
+  it: "Obiettivi"
 
 - id: 0x4D6F
   en: "Enable the Achievement Engine."
   gr: "Aktiviere die Erfolge-Engine."
   sp: "Activa el Sistema de Logros."
-  fr: "Activer le système de Succès"
+  fr: "Activer le Système de Succès"
+  it: "Attiva il Sistema degli Obiettivi."
   
 - id: 0x4D70
   en: "Disable the Achievement Engine."
   gr: "Deaktiviere die Erfolge-Engine."
   sp: "Desactiva el Sistema de Logros."
   fr: "Désactiver le système de Succès"
+  it: "Disattiva il Sistema degli Obiettivi."
 
 # === Ability Text === #
 
@@ -310,6 +365,7 @@
   gr: "Gefecht +"
   sp: "Más Encuentros"
   fr: "Rencontre +"
+  it: "Incontri Plus"
 
 - id: 0x3788
   en: "Increases the rate in which enemies appear, 
@@ -324,60 +380,72 @@
   fr: "Augmente le nombre d'ennemis, 
   
     mais aussi des ennemis plus rares."
+  it: "Aumenta la frequenza di incontri con i nemici, 
+  
+    inclusi quelli rari."
 
 - id: 0x4E83
   en: "Dodge Roll LV1"
   gr: "Ausweichrolle LV1"
   sp: "Voltereta NV1"
   fr: "Roulade LV1"
+  it: "Destrezza I"
 
 - id: 0x4E85
   en: "Dodge Roll LV2"
   gr: "Ausweichrolle LV2"
   sp: "Voltereta NV2"
   fr: "Roulade LV2"
+  it: "Destrezza II"
 
 - id: 0x4E87
   en: "Dodge Roll LV3"
   gr: "Ausweichrolle LV3"
   sp: "Voltereta NV3"
   fr: "Roulade LV3"
+  it: "Destrezza III"
 
 - id: 0x4E8D
   en: "Sonic Blade"
   gr: "Limitklatsche"
   sp: "Estocada Veloz"
   fr: "Aquilon"
+  it: "Potenza Sonica"
 
 - id: 0x4EFE
   en: "Sonic Blade"
   gr: "Limitklatsche"
   sp: "Estocada Veloz"
   fr: "Aquilon"
+  it: "Potenza Sonica"
 
 - id: 0x4E8F
   en: "Ars Arcanum"
   gr: "Amok-Arkana"
   sp: "Último Arcano"
   fr: "Arcanes"
+  it: "Ultimo Arcanum"
 
 - id: 0x4F01
   en: "Ars Arcanum"
   gr: "Amok-Arkana"
   sp: "Último Arcano"
   fr: "Arcanes"
+  it: "Ultimo Arcanum"
 
 - id: 0x4E93
   en: "Ragnarok"
   gr: "Ragnarök"
   sp: "Ragnarok"
   fr: "Ragnarok"
+  it: "Ragnarok"
 
 - id: 0x4EF6
   en: "Ragnarok"
   gr: "Ragnarök"
   sp: "Ragnarok"
   fr: "Ragnarok"
+  it: "Ragnarok"
 
 # === New Game Text === #
 
@@ -386,24 +454,28 @@
   gr: "Durch den Prolog spielen?"
   sp: "¿Jugar el prólogo?"
   fr: "Jouer le prologue?"
+  it: "Giocare il prologo?"
 
 - id: 0x6001
   en: "YES"
   gr: "JA"
   sp: "SÍ"
   fr: "OUI"
+  it: "SÌ"
 
 - id: 0x6002
   en: "NO"
   gr: "NEIN"
   sp: "NO"
   fr: "NON"
+  it: "NO"
 
 - id: 0x6003
   en: "Play through the prologue as intended!"
   gr: "Spiele durch den Prolog wie gewollt!"
   sp: "¡Juega la sección inicial del juego con normalidad!"
   fr: "Jouer le prologue de manière normale!"
+  it: "Gioca il prologo come previsto normalmente!"
 
 - id: 0x6004
   en: "                  Skip the prologue entirely.
@@ -418,23 +490,41 @@
   fr: "                Passer le prologue entièrement..
   
     {:color #FFFF0080}(Vous raterez des éléments importants de l'histoire si vous le faites!)"
+  it: "                 Salta interamente il prologo.
+  
+    {:color #FFFF0080}(Procedendo perderai elementi di trama importanti!)"
 
 - id: 0x6005
   en: "Autosaving Functionality"
   gr: "Auto-Speicher Funktion"
+  sp: "Autoguardado"
+  fr: "Sauvegarde Auto"
+  it: "Funzione di Auto-Salvataggio"
 
 - id: 0x6006
   en: "In-Game Dialog Language"
   gr: "Sprachausgabe"
+  sp: "Idioma del Audio"
+  fr: "Langue Audio"
+  it: "Lingua del Doppiaggio"
 
 - id: 0x6007
   en: "In-Game Soundtrack"
   gr: "Hintergrundmusik"
+  sp: "Música de Ambiente"
+  fr: "Musique de Fond"
+  it: "Colonna Sonora"
 
 - id: 0x6008
   en: "Heartless Color Palette"
   gr: "Herzlosen-Palette"
+  sp: "Aspecto de los Sincorazón"
+  fr: "Visuels des Sans-Coeurs"
+  it: "Aspetto degli Heartless"
 
 - id: 0x6009
   en: "Controller Prompts"
   gr: "Steuerungseingaben"
+  sp: "Indicaciones de los Controles"
+  fr: "Affichage des Contrôles"
+  it: "Icone dei Comandi"
