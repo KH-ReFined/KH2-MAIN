@@ -307,7 +307,7 @@
         commandes pour Clavier/Souris"
   it: "Il gioco mostrerà a schermo i
   
-        comandi di Mouse & Tastiera."
+        comandi di Mouse e Tastiera."
   
 - id: 0x01D8
   en: "The game will adjust the prompts automatically."
@@ -335,7 +335,7 @@
   gr: "Vorbereiten und Neu Versuchen"
   sp: "Prepararse y Reintentar"
   fr: "Se Préparer et Réessayer"
-  it: "Preparati & Riprova"
+  it: "Preparati e riprova"
 
 - id: 0x4D6E
   en: "Achievements"
