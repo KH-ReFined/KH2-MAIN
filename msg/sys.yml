@@ -250,19 +250,19 @@
 - id: 0x01D2
   en: "The background music will be the
   
-          original Playstation® 2 Release."
+    original Playstation® 2 Release."
   gr: "Die Hintergrundmusik wird aus dem
-      
-        originalen Playstation® 2 Release sein."
-  sp: "La música de ambiente será la de la versión 
-        
-        original para Playstation® 2."
-  fr: "La musique sera remplacée par la musique de la 
-          
-       version Playstation® 2 originale."
+  
+    originalen Playstation® 2 Release sein."
+  sp: "La música de ambiente será la de la versión
+  
+    original para Playstation® 2."
+  fr: "La musique sera remplacée par la musique de la
+  
+    version Playstation® 2 originale."
   it: "La colonna sonora sarà quella della
   
-        versione originale Playstation® 2."
+    versione originale Playstation® 2."
   
 - id: 0x01D3
   en: "The background music will be remastered."
@@ -293,22 +293,22 @@
   it: "Il gioco mostrerà a schermo i comandi del Controller."
   
 - id: 0x01D7
-  en: "The game will only display 
+  en: "The game will only display
   
-     Mouse & Keyboard Prompts."
+    Mouse & Keyboard Prompts."
   gr: "Das Spiel wird nur die
-    
-     Maus & Tastatur-Eingaben zeigen."
-  sp: "El juego solo mostrará los iconos
-      
-        de Teclado y Ratón."
-  fr: "Le jeu n'affichera que les 
   
-        commandes pour Clavier/Souris"
+    Maus & Tastatur-Eingaben zeigen."
+  sp: "El juego solo mostrará los iconos
+  
+    de Teclado y Ratón."
+  fr: "Le jeu n'affichera que les
+  
+    commandes pour Clavier/Souris"
   it: "Il gioco mostrerà a schermo i
   
-        comandi di Mouse e Tastiera."
-  
+    comandi di Mouse e Tastiera."
+    
 - id: 0x01D8
   en: "The game will adjust the prompts automatically."
   gr: "Das Spiel wird die Eingaben automatisch anpassen."
@@ -368,7 +368,7 @@
   it: "Incontri Plus"
 
 - id: 0x3788
-  en: "Increases the rate in which enemies appear, 
+  en: "Increases the rate in which enemies appear,
   
     including rarer enemies."
   gr: "Erhöht die Wahrscheinlichkeit, dass Gegner, inklusive
@@ -377,10 +377,10 @@
   sp: "Aumenta las probabilidades de encontrarse con enemigos,
   
     también aquellos que son raros."
-  fr: "Augmente le nombre d'ennemis, 
+  fr: "Augmente le nombre d'ennemis,
   
     mais aussi des ennemis plus rares."
-  it: "Aumenta la frequenza di incontri con i nemici, 
+  it: "Aumenta la frequenza di incontri con i nemici,
   
     inclusi quelli rari."
 
@@ -478,7 +478,7 @@
   it: "Gioca il prologo come previsto normalmente!"
 
 - id: 0x6004
-  en: "                  Skip the prologue entirely.
+  en: "                Skip the prologue entirely.
   
     {:color #FFFF0080} (You will miss important story elements if you do!)"
   gr: "                Überspringe Roxas' Geschichte komplett.
@@ -490,7 +490,7 @@
   fr: "                Passer le prologue entièrement..
   
     {:color #FFFF0080}(Vous raterez des éléments importants de l'histoire si vous le faites!)"
-  it: "                 Salta interamente il prologo.
+  it: "                Salta interamente il prologo.
   
     {:color #FFFF0080}(Procedendo perderai elementi di trama importanti!)"
 
