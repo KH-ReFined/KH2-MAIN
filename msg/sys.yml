@@ -369,7 +369,7 @@
   gr: "Gefecht +"
   sp: "Más Encuentros"
   fr: "Rencontre +"
-  it: "Incontri Plus"
+  it: "Incontri plus"
 
 - id: 0x3788
   en: "Increases the rate in which enemies appear, 
@@ -503,32 +503,32 @@
   gr: "Auto-Speicher Funktion"
   sp: "MISSING"
   fr: "MISSING"
-  it: "Scegli la modalità di salvataggio automatico."
+  it: "Seleziona la modalità di salvataggio automatico."
 
 - id: 0x6006
   en: "In-Game Dialog Language"
   gr: "Sprachausgabe"
   sp: "MISSING"
   fr: "MISSING"
-  it: "Scegli la lingua del doppiaggio."
+  it: "Seleziona la lingua del doppiaggio."
 
 - id: 0x6007
   en: "In-Game Soundtrack"
   gr: "Hintergrundmusik"
   sp: "MISSING"
   fr: "MISSING"
-  it: "Scegli la tipologia di colonna sonora."
+  it: "Seleziona la tipologia di colonna sonora."
 
 - id: 0x6008
   en: "Heartless Color Palette"
   gr: "Herzlosen-Palette"
   sp: "MISSING"
   fr: "MISSING"
-  it: "Scegli l'aspetto degli Heartless."
+  it: "Seleziona l'aspetto degli Heartless."
 
 - id: 0x6009
   en: "Button Prompts"
   gr: "Steuerungseingaben"
   sp: "MISSING"
   fr: "MISSING"
-  it: "Scegli le icone dei comandi da mostrare."
+  it: "Seleziona le icone dei comandi da mostrare."
