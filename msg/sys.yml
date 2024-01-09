@@ -320,6 +320,13 @@
   
         tipologia di comandi da mostrare."
 
+- id: 0x600A
+  en: "Enable Hardcore Mode?"
+
+- id: 0x600B
+  en: "You cannot gain experience. You only have one life.
+     The session's saves are deleted on death. Good luck!"
+
 - id: 0x01D9
   en: "※※※※※※※※※※※※※※※※"
   gr: "※※※※※※※※※※※※※※※※"
