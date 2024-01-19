@@ -28,6 +28,84 @@
   fr: "Séquence annulée!"
   it: "Soft-Reset annullato!"
 
+- id: 0x600C
+  en: "Hardcore Mode"
+  sp: "Modo Hardcore"
+  it: "Modalità Hardcore"
+  fr: "Mode Hardcore"
+  gr: "Hardcore-Modus"
+
+- id: 0x600E
+  en: "Cannot gain experience. Save is deleted on death.
+       
+     The Game Mode cannot be changed once the
+     
+     game has started."
+  fr: "Aucun gain d'expérience. Sauvegarde supprimée en
+  
+     cas de mort. Le Mode de Jeu ne peut pas être changé
+     
+     une fois que la partie a commencé."
+  it: "Esperienza bloccata. Una sola vita.
+       
+     La modalità non può essere cambiata una volta
+     
+     iniziata la partita."
+  sp: "No obtienes experiencia. Morir borrará tu partida
+
+     guardada. Este modo de juego no puede ser cambiado
+     
+     una vez haya empezado la partida."
+
+- id: 0x600D
+  en: "Title Screen"
+  sp: "Menú principal"
+  it: "Schermata del Titolo"
+  fr: "Écran titre"
+  gr: "Titelbildschirm"
+
+- id: 0x6010
+  en: "The DualSense® Controller has lost connection!"
+  gr: "Der DualSense® Controller hat die Verbindung verloren!"
+  it: "Il controller DualSense® ha perso la connessione!"
+  fr: "La manette DualSense® a été déconnectée!"
+  sp: "¡Se ha perdido la conexión con el mando DualSense®!"
+
+- id: 0x6011
+  en: "The DualSense® Controller has been reconnected!"
+  gr: "Der DualSense® Controller wurde erneut verbunden!"
+  it: "Il controller DualSense® è stato riconnesso!"
+  fr: "La manette DualSense® a été reconnectée!"
+  sp: "¡El mando DualSense® ha sido reconectado!"
+
+- id: 0x6012
+  en: "The DualSense® Controller has less than 10% charge remaining! Please plug the controller in to charge as soon as possible!"
+  gr: "Der DualSense® Controller hat weniger als 10% Energie! Bitte schließe den Controller sobald wie möglich an einen Kabel an, um ihn so schnell wie möglich aufzuladen!"
+  it: "Il controller DualSense® ha meno del 10% di batteria! Si prega di collegarlo via cavo il prima possibile!"
+  fr: "La manette DualSense® a moins de 10% de batterie! Merci de la brancher le plus vite possible!"
+  sp: "¡Al mando DualSense® le queda menos del 10% de batería! ¡Por favor, carga el mando lo antes posible!"
+
+- id: 0x6020
+  en: "The DualShock® 4 Controller has lost connection!"
+  gr: "Der DualShock® 4 Controller hat die Verbindung verloren!"
+  it: "Il controller DualShock® 4 ha perso la connessione!"
+  fr: "La manette DualShock® 4 a été déconnectée!"
+  sp: "¡Se ha perdido la conexión con el mando DualShock® 4!"
+
+- id: 0x6021
+  en: "The DualShock® 4 Controller has been reconnected!"
+  gr: "Der DualShock® 4 Controller wurde erneut verbunden!"
+  it: "Il controller DualShock® 4 è stato riconnesso!"
+  fr: "La manette DualShock® 4 a été reconnectée!"
+  sp: "¡El mando DualShock® 4 ha sido reconectado!"
+
+- id: 0x6022
+  en: "The DualShock® 4 Controller has less than 10% charge remaining! Please plug the controller in to charge as soon as possible!"
+  gr: "Der DualShock® 4 Controller hat weniger als 10% Energie! Bitte schließe den Controller sobald wie möglich an einen Kabel an, um ihn so schnell wie möglich aufzuladen!"
+  it: "Il controller DualShock® 4 ha meno del 10% di batteria! Si prega di collegarlo via cavo il prima possibile!"
+  fr: "La manette DualShock® 4 a moins de 10% de batterie! Merci de la brancher le plus vite possible!"
+  sp: "¡Al mando DualShock® 4 le queda menos del 10% de batería! ¡Por favor, carga el mando lo antes posible!"
+
 # === Item Text === #
 
 - id: 0x0649
@@ -58,6 +136,13 @@
     la Fusione Finale."
     
 - id: 0x064A
+  en: "Anti Form"
+  gr: "Anti-Form"
+  sp: "Anti-Forma"
+  fr: "Non-forme"
+  it: "Anti-Fusione"
+
+- id: 0x01E9
   en: "Anti Form"
   gr: "Anti-Form"
   sp: "Anti-Forma"
@@ -535,21 +620,27 @@
 
 - id: 0x600A
   en: "Enable Hardcore Mode?"
+  sp: "¿Activar Modo Hardcore?"
+  fr: "Activer le mode Hardcore?"
+  it: "Attivare la modalità Hardcore?"
 
 - id: 0x600B
   en: "You cannot gain experience. You only have one life.
   
      The session's saves are deleted on death. Good luck!"
-
-- id: 0x600C
-  en: "Hardcore Mode"
-
-- id: 0x600E
-  en: "Cannot gain experience. Save is deleted on death.
-       
-     The Game Mode cannot be changed once the
+  fr: "Vous ne pouvez pas gagner d'expérience. Vous n'avez qu'une vie.
+  
+     Vos sauvegardes de cette partie seront supprimées si vous mourrez. 
      
-     game has started."
-
-- id: 0x600D
-  en: "Title Screen"
+     Bonne chance!"
+  it: "Non puoi guadagnare esperienza. Hai una sola vita.
+  
+     I salvataggi di questa sessione verranno cancellati alla morte.
+     
+     Buona fortuna!"
+  sp: "No puedes obtener experiencia. Solo tendrás una vida.
+  
+     Morir borrará todas las partidas guardadas de esta sesión. ¡Suerte!"
+  gr: "Du erhältst keine Erfahrungspunkte und hast nur einen Versuch.
+  
+     Die Spielstände für diesen Durchlauf werden gelöscht! Viel Erfolg!"
