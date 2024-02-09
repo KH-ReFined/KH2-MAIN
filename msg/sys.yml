@@ -65,18 +65,14 @@
   gr: "Titelbildschirm"
 
 - id: 0x6010
-  en: "The DualSense® Controller has lost connection!"
-  gr: "Der DualSense® Controller hat die Verbindung verloren!"
-  it: "Il controller DualSense® ha perso la connessione!"
-  fr: "La manette DualSense® a été déconnectée!"
-  sp: "¡Se ha perdido la conexión con el mando DualSense®!"
+  en: "{:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}
 
-- id: 0x6011
-  en: "The DualSense® Controller has been reconnected!"
-  gr: "Der DualSense® Controller wurde erneut verbunden!"
-  it: "Il controller DualSense® è stato riconnesso!"
-  fr: "La manette DualSense® a été reconnectée!"
-  sp: "¡El mando DualSense® ha sido reconectado!"
+  
+     Your controller has been disconnected!
+
+     Please reconnect your controller. 
+
+     The game will continue once you press{:icon dynamic-cross}!"
 
 - id: 0x6012
   en: "The DualSense® Controller has less than 10% charge remaining! Please plug the controller in to charge as soon as possible!"
@@ -84,20 +80,6 @@
   it: "Il controller DualSense® ha meno del 10% di batteria! Si prega di collegarlo via cavo il prima possibile!"
   fr: "La manette DualSense® a moins de 10% de batterie! Merci de la brancher le plus vite possible!"
   sp: "¡Al mando DualSense® le queda menos del 10% de batería! ¡Por favor, carga el mando lo antes posible!"
-
-- id: 0x6020
-  en: "The DualShock® 4 Controller has lost connection!"
-  gr: "Der DualShock® 4 Controller hat die Verbindung verloren!"
-  it: "Il controller DualShock® 4 ha perso la connessione!"
-  fr: "La manette DualShock® 4 a été déconnectée!"
-  sp: "¡Se ha perdido la conexión con el mando DualShock® 4!"
-
-- id: 0x6021
-  en: "The DualShock® 4 Controller has been reconnected!"
-  gr: "Der DualShock® 4 Controller wurde erneut verbunden!"
-  it: "Il controller DualShock® 4 è stato riconnesso!"
-  fr: "La manette DualShock® 4 a été reconnectée!"
-  sp: "¡El mando DualShock® 4 ha sido reconectado!"
 
 - id: 0x6022
   en: "The DualShock® 4 Controller has less than 10% charge remaining! Please plug the controller in to charge as soon as possible!"
