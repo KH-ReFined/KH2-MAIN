@@ -4,6 +4,26 @@ originalAuthor: TopazTK
 description: The Definitive Way to Play Kingdom Hearts!
 assets:
 
+# === Sound Effect Fixes ===
+ 
+- name: se/se000.win32.scd
+  method: copy
+  source:
+    - name: se/se000.win32.scd
+
+- name: se/se999.win32.scd
+  method: copy
+  source:
+    - name: se/se999.win32.scd
+  
+- name: remastered/obj/B_EX140.a.us/se/obj/se320
+  multi:
+    - name: remastered/obj/B_EX140.a.jp/se/obj/se320
+    - name: remastered/obj/B_EX140.a.ks/se/obj/se320
+  method: copy
+  source:
+    - name: remastered/obj/B_EX140.a.us/se/obj/se320
+    
 # === System Related Files ===
 
 - name: itempic/item-269.imd 
@@ -37,222 +57,222 @@ assets:
   method: copy
   source:
   - name: 70landing.bar
-- name: remastered\70landing.bar\-0.dds
+- name: remastered/70landing.bar/-0.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-0.dds
-- name: remastered\70landing.bar\-1.dds
+  - name: remastered/70landing.bar/-0.dds
+- name: remastered/70landing.bar/-1.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-1.dds
-- name: remastered\70landing.bar\-10.dds
+  - name: remastered/70landing.bar/-1.dds
+- name: remastered/70landing.bar/-10.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-10.dds
-- name: remastered\70landing.bar\-11.dds
+  - name: remastered/70landing.bar/-10.dds
+- name: remastered/70landing.bar/-11.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-11.dds
-- name: remastered\70landing.bar\-12.dds
+  - name: remastered/70landing.bar/-11.dds
+- name: remastered/70landing.bar/-12.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-12.dds
-- name: remastered\70landing.bar\-13.dds
+  - name: remastered/70landing.bar/-12.dds
+- name: remastered/70landing.bar/-13.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-13.dds
-- name: remastered\70landing.bar\-14.dds
+  - name: remastered/70landing.bar/-13.dds
+- name: remastered/70landing.bar/-14.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-14.dds
-- name: remastered\70landing.bar\-15.dds
+  - name: remastered/70landing.bar/-14.dds
+- name: remastered/70landing.bar/-15.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-15.dds
-- name: remastered\70landing.bar\-16.dds
+  - name: remastered/70landing.bar/-15.dds
+- name: remastered/70landing.bar/-16.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-16.dds
-- name: remastered\70landing.bar\-17.dds
+  - name: remastered/70landing.bar/-16.dds
+- name: remastered/70landing.bar/-17.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-17.dds
-- name: remastered\70landing.bar\-18.dds
+  - name: remastered/70landing.bar/-17.dds
+- name: remastered/70landing.bar/-18.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-18.dds
-- name: remastered\70landing.bar\-19.dds
+  - name: remastered/70landing.bar/-18.dds
+- name: remastered/70landing.bar/-19.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-19.dds
-- name: remastered\70landing.bar\-2.dds
+  - name: remastered/70landing.bar/-19.dds
+- name: remastered/70landing.bar/-2.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-2.dds
-- name: remastered\70landing.bar\-20.dds
+  - name: remastered/70landing.bar/-2.dds
+- name: remastered/70landing.bar/-20.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-20.dds
-- name: remastered\70landing.bar\-21.dds
+  - name: remastered/70landing.bar/-20.dds
+- name: remastered/70landing.bar/-21.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-21.dds
-- name: remastered\70landing.bar\-22.dds
+  - name: remastered/70landing.bar/-21.dds
+- name: remastered/70landing.bar/-22.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-22.dds
-- name: remastered\70landing.bar\-23.dds
+  - name: remastered/70landing.bar/-22.dds
+- name: remastered/70landing.bar/-23.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-23.dds
-- name: remastered\70landing.bar\-24.dds
+  - name: remastered/70landing.bar/-23.dds
+- name: remastered/70landing.bar/-24.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-24.dds
-- name: remastered\70landing.bar\-25.dds
+  - name: remastered/70landing.bar/-24.dds
+- name: remastered/70landing.bar/-25.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-25.dds
-- name: remastered\70landing.bar\-26.dds
+  - name: remastered/70landing.bar/-25.dds
+- name: remastered/70landing.bar/-26.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-26.dds
-- name: remastered\70landing.bar\-27.dds
+  - name: remastered/70landing.bar/-26.dds
+- name: remastered/70landing.bar/-27.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-27.dds
-- name: remastered\70landing.bar\-28.dds
+  - name: remastered/70landing.bar/-27.dds
+- name: remastered/70landing.bar/-28.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-28.dds
-- name: remastered\70landing.bar\-29.dds
+  - name: remastered/70landing.bar/-28.dds
+- name: remastered/70landing.bar/-29.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-29.dds
-- name: remastered\70landing.bar\-3.dds
+  - name: remastered/70landing.bar/-29.dds
+- name: remastered/70landing.bar/-3.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-3.dds
-- name: remastered\70landing.bar\-30.dds
+  - name: remastered/70landing.bar/-3.dds
+- name: remastered/70landing.bar/-30.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-30.dds
-- name: remastered\70landing.bar\-31.dds
+  - name: remastered/70landing.bar/-30.dds
+- name: remastered/70landing.bar/-31.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-31.dds
-- name: remastered\70landing.bar\-32.dds
+  - name: remastered/70landing.bar/-31.dds
+- name: remastered/70landing.bar/-32.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-32.dds
-- name: remastered\70landing.bar\-33.dds
+  - name: remastered/70landing.bar/-32.dds
+- name: remastered/70landing.bar/-33.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-33.dds
-- name: remastered\70landing.bar\-34.dds
+  - name: remastered/70landing.bar/-33.dds
+- name: remastered/70landing.bar/-34.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-34.dds
-- name: remastered\70landing.bar\-35.dds
+  - name: remastered/70landing.bar/-34.dds
+- name: remastered/70landing.bar/-35.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-35.dds
-- name: remastered\70landing.bar\-36.dds
+  - name: remastered/70landing.bar/-35.dds
+- name: remastered/70landing.bar/-36.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-36.dds
-- name: remastered\70landing.bar\-37.dds
+  - name: remastered/70landing.bar/-36.dds
+- name: remastered/70landing.bar/-37.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-37.dds
-- name: remastered\70landing.bar\-38.dds
+  - name: remastered/70landing.bar/-37.dds
+- name: remastered/70landing.bar/-38.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-38.dds
-- name: remastered\70landing.bar\-39.dds
+  - name: remastered/70landing.bar/-38.dds
+- name: remastered/70landing.bar/-39.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-39.dds
-- name: remastered\70landing.bar\-4.dds
+  - name: remastered/70landing.bar/-39.dds
+- name: remastered/70landing.bar/-4.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-4.dds
-- name: remastered\70landing.bar\-40.dds
+  - name: remastered/70landing.bar/-4.dds
+- name: remastered/70landing.bar/-40.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-40.dds
-- name: remastered\70landing.bar\-41.dds
+  - name: remastered/70landing.bar/-40.dds
+- name: remastered/70landing.bar/-41.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-41.dds
-- name: remastered\70landing.bar\-42.dds
+  - name: remastered/70landing.bar/-41.dds
+- name: remastered/70landing.bar/-42.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-42.dds
-- name: remastered\70landing.bar\-43.dds
+  - name: remastered/70landing.bar/-42.dds
+- name: remastered/70landing.bar/-43.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-43.dds
-- name: remastered\70landing.bar\-44.dds
+  - name: remastered/70landing.bar/-43.dds
+- name: remastered/70landing.bar/-44.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-44.dds
-- name: remastered\70landing.bar\-45.dds
+  - name: remastered/70landing.bar/-44.dds
+- name: remastered/70landing.bar/-45.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-45.dds
-- name: remastered\70landing.bar\-46.dds
+  - name: remastered/70landing.bar/-45.dds
+- name: remastered/70landing.bar/-46.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-46.dds
-- name: remastered\70landing.bar\-47.dds
+  - name: remastered/70landing.bar/-46.dds
+- name: remastered/70landing.bar/-47.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-47.dds
-- name: remastered\70landing.bar\-48.dds
+  - name: remastered/70landing.bar/-47.dds
+- name: remastered/70landing.bar/-48.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-48.dds
-- name: remastered\70landing.bar\-49.dds
+  - name: remastered/70landing.bar/-48.dds
+- name: remastered/70landing.bar/-49.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-49.dds
-- name: remastered\70landing.bar\-5.dds
+  - name: remastered/70landing.bar/-49.dds
+- name: remastered/70landing.bar/-5.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-5.dds
-- name: remastered\70landing.bar\-50.dds
+  - name: remastered/70landing.bar/-5.dds
+- name: remastered/70landing.bar/-50.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-50.dds
-- name: remastered\70landing.bar\-51.dds
+  - name: remastered/70landing.bar/-50.dds
+- name: remastered/70landing.bar/-51.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-51.dds
-- name: remastered\70landing.bar\-52.dds
+  - name: remastered/70landing.bar/-51.dds
+- name: remastered/70landing.bar/-52.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-52.dds
-- name: remastered\70landing.bar\-53.dds
+  - name: remastered/70landing.bar/-52.dds
+- name: remastered/70landing.bar/-53.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-53.dds
-- name: remastered\70landing.bar\-6.dds
+  - name: remastered/70landing.bar/-53.dds
+- name: remastered/70landing.bar/-6.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-6.dds
-- name: remastered\70landing.bar\-7.dds
+  - name: remastered/70landing.bar/-6.dds
+- name: remastered/70landing.bar/-7.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-7.dds
-- name: remastered\70landing.bar\-8.dds
+  - name: remastered/70landing.bar/-7.dds
+- name: remastered/70landing.bar/-8.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-8.dds
-- name: remastered\70landing.bar\-9.dds
+  - name: remastered/70landing.bar/-8.dds
+- name: remastered/70landing.bar/-9.dds
   method: copy
   source:
-  - name: remastered\70landing.bar\-9.dds
+  - name: remastered/70landing.bar/-9.dds
 
 - name: ard/hb26.ard
   multi:
@@ -394,30 +414,6 @@ assets:
     source:
     - name: msg/sys.yml
       language: gr
-
-# === Ultrawide Accommodations ===
-
-- name: menu/us/save.2ld
-  method: copy
-  source:
-  - name: menu/us/save.2ld
-
-- name: menu/us/camp.2ld
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: menu/us/camp.2ld
-
-- name: menu/us/jmemo.2ld
-  package: kh2_fifth
-  method: copy
-  source:
-  - name: menu/us/jmemo.2ld
-
-- name: menu/us/title.2ld
-  method: copy
-  source:
-  - name: menu/us/title.2ld
 
 # === Crown Switching ===
 
