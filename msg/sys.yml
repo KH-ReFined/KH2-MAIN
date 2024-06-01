@@ -388,18 +388,12 @@
         tipologia di comandi da mostrare."
 
 - id: 0x01D9
-  en: "※※※※※※※※※※※※※※※※"
-  gr: "※※※※※※※※※※※※※※※※"
-  sp: "※※※※※※※※※※※※※※※※"
-  fr: "※※※※※※※※※※※※※※※※"
-  it: "※※※※※※※※※※※※※※※※"
+  en: "European"
 
 - id: 0x01DA
-  en: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
-  gr: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
-  sp: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
-  fr: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
-  it: "※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※※"
+  en: "The audio will be in one of the European
+  
+    Languages chosen."
 
 - id: 0x01DE
   en: "Prepare & Retry"
@@ -409,25 +403,31 @@
   it: "Preparati e riprova"
 
 - id: 0x4D6E
-  en: "Achievements"
-  gr: "Erfolge"
-  sp: "Logros"
-  fr: "Succès"
-  it: "Obiettivi"
+  en: "Spanish"
+  fr: "Espagnol"
+  gr: "Spanisch"
+  it: "Spagnolo"
+  sp: "Español"
 
 - id: 0x4D6F
-  en: "Enable the Achievement Engine."
-  gr: "Aktiviere die Erfolge-Engine."
-  sp: "Activa el Sistema de Logros."
-  fr: "Activer le système de Succès"
-  it: "Attiva gli obiettivi."
-  
+  en: "German"
 - id: 0x4D70
-  en: "Disable the Achievement Engine."
-  gr: "Deaktiviere die Erfolge-Engine."
-  sp: "Desactiva el Sistema de Logros."
-  fr: "Désactiver le système de Succès"
-  it: "Disattiva gli obiettivi."
+  en: "French"
+
+- id: 0x4D71
+  en: "The audio will be in Spanish."
+  fr: "Le doublage sera en Espagnol."
+  gr: "Die Sprachausgabe wird in Spanisch sein."
+  it: "La lingua del doppiaggio sarà in Spagnolo."
+  sp: "El audio estará en Español."
+  
+- id: 0x4D72
+  en: "The audio will be in German."
+- id: 0x4D73
+  en: "The audio will be in French."
+
+- id: 0x4D74
+  en: "※ European"
 
 # === Ability Text === #
 

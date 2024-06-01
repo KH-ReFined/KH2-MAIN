@@ -4,6 +4,33 @@ originalAuthor: TopazTK
 description: The Definitive Way to Play Kingdom Hearts!
 assets:
 
+- name: menu/us/save.2ld
+  method: copy
+  source:
+  - name: menu/us/save.2ld
+
+- name: menu/us/pause.2ld
+  method: copy
+  source:
+  - name: menu/us/pause.2ld
+
+- name: menu/us/camp.2ld
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: menu/us/camp.2ld
+
+- name: menu/us/jmemo.2ld
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: menu/us/jmemo.2ld
+
+- name: menu/us/title.2ld
+  method: copy
+  source:
+  - name: menu/us/title.2ld
+
 # === Sound Effect Fixes ===
  
 - name: se/se000.win32.scd
