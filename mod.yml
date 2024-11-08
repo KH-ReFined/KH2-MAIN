@@ -1,0 +1,28 @@
+
+title: Kingdom Hearts II - Re:Fined [BETA]
+originalAuthor: TopazTK
+description: The base patch for Re:Fined on Kingdom Hearts II.
+
+assets:
+- name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png
+  multi:
+    - name: remastered/msg/us/fontimage.bar/US_fontimage_bar2.png
+    - name: remastered/msg/fr/fontimage.bar/FR_fontimage_bar2.png
+    - name: remastered/msg/gr/fontimage.bar/GR_fontimage_bar2.png
+    - name: remastered/msg/it/fontimage.bar/IT_fontimage_bar2.png
+    - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar2.png
+  method: copy
+  source:
+    - name: sys/fontimage.png
+
+# === Language Files ===
+
+- name: msg/us/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: en
