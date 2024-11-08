@@ -2,169 +2,231 @@
 
 - id: 0x0100
   en: "Press{:icon dynamic-cross} to cancel!"
+  it: "Premi{:icon dynamic-cross} per annullare!"
 
 - id: 0x0101
   en: "Soft-Reset cancelled!"
+  it: "Soft-Reset annullato!"
 
 
 - id: 0x0102
   en: "Your progress is safe, kupo!"
+  it: "Il tuo progresso è al sicuro, kupò!"
 
 - id: 0x0103
   en: "Could not save your progress, kupo! Please save the game manually!"
+  it: "Il tuo progresso non può essere salvato, kupò! Si prega di salvare manualmente!"
 
 # === Config Menu Text === #
 
 - id: 0x0104
   en: "Auto-Save"
+  it: "Salvataggio automatico"
 
 - id: 0x0105
   en: "Informative"
+  it: "Informativo"
 
 - id: 0x0106
   en: "Autosaving will be done with an indicator."
+  it: "Il salvataggio automatico sarà effettuato
+  
+    mostrando un avviso."
 
 - id: 0x0107
   en: "Silent"
+  it: "Silenzioso"
 
 - id: 0x0108
   en: "Autosaving will be done silently."
+  it: "Il salvataggio automatico sarà 
+  
+    effettuato silenziosamente."
 
 - id: 0x0109
   en: "Disabled"
+  it: "Disattivato"
 
 - id: 0x010A
   en: "Autosaving will be disabled."
+  it: "Il salvataggio automatico sarà disattivato."
 
 
 - id: 0x010B
   en: "Audio Language"
+  it: "Lingua doppiaggio"
 
 - id: 0x010C
   en: "English"
+  it: "Inglese"
 
 - id: 0x010D
   en: "The audio will be in English."
+  it: "La lingua del doppiaggio sarà in Inglese."
 
 - id: 0x010E
   en: "Japanese"
+  it: "Giapponese"
 
 - id: 0x010F
   en: "The audio will be in Japanese."
+  it: "La lingua del doppiaggio sarà in Giapponese."
 
 - id: 0x0110
   en: "Spanish"
+  it: "Spagnolo"
 
 - id: 0x0111
   en: "The audio will be in Spanish."
+  it: "La lingua del doppiaggio sarà in Spagnolo."
 
 - id: 0x0112
   en: "German"
+  it: "Tedesco"
 
 - id: 0x0113
   en: "The audio will be in German."
+  it: "La lingua del doppiaggio sarà in Tedesco."
 
 - id: 0x0114
   en: "French"
+  it: "Francese"
 
 - id: 0x0115
   en: "The audio will be in French."
+  it: "La lingua del doppiaggio sarà in Francese."
 
 - id: 0x0116
   en: "※ European"
+  it: "※ Europeo"
 
 - id: 0x0117
   en: "The audio will be in one of the European
   
     languages chosen below."
+  it: "La lingua del doppiaggio sarà in una
+  
+    delle seguenti lingue europee."
 
 
 - id: 0x0118
   en: "Background Music"
+  it: "Colonna sonora"
 
 - id: 0x0119
   en: "Original"
+  it: "Originale"
   
 - id: 0x011A
   en: "The background music will be the
   
     original Playstation® 2 Release."
+  it: "La colonna sonora sarà quella della
+  
+    versione originale Playstation® 2."
 
 - id: 0x011B
   en: "Remastered"
+  it: "Rimasterizzata"
 
 - id: 0x011C
   en: "The background music will be remastered."
+  it: "La colonna sonora sarà quella rimasterizzata."
 
 
 - id: 0x011D
   en: "Heartless Palette"
+  it: "Aspetto degli Heartless"
 
 - id: 0x011E
   en: "Original"
+  it: "Originale"
 
 - id: 0x011F
   en: "The Heartless will use the Original Palette."
+  it: "Gli Heartless avranno l'aspetto classico."
 
 - id: 0x0120
   en: "Final Mix"
+  it: "Final Mix"
 
 - id: 0x0121
   en: "The Heartless will use the Final Mix Palette."
+  it: "Gli Heartless avranno l'aspetto della versione Final Mix."
 
 
 - id: 0x0122
   en: "Button Prompts"
+  it: "Icone dei comandi"
 
 - id: 0x0123
   en: "Controller"
+  it: "Controller"
 
 - id: 0x0124
   en: "The game will only display Controller Prompts."
+  it: "Il gioco mostrerà i comandi del controller."
 
 - id: 0x0125
   en: "Automatic"
+  it: "Automatico"
 
 - id: 0x0126
   en: "The game will adjust the prompts automatically."
+  it: "Il gioco sceglierà automaticamente la 
+  
+    tipologia di comandi da mostrare."
 
 
 - id: 0x0127
   en: "Prepare & Retry"
+  it: "Preparati e riprova"
 
 # === New Game Text === #
 
 - id: 0x0130
   en: "Play through the prologue?"
+  it: "Vuoi giocare il prologo?"
 
 - id: 0x0131
   en: "Play through the prologue as intended!"
+  it: "Gioca il prologo come previsto normalmente!"
 
 - id: 0x0132
   en: "                  Skip the prologue entirely.
   
     {:color #FFFF0080} (You will miss important story elements if you do!)"
+  it: "                Salta interamente il prologo.
+  
+    {:color #FFFF0080}Procedendo perderai elementi di trama importanti!"
     
 - id: 0x0133
   en: "Autosaving Functionality"
+  it: "Seleziona la modalità di salvataggio automatico."
 
 - id: 0x0134
   en: "In-Game Dialog Language"
+  it: "Seleziona la lingua del doppiaggio."
 
 - id: 0x0135
   en: "In-Game Soundtrack"
+  it: "Seleziona la tipologia di colonna sonora."
 
 - id: 0x0136
   en: "Heartless Color Palette"
+  it: "Seleziona l'aspetto degli Heartless."
 
 - id: 0x0137
   en: "Button Prompts"
+  it: "Seleziona le icone dei comandi da mostrare."
 
 - id: 0x0138
   en: "YES"
+  it: "Sì"
 
 - id: 0x0139
   en: "NO"
+  it: "No"
 
 # === Item Text === #
 
@@ -174,12 +236,19 @@
     use the Drive Command to change
     
     into Final Form."
+  it: "Grazie al vero potere del Keyblade,
+    
+    potrai usare il comando Turbo per effettuare
+    
+    la Fusione Finale."
     
 - id: 0x064A
   en: "Anti Form"
+  it: "Anti-Fusione"
 
 - id: 0x01E9
   en: "Anti Form"
+  it: "Anti-Fusione"
 
 - id: 0x064B
   en: "Using the darkness in Sora's heart,
@@ -187,40 +256,58 @@
     use the Drive Command to change
     
     into Anti Form."
+  it: "Grazie all'oscurità nel cuore di Sora,
+    
+    potrai usare il comando Turbo per effettuare
+    
+    l'Anti-Fusione."
 
 # === Ability Text === #
 
 - id: 0x3787
   en: "Encounter Plus"
+  it: "Incontri Plus"
 
 - id: 0x3788
   en: "Increases the rate in which enemies appear, 
   
     including rarer enemies."
+  it: "Aumenta la frequenza di incontri con i nemici, 
+  
+    inclusi quelli rari."
 
 - id: 0x4E83
   en: "Dodge Roll LV1"
+  it: "Destrezza I"
 
 - id: 0x4E85
   en: "Dodge Roll LV2"
+  it: "Destrezza II"
 
 - id: 0x4E87
   en: "Dodge Roll LV3"
+  it: "Destrezza III"
 
 - id: 0x4E8D
   en: "Sonic Blade"
+  it: "Incrocio Sonico"
 
 - id: 0x4EFE
   en: "Sonic Blade"
+  it: "Incrocio Sonico"
 
 - id: 0x4E8F
   en: "Ars Arcanum"
+  it: "Ultimo Arcanum"
 
 - id: 0x4F01
   en: "Ars Arcanum"
+  it: "Ultimo Arcanum"
 
 - id: 0x4E93
   en: "Ragnarok"
+  it: "Ragnarok"
 
 - id: 0x4EF6
   en: "Ragnarok"
+  it: "Ragnarok"
