@@ -15,7 +15,7 @@
 - id: 0x0102
   en: "Your progress is safe, kupo!"
   it: "Il tuo progresso è al sicuro, kupò!"
-  GR: "Dein Fortschritt ist gespeichert, kupo!"
+  gr: "Dein Fortschritt ist gespeichert, kupo!"
   fr: "Votre progression a été sauvegardée, kupo!"
 
 - id: 0x0103
@@ -40,7 +40,7 @@
 
 - id: 0x0106
   en: "Autosaving will be done with an indicator."
-  it: "Il salvataggio automatico sarà effettuato."
+  it: "Il salvataggio automatico sarà effettuato.
   
     mostrando un avviso."
   gr: "Das Spiel wird mit einer Hinweisanzeige gespeichert."
@@ -54,7 +54,7 @@
 
 - id: 0x0108
   en: "Autosaving will be done silently."
-  it: "Il salvataggio automatico sarà."
+  it: "Il salvataggio automatico sarà.
   
     effettuato silenziosamente."
   gr: "Auto-Speichern erfolgt unbemerkt."
@@ -259,7 +259,7 @@
   gr: "Das Spiel passt die Steuerungsangaben des
   
 
-  Controllers automatisch an."
+    Controllers automatisch an."
   fr: "Le jeu changera l'affichage des contrôles automatiquement."
 
 - id: 0x0127
@@ -411,7 +411,7 @@
   it: "Aumenta la frequenza di incontri con i nemici, 
   
     inclusi quelli rari."
-  gr: gr: "Erhöht die Wahrscheinlichkeit, dass Gegner, inklusive
+  gr: "Erhöht die Wahrscheinlichkeit, dass Gegner, inklusive
   
     seltenerer Gegner, erscheinen."
   fr: "Augmente le nombre d'ennemis, 
@@ -458,14 +458,12 @@
 - id: 0x4F01
   en: "Ars Arcanum"
   it: "Ultimo Arcanum"
-
   gr: "Amok-Arkana"
   fr: "Arcanes"
 
 - id: 0x4E93
   en: "Ragnarok"
   it: "Ragnarok"
-
   gr: "Ragnarök"
   fr: "Ragnarok"
 
