@@ -199,7 +199,7 @@
 - id: 0x011D
   en: "Heartless Palette"
   it: "Aspetto degli Heartless"
-  gr: "Herzlosen-Palette
+  gr: "Herzlosen-Palette"
   fr: "Visuels des sans-coeurs"
 
 - id: 0x011E
@@ -264,7 +264,6 @@
 
 - id: 0x0127
   en: "Prepare & Retry"
-  it: "Preparati e riprova"
   gr: "Vorbereiten und Erneut versuchen"
   it: "Preparati e Riprova"
   fr: "Se Préparer et Réessayer"
