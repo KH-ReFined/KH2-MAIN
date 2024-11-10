@@ -3,102 +3,125 @@
 - id: 0x0100
   en: "Press{:icon dynamic-cross} to cancel!"
   it: "Premi{:icon dynamic-cross} per annullare!"
+  fr: "Appuyez sur {:icon dynamic-circle} pour annuler!"
 
 - id: 0x0101
   en: "Soft-Reset cancelled!"
   it: "Soft-Reset annullato!"
+  fr: "Soft-Reset annulé!"
 
 
 - id: 0x0102
   en: "Your progress is safe, kupo!"
   it: "Il tuo progresso è al sicuro, kupò!"
+  fr: "Votre progression a été sauvegardée, kupo!"
 
 - id: 0x0103
   en: "Could not save your progress, kupo! Please save the game manually!"
   it: "Il tuo progresso non può essere salvato, kupò! Si prega di salvare manualmente!"
+  fr: "Votre progression n'a pas pu être sauvegardée, kupo! Sauvegardez manuellement!"
 
 # === Config Menu Text === #
 
 - id: 0x0104
   en: "Auto-Save"
   it: "Salvataggio automatico"
+  fr: "Sauvegarde auto."
 
 - id: 0x0105
   en: "Informative"
   it: "Informativo"
+  en: "Informatif"
 
 - id: 0x0106
   en: "Autosaving will be done with an indicator."
   it: "Il salvataggio automatico sarà effettuato
   
     mostrando un avviso."
+  fr: "La sauvegarde auto. sera faite avec un indicateur."
 
 - id: 0x0107
   en: "Silent"
   it: "Silenzioso"
+  fr: "Silencieux"
 
 - id: 0x0108
   en: "Autosaving will be done silently."
   it: "Il salvataggio automatico sarà 
   
     effettuato silenziosamente."
+  fr: "La sauvegarde auto. sera faite silencieusement."
 
 - id: 0x0109
   en: "Disabled"
   it: "Disattivato"
+  fr: "Désactivé"
 
 - id: 0x010A
   en: "Autosaving will be disabled."
   it: "Il salvataggio automatico sarà disattivato."
+  fr: "La sauvegarde auto. sera désactivée."
 
 
 - id: 0x010B
   en: "Audio Language"
   it: "Lingua doppiaggio"
+  fr: "Langue audio"
 
 - id: 0x010C
   en: "English"
   it: "Inglese"
+  fr: "Anglais"
 
 - id: 0x010D
   en: "The audio will be in English."
   it: "La lingua del doppiaggio sarà in Inglese."
+  fr: "La langue audio sera en Anglais."
 
 - id: 0x010E
   en: "Japanese"
   it: "Giapponese"
+  fr: "Japonais"
 
 - id: 0x010F
   en: "The audio will be in Japanese."
   it: "La lingua del doppiaggio sarà in Giapponese."
+  fr: "La langue audio sera en Japonais."
 
 - id: 0x0110
   en: "Spanish"
   it: "Spagnolo"
+  fr: "Espagnol"
 
 - id: 0x0111
   en: "The audio will be in Spanish."
   it: "La lingua del doppiaggio sarà in Spagnolo."
+  fr: "La langue audio sera en Espagnol."
 
 - id: 0x0112
   en: "German"
   it: "Tedesco"
+  fr: "Allemand"
 
 - id: 0x0113
   en: "The audio will be in German."
   it: "La lingua del doppiaggio sarà in Tedesco."
+  fr: "La langue audio sera en Allemand."
 
 - id: 0x0114
   en: "French"
   it: "Francese"
+  fr: "Francais"
 
 - id: 0x0115
   en: "The audio will be in French."
   it: "La lingua del doppiaggio sarà in Francese."
+  fr: "La langue audio sera en Francais."
 
 - id: 0x0116
   en: "※ European"
   it: "※ Europeo"
+  fr: "※ Européen"
 
 - id: 0x0117
   en: "The audio will be in one of the European
@@ -107,15 +130,20 @@
   it: "La lingua del doppiaggio sarà in una
   
     delle seguenti lingue europee."
+  fr: "La langue audio sera dans l'une des langues
+  
+    choisie plus bas."
 
 
 - id: 0x0118
   en: "Background Music"
   it: "Colonna sonora"
+  fr: "Musique de fond"
 
 - id: 0x0119
   en: "Original"
   it: "Originale"
+  fr: "Original"
   
 - id: 0x011A
   en: "The background music will be the
@@ -124,73 +152,90 @@
   it: "La colonna sonora sarà quella della
   
     versione originale Playstation® 2."
+  fr: "La musique sera celle de la version
+  
+    originale Playstation® 2."
 
 - id: 0x011B
   en: "Remastered"
   it: "Rimasterizzata"
+  fr: "Remasterisé"
 
 - id: 0x011C
   en: "The background music will be remastered."
   it: "La colonna sonora sarà quella rimasterizzata."
-
+  fr: "La musique sera la version remasterisée."
 
 - id: 0x011D
   en: "Heartless Palette"
   it: "Aspetto degli Heartless"
+  fr: "Visuels des sans-coeurs"
 
 - id: 0x011E
   en: "Original"
   it: "Originale"
+  fr: "Originale"
 
 - id: 0x011F
   en: "The Heartless will use the Original Palette."
   it: "Gli Heartless avranno l'aspetto classico."
+  fr: "Les sans-coeurs utiliseront la palette originale."
 
 - id: 0x0120
   en: "Final Mix"
   it: "Final Mix"
+  fr: "Final Mix"
 
 - id: 0x0121
   en: "The Heartless will use the Final Mix Palette."
   it: "Gli Heartless avranno l'aspetto della versione Final Mix."
+  fr: "Les sans-coeurs utiliseront la palette Final Mix."
 
 
 - id: 0x0122
   en: "Button Prompts"
   it: "Icone dei comandi"
+  fr: "Affichage des contrôles"
 
 - id: 0x0123
   en: "Controller"
   it: "Controller"
+  fr: "Manette"
 
 - id: 0x0124
   en: "The game will only display Controller Prompts."
   it: "Il gioco mostrerà i comandi del controller."
+  fr: "Le jeu affichera les contrôles pour manette."
 
 - id: 0x0125
   en: "Automatic"
   it: "Automatico"
+  fr: "Automatique"
 
 - id: 0x0126
   en: "The game will adjust the prompts automatically."
   it: "Il gioco sceglierà automaticamente la 
   
     tipologia di comandi da mostrare."
+  fr: "Le jeu changera l'affichage des contrôles automatiquement."
 
 
 - id: 0x0127
   en: "Prepare & Retry"
   it: "Preparati e riprova"
+  fr: "Se préparer et réessayer"
 
 # === New Game Text === #
 
 - id: 0x0130
   en: "Play through the prologue?"
   it: "Vuoi giocare il prologo?"
+  fr: "Jouer le prologue?"
 
 - id: 0x0131
   en: "Play through the prologue as intended!"
   it: "Gioca il prologo come previsto normalmente!"
+  fr: "Jouer le prologue normalement."
 
 - id: 0x0132
   en: "                  Skip the prologue entirely.
@@ -199,34 +244,43 @@
   it: "                Salta interamente il prologo.
   
     {:color #FFFF0080}Procedendo perderai elementi di trama importanti!"
+  fr: "               Passer le prologue entièrement.
+    {:color #FFFF0080} (Vous raterez des éléments important de l'histoire si vous le faites!)"
     
 - id: 0x0133
   en: "Autosaving Functionality"
   it: "Seleziona la modalità di salvataggio automatico."
+  fr: "Sauvegarde Automatique"
 
 - id: 0x0134
   en: "In-Game Dialog Language"
   it: "Seleziona la lingua del doppiaggio."
+  fr: "Langue des dialogues"
 
 - id: 0x0135
   en: "In-Game Soundtrack"
   it: "Seleziona la tipologia di colonna sonora."
+  fr: "Musique en jeu"
 
 - id: 0x0136
   en: "Heartless Color Palette"
   it: "Seleziona l'aspetto degli Heartless."
+  fr: "Palette de couleur des sans-coeurs"
 
 - id: 0x0137
   en: "Button Prompts"
   it: "Seleziona le icone dei comandi da mostrare."
+  fr: "Icones des boutons"
 
 - id: 0x0138
   en: "YES"
   it: "Sì"
+  fr: "OUI"
 
 - id: 0x0139
   en: "NO"
   it: "No"
+  fr: "NON"
 
 # === Item Text === #
 
@@ -241,14 +295,21 @@
     potrai usare il comando Turbo per effettuare
     
     la Fusione Finale."
+  fr: "En utilisant le vrai pouvoir de la Keyblade,
+    
+    utilisez le menu de Fusion pour utiliser
+    
+    la forme Suprême."
     
 - id: 0x064A
   en: "Anti Form"
   it: "Anti-Fusione"
+  fr: "Non-forme"
 
 - id: 0x01E9
   en: "Anti Form"
   it: "Anti-Fusione"
+  fr: "Non-forme"
 
 - id: 0x064B
   en: "Using the darkness in Sora's heart,
@@ -261,12 +322,18 @@
     potrai usare il comando Turbo per effettuare
     
     l'Anti-Fusione."
+  fr: "En utilisant les ténèbres du cœur de Sora,
+    
+    utilisez le menu de Fusion pour utiliser
+    
+    la Non-forme."
 
 # === Ability Text === #
 
 - id: 0x3787
   en: "Encounter Plus"
   it: "Incontri Plus"
+  fr: "Rencontre +"
 
 - id: 0x3788
   en: "Increases the rate in which enemies appear, 
@@ -275,39 +342,51 @@
   it: "Aumenta la frequenza di incontri con i nemici, 
   
     inclusi quelli rari."
+  fr: "Augmente le nombre d'ennemis, 
+  
+    mais aussi des ennemis plus rares."
 
 - id: 0x4E83
   en: "Dodge Roll LV1"
   it: "Destrezza I"
+  fr: "Roulade LV1"
 
 - id: 0x4E85
   en: "Dodge Roll LV2"
   it: "Destrezza II"
+  fr: "Roulade LV2"
 
 - id: 0x4E87
   en: "Dodge Roll LV3"
   it: "Destrezza III"
+  fr: "Roulade LV3"
 
 - id: 0x4E8D
   en: "Sonic Blade"
   it: "Incrocio Sonico"
+  fr: "Aquilon"
 
 - id: 0x4EFE
   en: "Sonic Blade"
   it: "Incrocio Sonico"
+  fr: "Aquilon"
 
 - id: 0x4E8F
   en: "Ars Arcanum"
   it: "Ultimo Arcanum"
+  fr: "Arcanes"
 
 - id: 0x4F01
   en: "Ars Arcanum"
   it: "Ultimo Arcanum"
+  fr: "Arcanes"
 
 - id: 0x4E93
   en: "Ragnarok"
   it: "Ragnarok"
+  fr: "Ragnarok"
 
 - id: 0x4EF6
   en: "Ragnarok"
   it: "Ragnarok"
+  fr: "Ragnarok"
