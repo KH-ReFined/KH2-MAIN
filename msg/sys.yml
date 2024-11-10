@@ -3,7 +3,7 @@
 - id: 0x0100
   en: "Press{:icon dynamic-cross} to cancel!"
   it: "Premi{:icon dynamic-cross} per annullare!"
-  fr: "Appuyez sur {:icon dynamic-circle} pour annuler!"
+  fr: "Appuyez sur {:icon dynamic-cross} pour annuler!"
 
 - id: 0x0101
   en: "Soft-Reset cancelled!"
@@ -31,7 +31,7 @@
 - id: 0x0105
   en: "Informative"
   it: "Informativo"
-  en: "Informatif"
+  fr: "Informatif"
 
 - id: 0x0106
   en: "Autosaving will be done with an indicator."
@@ -222,8 +222,8 @@
 
 - id: 0x0127
   en: "Prepare & Retry"
-  it: "Preparati e riprova"
-  fr: "Se préparer et réessayer"
+  it: "Preparati e Riprova"
+  fr: "Se Préparer et Réessayer"
 
 # === New Game Text === #
 
