@@ -24,6 +24,16 @@
   gr: "Konnte deinen Fortschritt nicht speichern, kupo! Bitte speichere ihn manuell!"
   fr: "Votre progression n'a pas pu être sauvegardée, kupo! Sauvegardez manuellement!"
 
+- id: 0x051F
+  en: "{:width 85}Shortcut Set A"
+
+- id: 0x3B89
+  en: "Select settings for shortcut commands
+  
+    and other various functions.
+    
+    {:color #E070E080}Press {:icon dynamic-l1} /{:icon dynamic-r1} to switch between sets."
+
 # === Config Menu Text === #
 
 - id: 0x0104
