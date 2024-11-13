@@ -287,14 +287,14 @@
     New updates tend to be more stable overall.
     
     Do you want to update? {:color #FFFF0180}[Very Recommended!]"
-  it: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
+  it: "{:icon question-mark}{:color #FF010180}AVVISO{:reset}
 
 
     {:width 90}È disponibile un nuovo aggiornamento per Re:Fined!
     
     I nuovi aggiornamenti dovrebbero migliorare la stabilità della mod.
     
-    Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Very Recommended!]"
+    Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Molto Consigliato!]"
 
 - id: 0x0129
   en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
@@ -306,7 +306,7 @@
     
     
     [####################]  % 888"
-  it: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
+  it: "{:icon exclamation-mark}{:color #FF010180}INFORMAZIONE{:reset}
   
 
     Il download dell'aggiornamento è in corso. 
@@ -323,7 +323,7 @@
     Re:Fined was updated successfully! 
     
     The game will now restart to apply..."
-  it: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
+  it: "{:icon exclamation-mark}{:color #FF010180}INFORMAZIONE{:reset}
   
 
     Re:Fined è stato aggiornato con successo!"
