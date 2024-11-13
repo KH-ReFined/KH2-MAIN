@@ -277,6 +277,35 @@
   gr: "Vorbereiten und Erneut versuchen"
   it: "Preparati e Riprova"
   fr: "Se Préparer et Réessayer"
+  
+- id: 0x0128
+  en: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
+
+
+    {:width 90}A new update for Re:Fined has been found!
+    
+    New updates tend to be more stable overall.
+    
+    Do you want to update? {:color #FFFF0180}[Very Recommended!]"
+  
+- id: 0x0129
+  en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
+  
+
+    Downloading the Update Package. 
+
+    Please be patient. This may take a bit.
+    
+    
+    [####################]  % 888"
+
+- id: 0x012A
+  en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
+  
+
+    Re:Fined was updated successfully! 
+    
+    The game will now restart to apply..."
 
 # === New Game Text === #
 
