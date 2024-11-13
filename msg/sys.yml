@@ -296,6 +296,16 @@
     
     Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Molto Consigliato!]"
 
+
+  fr: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
+
+
+    {:width 90}Une mise à jour de Re:Fined est disponible!
+    
+    Les versions récentes sont généralement plus stables.
+    
+    Voulez vous mettre à jour? {:color #FFFF0180}[Recommandé!]"
+
 - id: 0x0129
   en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
@@ -312,7 +322,12 @@
     Il download dell'aggiornamento è in corso. 
 
     Si prega di attendere. L'operazione potrebbe richiedere alcuni minuti.
-    
+  fr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
+  
+
+    Téléchargement de la mise à jour. 
+
+    Cela peut prendre un petit moment.
     
     [####################]  % 888"
 
@@ -329,6 +344,12 @@
     Re:Fined è stato aggiornato con successo!"
     
     Il gioco verrà riavviato per applicare le modifiche..."
+  fr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
+  
+
+    Re:Fined à été mis a jour avec succès! 
+    
+    Le jeu va redémarrer pour appliquer la mise à jour..."
 
 # === New Game Text === #
 
