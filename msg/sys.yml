@@ -50,7 +50,7 @@
 
 - id: 0x0106
   en: "Autosaving will be done with an indicator."
-  it: "Il salvataggio automatico sarà effettuato.
+  it: "Il salvataggio automatico sarà effettuato
   
     mostrando un avviso."
   gr: "Das Spiel wird mit einer Hinweisanzeige gespeichert."
@@ -64,7 +64,7 @@
 
 - id: 0x0108
   en: "Autosaving will be done silently."
-  it: "Il salvataggio automatico sarà.
+  it: "Il salvataggio automatico sarà
   
     effettuato silenziosamente."
   gr: "Auto-Speichern erfolgt unbemerkt."
@@ -287,7 +287,15 @@
     New updates tend to be more stable overall.
     
     Do you want to update? {:color #FFFF0180}[Very Recommended!]"
-  
+  it: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
+
+
+    {:width 90}È disponibile un nuovo aggiornamento per Re:Fined!
+    
+    I nuovi aggiornamenti dovrebbero migliorare la stabilità della mod.
+    
+    Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Very Recommended!]"
+
 - id: 0x0129
   en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
@@ -295,6 +303,15 @@
     Downloading the Update Package. 
 
     Please be patient. This may take a bit.
+    
+    
+    [####################]  % 888"
+  it: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
+  
+
+    Il download dell'aggiornamento è in corso. 
+
+    Si prega di attendere. L'operazione potrebbe richiedere alcuni minuti.
     
     
     [####################]  % 888"
@@ -306,6 +323,12 @@
     Re:Fined was updated successfully! 
     
     The game will now restart to apply..."
+  it: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
+  
+
+    Re:Fined è stato aggiornato con successo!"
+    
+    Il gioco verrà riavviato per applicare le modifiche..."
 
 # === New Game Text === #
 
