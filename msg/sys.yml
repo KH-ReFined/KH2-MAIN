@@ -149,10 +149,10 @@
   fr: "La langue audio sera en Francais."
 
 - id: 0x0116
-  en: "※ European"
-  it: "※ Europeo"
-  gr: "※ Europäisch"
-  fr: "※ Européen"
+  en: "European"
+  it: "Europeo"
+  gr: "Europäisch"
+  fr: "Européen"
 
 - id: 0x0117
   en: "The audio will be in one of the European
@@ -329,7 +329,7 @@
 
     Il download dell'aggiornamento è in corso. 
 
-    Si prega di attendere. L'operazione potrebbe richiedere alcuni minuti.
+    Si prega di attendere. L'operazione potrebbe richiedere alcuni minuti."
   gr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
@@ -373,6 +373,12 @@
     Re:Fined à été mis a jour avec succès! 
     
     Le jeu va redémarrer pour appliquer la mise à jour..."
+  
+- id: 0x012B
+  en: "※ European"
+  it: "※ Europeo"
+  gr: "※ Europäisch"
+  fr: "※ Européen"
 
 # === New Game Text === #
 
