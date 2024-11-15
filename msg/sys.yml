@@ -296,6 +296,14 @@
     
     Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Molto Consigliato!]"
 
+  gr: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
+
+
+    {:width 90}Ein neues Update wurde entdeckt!
+    
+    Neue Updates sind üblicher weise mehr stabil.
+    
+    Möchtest du das Update herunterladen? {:color #FFFF0180}[Very Recommended!]"
 
   fr: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
 
@@ -322,6 +330,15 @@
     Il download dell'aggiornamento è in corso. 
 
     Si prega di attendere. L'operazione potrebbe richiedere alcuni minuti.
+  gr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
+  
+
+    Update-paket wird heruntergeladen. 
+
+    Bitte geduldig bleiben. Es kann eine Weile dauern.
+    
+    
+    [####################]  % 888"
   fr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
@@ -344,6 +361,12 @@
     Re:Fined è stato aggiornato con successo!"
     
     Il gioco verrà riavviato per applicare le modifiche..."
+  gr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
+  
+
+    Re:Fined wurde erfolgreich herunterladen! 
+    
+    Das Spiel wird neugestartet um die Änderungen wirksam zu machen"
   fr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
