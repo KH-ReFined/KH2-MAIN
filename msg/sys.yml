@@ -449,6 +449,9 @@
   gr: "NEIN"
   fr: "NON"
 
+- id: 0x013A
+  en: "European Sub-Language"
+
 # === Item Text === #
 
 - id: 0x0649
