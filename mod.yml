@@ -28,7 +28,43 @@ assets:
     - name: msg/sys.yml
       language: en
 
-# === System Files === #
+# === Quadratum Files === #
+
+- name: field2d/us/qd0command.2dd
+  multi:
+    - name: field2d/fr/qd0command.2dd
+    - name: field2d/gr/qd0command.2dd
+    - name: field2d/sp/qd0command.2dd
+    - name: field2d/it/qd0command.2dd
+    - name: field2d/jp/qd0command.2dd
+  method: copy
+  source:
+  - name: field2d/qd0command.2dd
+
+- name: remastered/field2d/us/qd0command.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command.2dd/US.dds
+- name: remastered/field2d/fr/qd0command.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command.2dd/FR.dds
+- name: remastered/field2d/gr/qd0command.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command.2dd/DE.dds
+- name: remastered/field2d/sp/qd0command.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command.2dd/ES.dds
+- name: remastered/field2d/it/qd0command.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command.2dd/IT.dds
+- name: remastered/field2d/jp/qd0command.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command.2dd/JP.dds
 
 # === System Related Files ===
 

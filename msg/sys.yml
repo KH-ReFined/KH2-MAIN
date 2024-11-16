@@ -380,6 +380,46 @@
   gr: "※ Europäisch"
   fr: "※ Européen"
 
+- id: 0x012C:
+  en: "Quadratum"
+  fr: "Quadratum"
+  gr: "Quadratum"
+  it: "Quadratum"
+  sp: "Quadratum"
+
+- id: 0x012D:
+  en: "Use a command menu reminiscent of a
+
+    time and place, both familiar and yet
+
+    eerily enigmatic."
+  fr: "Le menu des commandes prend une
+
+    apparence venue d'un lieu familier
+
+    mais enigmatique."
+  gr: "Use a command menu reminiscent of a
+
+    time and place, both familiar and yet
+
+    eerily enigmatic."
+  it: "Use a command menu reminiscent of a
+
+    time and place, both familiar and yet
+
+    eerily enigmatic."
+  sp: "Usa un menú de comandos reminiscente
+
+    de una época y un lugar, familiares y a
+
+    la vez inquietantemente enigmáticos."
+  
+- id: 0x3734
+  en: "By World"
+
+- id: 0x3735
+  en: "Classic"
+
 # === New Game Text === #
 
 - id: 0x0130
