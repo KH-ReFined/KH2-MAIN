@@ -32,8 +32,12 @@
   en: "Select settings for shortcut commands
   
     and other various functions.
-    
-    {:color #E070E080}Press {:icon dynamic-l1} /{:icon dynamic-r1} to switch between sets."
+        {:color #E070E080}Press {:icon dynamic-l1} /{:icon dynamic-r1} to switch between sets."
+
+  it: "Modifica le opzioni dei comandi Uso Rapido
+  
+    e altre varie funzioni.
+        {:color #E070E080}Premi {:icon dynamic-l1} /{:icon dynamic-r1} per cambiare Set."
   gr: "Wähle die Einstellungen für Kurzbefehl-Kommandos
   
     und vielen anderen Funktionen.
@@ -409,11 +413,9 @@
     und einen Ort erinnert, welches bekannt und
 
     doch rätselhaft erscheint."
-  it: "Use a command menu reminiscent of a
-
-    time and place, both familiar and yet
-
-    eerily enigmatic."
+  it: "Usa un menu dei comandi reminescente di
+    un certo luogo e tempo, sia familiare che
+    stranamente enigmatico."
   sp: "Usa un menú de comandos reminiscente
 
     de una época y un lugar, familiares y a
@@ -422,10 +424,12 @@
   
 - id: 0x3734
   en: "By World"
+  it: "Per Mondo"
   gr: "Nach Welt"
 
 - id: 0x3735
   en: "Classic"
+  it: "Classico"
   gr: "Klassisch"
 
 # === New Game Text === #
