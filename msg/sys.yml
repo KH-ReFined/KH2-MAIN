@@ -26,6 +26,7 @@
 
 - id: 0x051F
   en: "{:width 85}Shortcut Set A"
+  it: "{:width 85}Uso rapido Set A"
   gr: "{:width 85}Kurzbefehl-Set A"
 
 - id: 0x3B89
@@ -34,9 +35,9 @@
     and other various functions.
     
     {:color #E070E080}Press {:icon dynamic-l1} /{:icon dynamic-r1} to switch between sets."
-  it: "Modifica le opzioni dei comandi Uso Rapido
+  it: "Scegli le impostazioni per l'Uso
   
-    e altre varie funzioni.
+    rapido e altre funzioni.
     
     {:color #E070E080}Premi {:icon dynamic-l1} /{:icon dynamic-r1} per cambiare Set."
   gr: "Wähle die Einstellungen für Kurzbefehl-Kommandos
