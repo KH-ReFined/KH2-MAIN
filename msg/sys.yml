@@ -33,12 +33,12 @@
   
     and other various functions.
     
-        {:color #E070E080}Press {:icon dynamic-l1} /{:icon dynamic-r1} to switch between sets."
+    {:color #E070E080}Press {:icon dynamic-l1} /{:icon dynamic-r1} to switch between sets."
   it: "Modifica le opzioni dei comandi Uso Rapido
   
     e altre varie funzioni.
     
-        {:color #E070E080}Premi {:icon dynamic-l1} /{:icon dynamic-r1} per cambiare Set."
+    {:color #E070E080}Premi {:icon dynamic-l1} /{:icon dynamic-r1} per cambiare Set."
   gr: "Wähle die Einstellungen für Kurzbefehl-Kommandos
   
     und vielen anderen Funktionen.
@@ -415,7 +415,9 @@
 
     doch rätselhaft erscheint."
   it: "Usa un menu dei comandi reminescente di
+
     un certo luogo e tempo, sia familiare che
+
     stranamente enigmatico."
   sp: "Usa un menú de comandos reminiscente
 
