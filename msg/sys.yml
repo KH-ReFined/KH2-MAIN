@@ -32,10 +32,12 @@
   en: "Select settings for shortcut commands
   
     and other various functions.
+    
         {:color #E070E080}Press {:icon dynamic-l1} /{:icon dynamic-r1} to switch between sets."
   it: "Modifica le opzioni dei comandi Uso Rapido
   
     e altre varie funzioni.
+    
         {:color #E070E080}Premi {:icon dynamic-l1} /{:icon dynamic-r1} per cambiare Set."
   gr: "Wähle die Einstellungen für Kurzbefehl-Kommandos
   
