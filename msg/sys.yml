@@ -27,6 +27,7 @@
 - id: 0x051F
   en: "{:width 85}Shortcut Set A"
   gr: "{:width 85}Kurzbefehl-Set A"
+  fr: "{:width 85}Set de raccourcis A"
 
 - id: 0x3B89
   en: "Select settings for shortcut commands
@@ -39,6 +40,11 @@
     und vielen anderen Funktionen.
     
     {:color #E070E080}Drücke {:icon dynamic-l1} /{:icon dynamic-r1} um zwischen Sets zu wechseln."
+  fr: "Options pour les sets de raccourcis
+  
+    et autres fonctionnalitées.
+    
+    {:color #E070E080}Appuyer sur {:icon dynamic-l1} /{:icon dynamic-r1} pour changer de set."
 
 # === Config Menu Text === #
 
@@ -406,9 +412,9 @@
     mais enigmatique."
   gr: Benutze ein Kommando-Menü, was an eine Zeit
 
-    und einen Ort erinnert, welches bekannt und
+    und einen Ort erinnert, welche bekannt und
 
-    doch rätselhaft erscheint."
+    doch rätselhaft erscheinen."
   it: "Use a command menu reminiscent of a
 
     time and place, both familiar and yet
@@ -423,10 +429,12 @@
 - id: 0x3734
   en: "By World"
   gr: "Nach Welt"
+  fr: "Par Monde"
 
 - id: 0x3735
   en: "Classic"
   gr: "Klassisch"
+  fr: "Classique"
 
 # === New Game Text === #
 
