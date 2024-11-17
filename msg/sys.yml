@@ -27,7 +27,7 @@
 - id: 0x051F
   en: "{:width 85}Shortcut Set A"
   gr: "{:width 85}Kurzbefehl-Set A"
-  fr: "{:width 85}Set de raccourcis A"
+  fr: "{:width 85}Raccourcis A"
 
 - id: 0x3B89
   en: "Select settings for shortcut commands
