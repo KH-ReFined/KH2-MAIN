@@ -5,29 +5,34 @@
   it: "Premi{:icon dynamic-cross} per annullare!"
   gr: "Drücke {:icon dynamic-circle} zum abbrechen!"
   fr: "Appuyez sur {:icon dynamic-cross} pour annuler!"
+  sp: "¡Pulsa{:icon dynamic-cross} para cancelar!"
 
 - id: 0x0101
   en: "Soft-Reset cancelled!"
   it: "Soft-Reset annullato!"
   gr: "Soft-Reset abgebrochen!"
   fr: "Soft-Reset annulé!"
+  sp: "¡Soft-Reset cancelado!"
 
 - id: 0x0102
   en: "Your progress is safe, kupo!"
   it: "Il tuo progresso è al sicuro, kupò!"
   gr: "Dein Fortschritt ist gespeichert, kupo!"
   fr: "Votre progression a été sauvegardée, kupo!"
+  sp: "Tu progreso se ha guardado, ¡kupó!"
 
 - id: 0x0103
   en: "Could not save your progress, kupo! Please save the game manually!"
   it: "Il tuo progresso non può essere salvato, kupò! Si prega di salvare manualmente!"
   gr: "Konnte deinen Fortschritt nicht speichern, kupo! Bitte speichere ihn manuell!"
   fr: "Votre progression n'a pas pu être sauvegardée, kupo! Sauvegardez manuellement!"
+  sp: "No he podido guardar tu progreso, ¡kupó! ¡Por favor guarda el juego manualmente!"
 
 - id: 0x051F
   en: "{:width 85}Shortcut Set A"
   it: "{:width 85}Uso rapido Set A"
   gr: "{:width 85}Kurzbefehl-Set A"
+  sp: "{:width 85}Atajo Set A"
 
 - id: 0x3B89
   en: "Select settings for shortcut commands
@@ -45,6 +50,12 @@
     und vielen anderen Funktionen.
     
     {:color #E070E080}Drücke {:icon dynamic-l1} /{:icon dynamic-r1} um zwischen Sets zu wechseln."
+    
+  sp: "Selecciona los ajustes para atajos de comandos
+  
+    y otras funciones varias.
+    
+    {:color #E070E080}Pulsa {:icon dynamic-l1} /{:icon dynamic-r1} para alternar entre sets."
 
 # === Config Menu Text === #
 
@@ -53,12 +64,14 @@
   it: "Salvataggio automatico"
   gr: "Auto-Speichern"
   fr: "Sauvegarde auto."
+  sp: "Autoguardado"
 
 - id: 0x0105
   en: "Informative"
   it: "Informativo"
   gr: "Informativ"
   fr: "Informatif"
+  sp: "Informativo"
 
 - id: 0x0106
   en: "Autosaving will be done with an indicator."
@@ -67,12 +80,15 @@
     mostrando un avviso."
   gr: "Das Spiel wird mit einer Hinweisanzeige gespeichert."
   fr: "La sauvegarde auto. sera faite avec un indicateur."
+  sp: "El autoguardado se realizará con un aviso"
+
 
 - id: 0x0107
   en: "Silent"
   it: "Silenzioso"
   gr: "Unbemerkt"
   fr: "Silencieux"
+  sp: "Silencioso"
 
 - id: 0x0108
   en: "Autosaving will be done silently."
@@ -81,90 +97,105 @@
     effettuato silenziosamente."
   gr: "Auto-Speichern erfolgt unbemerkt."
   fr: "La sauvegarde auto. sera faite silencieusement."
+  sp: "El autoguardado se realizará silenciosamente."
 
 - id: 0x0109
   en: "Disabled"
   it: "Disattivato"
   gr: "Deaktiviert"
   fr: "Désactivé"
+  sp: "Desactivado"
 
 - id: 0x010A
   en: "Autosaving will be disabled."
   it: "Il salvataggio automatico sarà disattivato."
   gr: "Auto-Speichern wird deaktiviert."
   fr: "La sauvegarde auto. sera désactivée."
+  sp: "El autoguardado estará deshabilitado."
 
 - id: 0x010B
   en: "Audio Language"
   it: "Lingua doppiaggio"
   gr: "Sprachausgabe"
   fr: "Langue audio"
+  sp: "Idioma de audio"
 
 - id: 0x010C
   en: "English"
   it: "Inglese"
   gr: "Englisch"
   fr: "Anglais"
+  sp: "Español"
 
 - id: 0x010D
   en: "The audio will be in English."
   it: "La lingua del doppiaggio sarà in Inglese."
   gr: "Die Sprachausgabe wird auf Englisch sein."
   fr: "La langue audio sera en Anglais."
+  sp: "El idioma del audio será en inglés."
 
 - id: 0x010E
   en: "Japanese"
   it: "Giapponese"
   gr: "Japanisch"
   fr: "Japonais"
+  sp: "Japonés"
 
 - id: 0x010F
   en: "The audio will be in Japanese."
   it: "La lingua del doppiaggio sarà in Giapponese."
   gr: "Die Sprachausgabe wird auf Japanisch sein."
   fr: "La langue audio sera en Japonais."
+  sp: "El idioma del audio será en japonés."
 
 - id: 0x0110
   en: "Spanish"
   it: "Spagnolo"
   gr: "Spanisch"
   fr: "Espagnol"
+  sp: "Español"
 
 - id: 0x0111
   en: "The audio will be in Spanish."
   it: "La lingua del doppiaggio sarà in Spagnolo."
   gr: "Die Sprachausgabe wird auf Spanisch sein."
   fr: "La langue audio sera en Espagnol."
+  sp: "El idioma del audio será en español."
 
 - id: 0x0112
   en: "German"
   it: "Tedesco"
   gr: "Deutsch"
   fr: "Allemand"
+  sp: "Alemán"
 
 - id: 0x0113
   en: "The audio will be in German."
   it: "La lingua del doppiaggio sarà in Tedesco."
   gr: "Die Sprachausgabe wird auf Deutsch sein."
   fr: "La langue audio sera en Allemand."
+  sp: "El idioma del audio será en alemán."
 
 - id: 0x0114
   en: "French"
   it: "Francese"
   gr: "Französisch"
   fr: "Francais"
+  sp: "Francés"
 
 - id: 0x0115
   en: "The audio will be in French."
   it: "La lingua del doppiaggio sarà in Francese."
   gr: "Die Sprachausgabe wird auf Französisch sein."
   fr: "La langue audio sera en Francais."
+  sp: "El idioma del audio será en francés."
 
 - id: 0x0116
   en: "European"
   it: "Europeo"
   gr: "Europäisch"
   fr: "Européen"
+  sp: "Europeo"
 
 - id: 0x0117
   en: "The audio will be in one of the European
@@ -179,18 +210,22 @@
   fr: "La langue audio sera dans l'une des langues
   
     choisie plus bas."
-
+  sp: "El idioma del audio será uno de los
+  
+    siguientes idiomas europeos."
 - id: 0x0118
   en: "Background Music"
   it: "Colonna sonora"
   gr: "Hintergrundmusik"
   fr: "Musique de fond"
+  sp: "Música de fondo"
 
 - id: 0x0119
   en: "Original"
   it: "Originale"
   gr: "Original"
   fr: "Original"
+  sp: "Original"
   
 - id: 0x011A
   en: "The background music will be the
@@ -205,48 +240,58 @@
   fr: "La musique sera celle de la version
   
     originale Playstation® 2."
+  sp: "La música de fondo será de la versión
+  
+    original de Playstation® 2."
 
 - id: 0x011B
   en: "Remastered"
   it: "Rimasterizzata"
   gr: "Neuaflage"
   fr: "Remasterisé"
+  sp: "Remasterizada"
 
 - id: 0x011C
   en: "The background music will be remastered."
   it: "La colonna sonora sarà quella rimasterizzata."
   gr: "Die Hintergrundmusik verwendet die Neuauflage verwenden."
   fr: "La musique sera la version remasterisée."
+  sp: "La música de fondo será de la versión remasterizada."
 
 - id: 0x011D
   en: "Heartless Palette"
   it: "Aspetto degli Heartless"
   gr: "Herzlosen-Palette"
   fr: "Visuels des sans-coeurs"
+  sp: "Paleta de los sincorazón"
 
 - id: 0x011E
   en: "Original"
   it: "Originale"
   gr: "Origilal"
   fr: "Originale"
+  sp: "Original"
 
 - id: 0x011F
   en: "The Heartless will use the Original Palette."
   it: "Gli Heartless avranno l'aspetto classico."
   gr: "Die Herzlosen werden die originale Farben verwenden."
   fr: "Les sans-coeurs utiliseront la palette originale."
+  sp: "Los sincorazón usarán la paleta de colores original."
 
 - id: 0x0120
   en: "Final Mix"
   it: "Final Mix"
   gr: "Final Mix"
   fr: "Final Mix"
+  sp: "Final Mix"
 
 - id: 0x0121
   en: "The Heartless will use the Final Mix Palette."
   it: "Gli Heartless avranno l'aspetto della versione Final Mix."
   gr: "The Herzlosen werden die Final Mix Farben verwenden."
   fr: "Les sans-coeurs utiliseront la palette Final Mix."
+  sp: "Los sincorazón usarán la paleta Final Mix."
 
 
 - id: 0x0122
@@ -254,24 +299,28 @@
   it: "Icone dei comandi"
   gr: "Steuerungseingaben"
   fr: "Affichage des contrôles"
+  sp: "Iconos de los botones"
 
 - id: 0x0123
   en: "Controller"
   it: "Controller"
   gr: "Controller"
   fr: "Manette"
+  sp: "Mando"
 
 - id: 0x0124
   en: "The game will only display Controller Prompts."
   it: "Il gioco mostrerà i comandi del controller."
   gr: "Das Spiel wird nur Controller-Eingaben anzeigen."
   fr: "Le jeu affichera les contrôles pour manette."
+  sp: "El juego solo mostrará los iconos del mando."
 
 - id: 0x0125
   en: "Automatic"
   it: "Automatico"
   gr: "Automatisch"
   fr: "Automatique"
+  sp: "Automático"
 
 - id: 0x0126
   en: "The game will adjust the prompts automatically."
@@ -283,12 +332,14 @@
 
     Controllers automatisch an."
   fr: "Le jeu changera l'affichage des contrôles automatiquement."
-
+  sp: "El juego ajustará los iconos automáticamente." 
+  
 - id: 0x0127
   en: "Prepare & Retry"
   gr: "Vorbereiten und Erneut versuchen"
   it: "Preparati e Riprova"
   fr: "Se Préparer et Réessayer"
+  sp: "Prepararse y reintentar"
   
 - id: 0x0128
   en: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
@@ -326,6 +377,14 @@
     
     Voulez vous mettre à jour? {:color #FFFF0180}[Recommandé!]"
 
+  sp: "{:icon question-mark}{:color #FF010180}PREGUNTA{:reset}
+
+
+    {:width 90}¡Se ha encontrado una nueva actualización de Re:Fined!
+    
+    Las nuevas actualizaciones tienden a ser más estables generalmente
+    
+    ¿Quieres actualizar? {:color #FFFF0180}[¡Muy recomendado!]"
 - id: 0x0129
   en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
@@ -359,7 +418,16 @@
     Cela peut prendre un petit moment.
     
     [####################]  % 888"
+  sp: "{:icon exclamation-mark}{:color #FF010180}INFORMACIÓN{:reset}
+  
 
+    Descargando el paquete de la actualización. 
+
+    Por favor ten paciencia. Puede tardar un momento.
+    
+    
+    [####################]  % 888"
+    
 - id: 0x012A
   en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
@@ -386,11 +454,19 @@
     
     Le jeu va redémarrer pour appliquer la mise à jour..."
   
+  sp: "{:icon exclamation-mark}{:color #FF010180}INFORMACIÓN{:reset}
+  
+
+    ¡Re:Fined ha sido actualizado! 
+    
+    El juego se reiniciará para aplicarlo..."
+    
 - id: 0x012B
   en: "※ European"
   it: "※ Europeo"
   gr: "※ Europäisch"
   fr: "※ Européen"
+  sp: "※ Europeo"
 
 - id: 0x012C
   en: "Quadratum"
@@ -430,11 +506,13 @@
   en: "By World"
   it: "Per Mondo"
   gr: "Nach Welt"
+  sp: "Por mundo"
 
 - id: 0x3735
   en: "Classic"
   it: "Classico"
   gr: "Klassisch"
+  es: "Clásico"
 
 # === New Game Text === #
 
@@ -443,12 +521,14 @@
   it: "Vuoi giocare il prologo?"
   gr: "Durch den Prolog spielen?"
   fr: "Jouer le prologue?"
+  sp: "¿Jugar el prólogo?"
 
 - id: 0x0131
   en: "Play through the prologue as intended!"
   it: "Gioca il prologo come previsto normalmente!"
   gr: "Spiele wie vorgesehen durch den Prolog!"
   fr: "Jouer le prologue normalement."
+  sp: "¡Juega el prólogo de la forma intencionada!"
 
 - id: 0x0132
   en: "                  Skip the prologue entirely.
@@ -462,51 +542,62 @@
     {:color #FFFF0080} (Du wirst wichtige Elemente der Geschichte verpassen!)"
   fr: "               Passer le prologue entièrement.
     {:color #FFFF0080} (Vous raterez des éléments important de l'histoire si vous le faites!)"
+  sp: "                  Salta el prólogo completamente.
+  
+    {:color #FFFF0080} (¡Te perderás elementos de la historia importantes si lo haces!)"
     
 - id: 0x0133
   en: "Autosaving Functionality"
   it: "Seleziona la modalità di salvataggio automatico."
   gr: "Auto-Speichern Funktionalität"
   fr: "Sauvegarde Automatique"
+  sp: "Funcionalidad de autoguardado"
 
 - id: 0x0134
   en: "In-Game Dialog Language"
   it: "Seleziona la lingua del doppiaggio."
   gr: "Textsprache"
   fr: "Langue des dialogues"
+  sp: "Idioma de los diálogos del juego"
 
 - id: 0x0135
   en: "In-Game Soundtrack"
   it: "Seleziona la tipologia di colonna sonora."
   gr: "Soundtrack"
   fr: "Musique en jeu"
+  sp: "Música del juego"
 
 - id: 0x0136
   en: "Heartless Color Palette"
   it: "Seleziona l'aspetto degli Heartless."
   gr: "Herzlosen-Palette"
   fr: "Palette de couleur des sans-coeurs"
+  sp: "Paleta de los sincorazón"
 
 - id: 0x0137
   en: "Button Prompts"
   it: "Seleziona le icone dei comandi da mostrare."
   gr: "Steuerungseingaben"
   fr: "Icones des boutons"
+  sp: "Iconos de los botones"
 
 - id: 0x0138
   en: "YES"
   it: "Sì"
   gr: "JA"
   fr: "OUI"
+  sp: "Sí"
 
 - id: 0x0139
   en: "NO"
   it: "No"
   gr: "NEIN"
   fr: "NON"
+  sp: "No"
 
 - id: 0x013A
   en: "European Sub-Language"
+  sp: "Sub-idioma europeo"
 
 # === Item Text === #
 
@@ -531,18 +622,25 @@
     utilisez le menu de Fusion pour utiliser
     
     la forme Suprême."
+  sp: "Utilizando el verdadero poder
+    
+    de la llave-espada, utiliza el comando Fusión
+    
+    para cambiar a la Forma Final."
     
 - id: 0x064A
   en: "Anti Form"
   it: "Anti-Fusione"
   gr: "Anti-Form"
   fr: "Non-forme"
+  sp: "Anti-Forma"
 
 - id: 0x01E9
   en: "Anti Form"
   it: "Anti-Fusione"
   gr: "Anti-Form"
   fr: "Non-forme"
+  sp: "Anti-Forma"
 
 - id: 0x064B
   en: "Using the darkness in Sora's heart,
@@ -565,6 +663,11 @@
     utilisez le menu de Fusion pour utiliser
     
     la Non-forme."
+  sp: "Utilizando la oscuridad en el corazón de Sora,
+    
+    usa el comando Fusión para
+    
+    cambiar a la Anti-Forma."
 
 # === Ability Text === #
 
@@ -573,6 +676,7 @@
   it: "Incontri Plus"
   gr: "Gefecht +"
   fr: "Rencontre +"
+  sp: "Más Encuentros"
 
 - id: 0x3788
   en: "Increases the rate in which enemies appear, 
@@ -587,58 +691,69 @@
   fr: "Augmente le nombre d'ennemis, 
   
     mais aussi des ennemis plus rares."
+  sp: "Incrementa la frecuencia de aparición de 
+  
+    los enemigos, incluyendo los menos frecuentes."
 
 - id: 0x4E83
   en: "Dodge Roll LV1"
   it: "Destrezza I"
   gr: "Ausweichrolle LV1"
   fr: "Roulade LV1"
+  sp: "Voltereta 1"
 
 - id: 0x4E85
   en: "Dodge Roll LV2"
   it: "Destrezza II"
   gr: "Ausweichrolle LV2"
   fr: "Roulade LV2"
+  sp: "Voltereta 2"
 
 - id: 0x4E87
   en: "Dodge Roll LV3"
   it: "Destrezza III"
   gr: "Ausweichrolle LV3"
   fr: "Roulade LV3"
+  sp: "Voltereta 3"
 
 - id: 0x4E8D
   en: "Sonic Blade"
   it: "Incrocio Sonico"
   gr: "Limitklatsche"
   fr: "Aquilon"
+  sp: "Estocada Sónica"
 
 - id: 0x4EFE
   en: "Sonic Blade"
   it: "Incrocio Sonico"
   gr: "Limitklatsche"
   fr: "Aquilon"
+  sp: "Estocada Sónica"
 
 - id: 0x4E8F
   en: "Ars Arcanum"
   it: "Ultimo Arcanum"
   gr: "Amok-Arkana"
   fr: "Arcanes"
-
+  sp: "Último Arcano"
 
 - id: 0x4F01
   en: "Ars Arcanum"
   it: "Ultimo Arcanum"
   gr: "Amok-Arkana"
   fr: "Arcanes"
+  sp: "Último Arcano"
 
 - id: 0x4E93
   en: "Ragnarok"
   it: "Ragnarok"
   gr: "Ragnarök"
   fr: "Ragnarok"
+  sp: "Ragnarok"
 
 - id: 0x4EF6
   en: "Ragnarok"
   it: "Ragnarok"
   gr: "Ragnarök"
   fr: "Ragnarok"
+  sp: "Ragnarok"
