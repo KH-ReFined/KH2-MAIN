@@ -291,7 +291,7 @@
   it: "Gli Heartless avranno l'aspetto della versione Final Mix."
   gr: "The Herzlosen werden die Final Mix Farben verwenden."
   fr: "Les sans-coeurs utiliseront la palette Final Mix."
-  sp: "Los sincorazón usarán la paleta Final Mix."
+  sp: "Los sincorazón usarán la paleta del Final Mix."
 
 
 - id: 0x0122
@@ -382,7 +382,7 @@
 
     {:width 90}¡Se ha encontrado una nueva actualización de Re:Fined!
     
-    Las nuevas actualizaciones tienden a ser más estables generalmente
+    Las nuevas actualizaciones suelen ser más estables
     
     ¿Quieres actualizar? {:color #FFFF0180}[¡Muy recomendado!]"
 - id: 0x0129
@@ -423,7 +423,7 @@
 
     Descargando el paquete de la actualización. 
 
-    Por favor ten paciencia. Puede tardar un momento.
+    Por favor ten paciencia. Puede tardar un rato.
     
     
     [####################]  % 888"
@@ -624,7 +624,7 @@
     la forme Suprême."
   sp: "Utilizando el verdadero poder
     
-    de la llave-espada, utiliza el comando Fusión
+    de la llave espada, usa el comando Fusión
     
     para cambiar a la Forma Final."
     
