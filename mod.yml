@@ -5,6 +5,23 @@ description: The base patch for Re:Fined on Kingdom Hearts II.
 
 assets:
 
+# === Sound Effect Fixes ===
+ 
+- name: se/se000.win32.scd
+  method: copy
+  source:
+    - name: se/se000.win32.scd
+
+- name: se/se999.win32.scd
+  method: copy
+  source:
+    - name: se/se999.win32.scd
+  
+- name: remastered/obj/B_EX140.a.us/se/obj/se320
+  method: copy
+  source:
+    - name: remastered/obj/B_EX140.a.us/se/obj/se320
+
 # === Language Files ===
 
 - name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png
@@ -37,6 +54,29 @@ assets:
       language: gr
       language: it
 
+- name: msg/us/ca.bar
+  multi:
+    - name: msg/fr/ca.bar
+    - name: msg/gr/ca.bar
+    - name: msg/it/ca.bar
+    - name: msg/sp/ca.bar
+  method: binarc
+  source:
+  - name: ca
+    type: list
+    method: kh2msg
+    source:
+      - name: msg/ca.yml
+        language: en
+        language: sp
+        language: fr
+        language: gr
+        language: it
+
+- name: libretto-ca.bar
+  method: copy
+  source:
+  - name: libretto/libretto-ca.bar
 # === Quadratum Files === #
 
 - name: field2d/us/qd0command.2dd
