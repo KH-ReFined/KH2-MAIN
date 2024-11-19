@@ -26,6 +26,7 @@
 
 - id: 0x051F
   en: "{:width 85}Shortcut Set A"
+  it: "{:width 85}Uso rapido Set A"
   gr: "{:width 85}Kurzbefehl-Set A"
 
 - id: 0x3B89
@@ -34,6 +35,11 @@
     and other various functions.
     
     {:color #E070E080}Press {:icon dynamic-l1} /{:icon dynamic-r1} to switch between sets."
+  it: "Scegli le impostazioni per l'Uso
+  
+    rapido e altre funzioni.
+    
+    {:color #E070E080}Premi {:icon dynamic-l1} /{:icon dynamic-r1} per cambiare Set."
   gr: "Wähle die Einstellungen für Kurzbefehl-Kommandos
   
     und vielen anderen Funktionen.
@@ -409,11 +415,11 @@
     und einen Ort erinnert, welches bekannt und
 
     doch rätselhaft erscheint."
-  it: "Use a command menu reminiscent of a
+  it: "Usa un menu dei comandi reminescente di
 
-    time and place, both familiar and yet
+    un certo luogo e tempo, sia familiare che
 
-    eerily enigmatic."
+    stranamente enigmatico."
   sp: "Usa un menú de comandos reminiscente
 
     de una época y un lugar, familiares y a
@@ -422,10 +428,12 @@
   
 - id: 0x3734
   en: "By World"
+  it: "Per Mondo"
   gr: "Nach Welt"
 
 - id: 0x3735
   en: "Classic"
+  it: "Classico"
   gr: "Klassisch"
 
 # === New Game Text === #
