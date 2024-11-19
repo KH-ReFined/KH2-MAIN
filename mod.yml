@@ -37,10 +37,6 @@ assets:
 
 - name: msg/us/sys.bar
   multi:
-    - name: msg/fr/sys.bar
-    - name: msg/gr/sys.bar
-    - name: msg/sp/sys.bar
-    - name: msg/it/sys.bar
   method: binarc
   source:
   - name: sys
@@ -49,29 +45,106 @@ assets:
     source:
     - name: msg/sys.yml
       language: en
-      language: sp
+
+- name: msg/fr/sys.bar
+  multi:
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
       language: fr
-      language: gr
+
+- name: msg/sp/sys.bar
+  multi:
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: sp
+
+- name: msg/it/sys.bar
+  multi:
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
       language: it
+
+- name: msg/gr/sys.bar
+  multi:
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: gr
 
 - name: msg/us/ca.bar
   multi:
-    - name: msg/fr/ca.bar
-    - name: msg/gr/ca.bar
-    - name: msg/it/ca.bar
-    - name: msg/sp/ca.bar
   method: binarc
   source:
   - name: ca
     type: list
     method: kh2msg
     source:
-      - name: msg/ca.yml
-        language: en
-        language: sp
-        language: fr
-        language: gr
-        language: it
+    - name: msg/ca.yml
+      language: en
+
+- name: msg/fr/ca.bar
+  multi:
+  method: binarc
+  source:
+  - name: ca
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/ca.yml
+      language: fr
+
+- name: msg/sp/ca.bar
+  multi:
+  method: binarc
+  source:
+  - name: ca
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/ca.yml
+      language: sp
+
+- name: msg/it/ca.bar
+  multi:
+  method: binarc
+  source:
+  - name: ca
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/ca.yml
+      language: it
+
+- name: msg/gr/ca.bar
+  multi:
+  method: binarc
+  source:
+  - name: ca
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/ca.yml
+      language: gr
+
 
 - name: libretto-ca.bar
   method: copy
