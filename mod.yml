@@ -19,6 +19,11 @@ assets:
     - name: sys/fontimage.png
 
 - name: msg/us/sys.bar
+  multi:
+    - name: msg/fr/sys.bar
+    - name: msg/gr/sys.bar
+    - name: msg/sp/sys.bar
+    - name: msg/it/sys.bar
   method: binarc
   source:
   - name: sys
@@ -27,6 +32,10 @@ assets:
     source:
     - name: msg/sys.yml
       language: en
+      language: sp
+      language: fr
+      language: gr
+      language: it
 
 # === Quadratum Files === #
 
