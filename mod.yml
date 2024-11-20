@@ -167,7 +167,6 @@ assets:
     - name: msg/hb.yml
       language: it
 
-
 - name: libretto-ca.bar
   method: copy
   source:
