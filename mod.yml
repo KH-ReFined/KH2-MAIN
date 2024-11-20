@@ -164,7 +164,7 @@ assets:
     type: list
     method: kh2msg
     source:
-    - name: msg/jm.yml
+    - name: msg/hb.yml
       language: it
 
 
