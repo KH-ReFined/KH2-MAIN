@@ -1,0 +1,16 @@
+# ===  ITA Larxen spelling fix  ===
+- id: 0x4ED8
+  it: "{:unk08 02 00 06}Combatti di nuovo con Larxene,
+    
+    ma attenzione, ora è più forte.
+    
+    {:chardelay 33 00}Non ora.
+    
+    {:chardelay AC 00}Non mi fa paura!"
+
+- id: 0x5042
+  it: "Sconfiggi Larxene dell'Organizzazione {XIII}!
+    
+    Anche se si duplica, le copie sono reali!
+    
+    Attaccane due per infliggere danni doppi!"
