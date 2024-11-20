@@ -210,6 +210,10 @@ assets:
   - name: remastered/field2d/qd0command.2dd/JP.dds
 
 # === System Related Files ===
+- name: reFined.bin
+  method: copy
+  source:
+    - name: reFined.bin
 
 - name: itempic/item-269.imd 
   method: copy
