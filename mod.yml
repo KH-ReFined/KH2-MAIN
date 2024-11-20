@@ -145,6 +145,16 @@ assets:
     - name: msg/ca.yml
       language: gr
 
+- name: msg/it/jm.bar
+  multi:
+  method: binarc
+  source:
+  - name: ca
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jm.yml
+      language: it
 
 - name: libretto-ca.bar
   method: copy
