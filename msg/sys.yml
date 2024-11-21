@@ -661,34 +661,34 @@
   it: "Aerocombo {:color #F0F0F080}▴"
 
 - id: 0x3BD8
-  it: "{:reset} Reazione {:color #F0F0F080}▴"
+  it: "Reazione {:color #F0F0F080}▴"
 
 - id: 0x3BE2
-  it: "{:reset} Turbo {:color #F0F0F080}▴"
+  it: "Turbo {:color #F0F0F080}▴"
 
 - id: 0x3BE4
-  it: "{:reset} Fusione {:color #F0F0F080}▴"
+  it: "Fusione {:color #F0F0F080}▴"
 
 - id: 0x3BE6
-  it: "{:reset} Invocazione {:color #F0F0F080}▴"
+  it: "Invocazione {:color #F0F0F080}▴"
 
 - id: 0x3BE8
-  it: "{:reset} Combinazione {:color #F0F0F080}▴"
+  it: "Combinazione {:color #F0F0F080}▴"
 
 - id: 0x3BEA
-  it: "{:reset} Esperienza {:color #F0F0F080}▴"
+  it: "Esperienza {:color #F0F0F080}▴"
 
 - id: 0x3BF8
-  it: "{:reset} Fire {:color #F0F0F080}▴"
+  it: "Fire {:color #F0F0F080}▴"
 
 - id: 0x3BFA
-  it: "{:reset} Blizzard {:color #F0F0F080}▴"
+  it: "Blizzard {:color #F0F0F080}▴"
 
 - id: 0x3BFC
-  it: "{:reset} Thunder {:color #F0F0F080}▴"
+  it: "Thunder {:color #F0F0F080}▴"
 
 - id: 0x3BFE
-  it: "{:reset} Oggetti {:color #F0F0F080}▴"
+  it: "Oggetti {:color #F0F0F080}▴"
 
 - id: 0x4E82
   it: "Grazie all'aiuto di amici lontani,
