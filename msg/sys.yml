@@ -655,37 +655,37 @@
   it: "Colpo di grazia Plus"
 
 - id: 0x3BD4
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Combo +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Combo +"
 
 - id: 0x3BD6
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Aerocombo +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Aerocombo +"
 
 - id: 0x3BD8
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Reazione +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Reazione +"
 
 - id: 0x3BE2
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Turbo +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Turbo +"
 
 - id: 0x3BE4
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Fusione +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Fusione +"
 
 - id: 0x3BE6
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Invocazione +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Invocazione +"
 
 - id: 0x3BE8
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Combinazione +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Combinazione +"
 
 - id: 0x3BEA
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Esperienza +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Esperienza +"
 
 - id: 0x3BF8
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Fire +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Fire +"
 
 - id: 0x3BFA
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Blizzard +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Blizzard +"
 
 - id: 0x3BFC
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Thunder +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Thunder +"
 
 - id: 0x3BFE
-  it: "{:scale 10}{:color #E070E080}Boost{:reset} Oggetti +"
+  it: "{:scale 11}{:color #E070E080}Boost{:reset} Oggetti +"
