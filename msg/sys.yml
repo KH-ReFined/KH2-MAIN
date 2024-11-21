@@ -655,52 +655,52 @@
   it: "Colpo di grazia Plus"
 
 - id: 0x3BD4
-  it: "Combo ▴{:scale 7}DMG"
+  it: "Combo ▴{:scale 9} ATT"
 
 - id: 0x3BD6
-  it: "Aerocombo ▴{:scale 7}DMG"
+  it: "Aerocombo ▴{:scale 9} ATT"
 
 - id: 0x3BD8
-  it: "Reazione ▴{:scale 7}50%"
+  it: "Reazione ▴{:scale 9} 50%"
 
 - id: 0x3BE2
-  it: "Turbo ▴{:scale 7}UP"
+  it: "Turbo ▴{:scale 9} UP"
 
 - id: 0x3BE4
-  it: "Fusione ▴{:scale 7}UP"
+  it: "Fusione ▴{:scale 9} UP"
 
 - id: 0x3BE6
-  it: "Invocazione ▴{:scale 7}UP"
+  it: "Invocazione ▴{:scale 9} UP"
 
 - id: 0x3BE8
-  it: "Combinazione ▴{:scale 7}UP"
+  it: "Combinazione ▴{:scale 9} UP"
 
 - id: 0x3BEA
-  it: "Esperienza ▴{:scale 7}x2"
+  it: "Esperienza ▴{:scale 9} x2"
 
 - id: 0x3BF8
-  it: "Fire ▴{:scale 7}20%"
+  it: "Fire ▴{:scale 9} 20%"
 
 - id: 0x3BFA
-  it: "Blizzard ▴{:scale 7}20%"
+  it: "Blizzard ▴{:scale 9} 20%"
 
 - id: 0x3BFC
-  it: "Thunder ▴{:scale 7}20%"
+  it: "Thunder ▴{:scale 9} 20%"
 
 - id: 0x3BFE
-  it: "Oggetti ▴{:scale 7}50%"
+  it: "Oggetti ▴{:scale 9} 50%"
 
 - id: 0x39DD
-  it: "Attacco ▴{:scale 7}UP"
+  it: "Attacco ▴{:scale 9} UP"
 
 - id: 0x39DF
-  it: "Magia ▴{:scale 7}UP"
+  it: "Magia ▴{:scale 9} UP"
 
 - id: 0x39E1
-  it: "Difesa ▴{:scale 7}UP"
+  it: "Difesa ▴{:scale 9} UP"
 
 - id: 0x39E3
-  it: "AP ▴{:scale 7}UP"
+  it: "AP ▴{:scale 9} UP"
 
 - id: 0x4E82
   it: "Grazie all'aiuto di amici lontani,
