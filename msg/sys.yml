@@ -757,3 +757,92 @@
   gr: "Ragnarök"
   fr: "Ragnarok"
   sp: "Ragnarok"
+
+# === ITA System Text Overhaul === #
+
+- id: 0x2F63
+  it: "Combo Plus"
+
+- id: 0x2F65
+  it: "Aerocombo Plus"
+
+- id: 0x3BDA
+  it: "Colpo di grazia Plus"
+
+- id: 0x3BD4
+  it: "Combo ▴{:scale 9} ATT"
+
+- id: 0x3BD6
+  it: "Aerocombo ▴{:scale 9} ATT"
+
+- id: 0x3BD8
+  it: "Reazione ▴{:scale 9} 50%"
+
+- id: 0x3BE2
+  it: "Turbo ▴"
+
+- id: 0x3BE4
+  it: "Fusione ▴"
+
+- id: 0x3BE6
+  it: "Invocazione ▴"
+
+- id: 0x3BE8
+  it: "Combinazione ▴"
+
+- id: 0x3BEA
+  it: "Esperienza ▴{:scale 9} x2"
+
+- id: 0x3BF8
+  it: "Fire ▴{:scale 9} 20%"
+
+- id: 0x3BFA
+  it: "Blizzard ▴{:scale 9} 20%"
+
+- id: 0x3BFC
+  it: "Thunder ▴{:scale 9} 20%"
+
+- id: 0x3BFE
+  it: "Oggetti ▴{:scale 9} 50%"
+
+- id: 0x39DD
+  it: "Attacco ▴{:scale 9} UP"
+
+- id: 0x39DF
+  it: "Magia ▴{:scale 9} UP"
+
+- id: 0x39E1
+  it: "Difesa ▴{:scale 9} UP"
+
+- id: 0x39E3
+  it: "AP ▴{:scale 9} UP"
+
+- id: 0x3C02
+  it: "MP Haste ▴{:scale 9} 25%"
+
+- id: 0x3C12
+  it: "MP Hastera ▴{:scale 9} 50%"
+
+- id: 0x3C14
+  it: "MP Hastega ▴{:scale 9} 75%"
+
+- id: 0x4E82
+  it: "Grazie all'aiuto di amici lontani,
+    
+    potrai usare il comando Turbo per effettuare
+    
+    la Fusione Limite"
+
+- id: 0x0643
+  it: "Grazie all'aiuto di Pippo,
+    
+    potrai usare il comando Turbo per effettuare
+    
+    la Fusione Valore"
+
+- id: 0x0645
+  it: "Grazie all'aiuto di Paperino,
+    
+    potrai usare il comando Turbo per effettuare
+    
+    la Fusione Giudizio"
