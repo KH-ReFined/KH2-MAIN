@@ -642,3 +642,20 @@
   it: "Ragnarok"
   gr: "Ragnarök"
   fr: "Ragnarok"
+
+  # === ITA Ability Text Overhaul === #
+
+- id: 0x2F63
+  it: "Combo Plus"
+
+- id: 0x2F65
+  it: "Aerocombo Plus"
+
+- id: 0x3BDA
+  it: "Colpo di grazia Plus"
+
+- id: 0x3BD4
+  it: "Combo[Boost]"
+
+- id: 0x3BD6
+  it: "Aerocombo[Boost]"
