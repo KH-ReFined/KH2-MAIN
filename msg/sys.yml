@@ -595,9 +595,22 @@
   fr: "NON"
   sp: "No"
 
-- id: 0x013A
-  en: "European Sub-Language"
-  sp: "Sub-idioma europeo"
+# === Discord RPC Text === #
+
+- id: 0x0140
+  en: "HP: [0] | MP: [1]"
+
+- id: 0x0141
+  en: "Level [0] | Form: [1]"
+
+- id: 0x0142
+  en: "Level [0] | Round [2] | Form: [1]"
+
+- id: 0x0143
+  en: "In-Game Time: [0]"
+
+- id: 0x0144
+  en: "On Recharge!"
 
 # === Item Text === #
 
