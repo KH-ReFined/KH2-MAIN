@@ -655,13 +655,13 @@
   it: "Colpo di grazia Plus"
 
 - id: 0x3BD4
-  it: "Combo ▴{:scale 7}UP"
+  it: "Combo ▴{:scale 7}DMG"
 
 - id: 0x3BD6
-  it: "Aerocombo ▴{:scale 7}UP"
+  it: "Aerocombo ▴{:scale 7}DMG"
 
 - id: 0x3BD8
-  it: "Reazione ▴{:scale 7}UP"
+  it: "Reazione ▴{:scale 7}50%"
 
 - id: 0x3BE2
   it: "Turbo ▴{:scale 7}UP"
@@ -676,19 +676,19 @@
   it: "Combinazione ▴{:scale 7}UP"
 
 - id: 0x3BEA
-  it: "Esperienza ▴{:scale 7}UP"
+  it: "Esperienza ▴{:scale 7}x2"
 
 - id: 0x3BF8
-  it: "Fire ▴{:scale 7}UP"
+  it: "Fire ▴{:scale 7}20%"
 
 - id: 0x3BFA
-  it: "Blizzard ▴{:scale 7}UP"
+  it: "Blizzard ▴{:scale 7}20%"
 
 - id: 0x3BFC
-  it: "Thunder ▴{:scale 7}UP"
+  it: "Thunder ▴{:scale 7}20%"
 
 - id: 0x3BFE
-  it: "Oggetti ▴{:scale 7}UP"
+  it: "Oggetti ▴{:scale 7}50%"
 
 - id: 0x39DD
   it: "Attacco ▴{:scale 7}UP"
