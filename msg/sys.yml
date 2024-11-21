@@ -598,13 +598,13 @@
 # === Discord RPC Text === #
 
 - id: 0x0140
-  en: "HP: [0] | MP: [1]"
+  en: "HP: [0] / MP: [1]"
 
 - id: 0x0141
-  en: "Level [0] | Form: [1]"
+  en: "Level [0] / Form: [1]"
 
 - id: 0x0142
-  en: "Level [0] | Round [2] | Form: [1]"
+  en: "Level [0] / Round [2] / Form: [1]"
 
 - id: 0x0143
   en: "In-Game Time: [0]"
