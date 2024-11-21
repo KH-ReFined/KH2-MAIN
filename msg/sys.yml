@@ -655,40 +655,52 @@
   it: "Colpo di grazia Plus"
 
 - id: 0x3BD4
-  it: "Combo {:color #F0F0F080}▴"
+  it: "Combo ▴"
 
 - id: 0x3BD6
-  it: "Aerocombo {:color #F0F0F080}▴"
+  it: "Aerocombo ▴"
 
 - id: 0x3BD8
-  it: "Reazione {:color #F0F0F080}▴"
+  it: "Reazione ▴"
 
 - id: 0x3BE2
-  it: "Turbo {:color #F0F0F080}▴"
+  it: "Turbo ▴"
 
 - id: 0x3BE4
-  it: "Fusione {:color #F0F0F080}▴"
+  it: "Fusione ▴"
 
 - id: 0x3BE6
-  it: "Invocazione {:color #F0F0F080}▴"
+  it: "Invocazione ▴"
 
 - id: 0x3BE8
-  it: "Combinazione {:color #F0F0F080}▴"
+  it: "Combinazione ▴"
 
 - id: 0x3BEA
-  it: "Esperienza {:color #F0F0F080}▴"
+  it: "Esperienza ▴"
 
 - id: 0x3BF8
-  it: "Fire {:color #F0F0F080}▴"
+  it: "Fire ▴"
 
 - id: 0x3BFA
-  it: "Blizzard {:color #F0F0F080}▴"
+  it: "Blizzard ▴"
 
 - id: 0x3BFC
-  it: "Thunder {:color #F0F0F080}▴"
+  it: "Thunder ▴"
 
 - id: 0x3BFE
-  it: "Oggetti {:color #F0F0F080}▴"
+  it: "Oggetti ▴"
+
+- id: 0x39DD
+  it: "Attacco ▴"
+
+- id: 0x39DF
+  it: "Magia ▴"
+
+- id: 0x39E1
+  it: "Difesa ▴"
+
+- id: 0x39E3
+  it: "AP ▴"
 
 - id: 0x4E82
   it: "Grazie all'aiuto di amici lontani,
