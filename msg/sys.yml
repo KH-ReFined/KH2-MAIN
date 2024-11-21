@@ -643,7 +643,7 @@
   gr: "Ragnarök"
   fr: "Ragnarok"
 
-    # === ITA System Text Overhaul === #
+# === ITA System Text Overhaul === #
 
 - id: 0x2F63
   it: "Combo Plus"
@@ -664,16 +664,16 @@
   it: "Reazione ▴{:scale 9} 50%"
 
 - id: 0x3BE2
-  it: "Turbo ▴{:scale 9} UP"
+  it: "Turbo ▴"
 
 - id: 0x3BE4
-  it: "Fusione ▴{:scale 9} UP"
+  it: "Fusione ▴"
 
 - id: 0x3BE6
-  it: "Invocazione ▴{:scale 9} UP"
+  it: "Invocazione ▴"
 
 - id: 0x3BE8
-  it: "Combinazione ▴{:scale 9} UP"
+  it: "Combinazione ▴"
 
 - id: 0x3BEA
   it: "Esperienza ▴{:scale 9} x2"
@@ -701,6 +701,15 @@
 
 - id: 0x39E3
   it: "AP ▴{:scale 9} UP"
+
+- id: 0x3C02
+  it: "MP Haste ▴{:scale 9} 25%"
+
+- id: 0x3C12
+  it: "MP Hastera ▴{:scale 9} 50%"
+
+- id: 0x3C14
+  it: "MP Hastega ▴{:scale 9} 75%"
 
 - id: 0x4E82
   it: "Grazie all'aiuto di amici lontani,
