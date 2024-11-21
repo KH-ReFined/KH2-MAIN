@@ -655,40 +655,40 @@
   it: "Colpo di grazia Plus"
 
 - id: 0x3BD4
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Combo +"
+  it: "Combo {:color #F0F0F080}▴"
 
 - id: 0x3BD6
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Aerocombo +"
+  it: "Aerocombo {:color #F0F0F080}▴"
 
 - id: 0x3BD8
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Reazione +"
+  it: "{:reset} Reazione {:color #F0F0F080}▴"
 
 - id: 0x3BE2
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Turbo +"
+  it: "{:reset} Turbo {:color #F0F0F080}▴"
 
 - id: 0x3BE4
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Fusione +"
+  it: "{:reset} Fusione {:color #F0F0F080}▴"
 
 - id: 0x3BE6
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Invocazione +"
+  it: "{:reset} Invocazione {:color #F0F0F080}▴"
 
 - id: 0x3BE8
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Combinazione +"
+  it: "{:reset} Combinazione {:color #F0F0F080}▴"
 
 - id: 0x3BEA
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Esperienza +"
+  it: "{:reset} Esperienza {:color #F0F0F080}▴"
 
 - id: 0x3BF8
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Fire +"
+  it: "{:reset} Fire {:color #F0F0F080}▴"
 
 - id: 0x3BFA
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Blizzard +"
+  it: "{:reset} Blizzard {:color #F0F0F080}▴"
 
 - id: 0x3BFC
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Thunder +"
+  it: "{:reset} Thunder {:color #F0F0F080}▴"
 
 - id: 0x3BFE
-  it: "{:scale 9}{:color #F0F0F080}BOOST{:reset} Oggetti +"
+  it: "{:reset} Oggetti {:color #F0F0F080}▴"
 
 - id: 0x4E82
   it: "Grazie all'aiuto di amici lontani,
