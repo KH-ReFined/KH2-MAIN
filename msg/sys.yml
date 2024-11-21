@@ -645,53 +645,62 @@
 
     # === ITA System Text Overhaul === #
 
+- id: 0x2F63
+  it: "Combo Plus"
+
+- id: 0x2F65
+  it: "Aerocombo Plus"
+
+- id: 0x3BDA
+  it: "Colpo di grazia Plus"
+
 - id: 0x3BD4
-  it: "Combo ▴{:scale 9} BOOST"
+  it: "Combo ▴"
 
 - id: 0x3BD6
-  it: "Aerocombo ▴{:scale 9} BOOST"
+  it: "Aerocombo ▴"
 
 - id: 0x3BD8
-  it: "Reazione ▴{:scale 9} BOOST"
+  it: "Reazione ▴"
 
 - id: 0x3BE2
-  it: "Turbo ▴{:scale 9} BOOST"
+  it: "Turbo ▴"
 
 - id: 0x3BE4
-  it: "Fusione ▴{:scale 9} BOOST"
+  it: "Fusione ▴"
 
 - id: 0x3BE6
-  it: "Invocazione ▴{:scale 9} BOOST"
+  it: "Invocazione ▴"
 
 - id: 0x3BE8
-  it: "Combinazione ▴{:scale 9} BOOST"
+  it: "Combinazione ▴"
 
 - id: 0x3BEA
-  it: "Esperienza ▴{:scale 9} BOOST"
+  it: "Esperienza ▴"
 
 - id: 0x3BF8
-  it: "Fire ▴{:scale 9} BOOST"
+  it: "Fire ▴"
 
 - id: 0x3BFA
-  it: "Blizzard ▴{:scale 9} BOOST"
+  it: "Blizzard ▴"
 
 - id: 0x3BFC
-  it: "Thunder ▴{:scale 9} BOOST"
+  it: "Thunder ▴"
 
 - id: 0x3BFE
-  it: "Oggetti ▴{:scale 9} BOOST"
+  it: "Oggetti ▴"
 
 - id: 0x39DD
-  it: "Attacco ▴{:scale 9} BOOST"
+  it: "Attacco ▴"
 
 - id: 0x39DF
-  it: "Magia ▴{:scale 9} BOOST"
+  it: "Magia ▴"
 
 - id: 0x39E1
-  it: "Difesa ▴{:scale 9} BOOST"
+  it: "Difesa ▴"
 
 - id: 0x39E3
-  it: "AP ▴{:scale 9} BOOST"
+  it: "AP ▴"
 
 - id: 0x4E82
   it: "Grazie all'aiuto di amici lontani,
