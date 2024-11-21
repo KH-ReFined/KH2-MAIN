@@ -643,7 +643,7 @@
   gr: "Ragnarök"
   fr: "Ragnarok"
 
-  # === ITA Ability Text Overhaul === #
+  # === ITA System Text Overhaul === #
 
 - id: 0x2F63
   it: "Combo Plus"
@@ -689,3 +689,24 @@
 
 - id: 0x3BFE
   it: "{:scale 9}{:color #E070E080}BOOST{:reset} Oggetti +"
+
+- id: 0x4E82
+  it: "Grazie all'aiuto di amici lontani,
+    
+    potrai usare il comando Turbo per effettuare
+    
+    la Fusione Limite"
+
+- id: 0x0643
+  it: "Grazie all'aiuto di Pippo,
+    
+    potrai usare il comando Turbo per effettuare
+    
+    la Fusione Valore"
+
+- id: 0x0645
+  it: "Grazie all'aiuto di Paperino,
+    
+    potrai usare il comando Turbo per effettuare
+    
+    la Fusione Giudizio"
