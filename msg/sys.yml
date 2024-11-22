@@ -599,18 +599,23 @@
 
 - id: 0x0140
   en: "HP: [0] / MP: [1]"
+  fr: "HP: [0] / MP: [1]"
 
 - id: 0x0141
   en: "Level [0] / Form: [1]"
+  fr: "Niveau [0] / Forme: [1]"
 
 - id: 0x0142
   en: "Level [0] / Round [2] / Form: [1]"
+  fr: "Niveau [0] / Match [2] / Forme: [1]"
 
 - id: 0x0143
   en: "In-Game Time: [0]"
+  fr: "Temps de jeu: [0]"
 
 - id: 0x0144
   en: "On Recharge!"
+  fr: "En Recharge!"
 
 # === Item Text === #
 
