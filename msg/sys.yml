@@ -839,18 +839,6 @@
 - id: 0x3BFE
   it: "Oggetti ▴{:scale 9} 50%"
 
-- id: 0x39DD
-  it: "Attacco ▴{:scale 9} UP"
-
-- id: 0x39DF
-  it: "Magia ▴{:scale 9} UP"
-
-- id: 0x39E1
-  it: "Difesa ▴{:scale 9} UP"
-
-- id: 0x39E3
-  it: "AP ▴{:scale 9} UP"
-
 - id: 0x3C02
   it: "MP Haste ▴{:scale 9} 25%"
 
@@ -880,3 +868,63 @@
     potrai usare il comando Turbo per effettuare
     
     la Fusione Giudizio"
+
+- id: 0x39DD
+  it: "Attacco ▴{:scale 9} UP"
+
+- id: 0x39DF
+  it: "Magia ▴{:scale 9} UP"
+
+- id: 0x39E1
+  it: "Difesa ▴{:scale 9} UP"
+
+- id: 0x39E3
+  it: "AP ▴{:scale 9} UP"
+
+- id: 0x39DD
+  it: "Turbo istantaneo+"
+
+- id: 0x3A45
+  it: "Archivio ombra+"
+
+- id: 0x3A4D
+  it: "Piena fioritura+"
+
+- id: 0x3A5F
+  it: "Amuleto scossa+"
+
+- id: 0x3A9B
+  it: "Acrisio+"
+
+- id: 0x3B07
+  it: "Oliarco+"
+
+- id: 0x3E54
+  it: "Save the Queen+"
+
+- id: 0x3E56
+  it: "Save the King+"
+
+- id: 0x4E3B
+  it: "Centurione+"
+
+- id: 0x4E3F
+  it: "Fungo normale+"
+
+- id: 0x4E43
+  it: "Fungo prezioso+"
+
+- id: 0x4E49
+  it: "Orgoglio gelido+"
+
+- id: 0x4E4D
+  it: "Fungo gioioso+"
+
+- id: 0x4E51
+  it: "Fungo maestoso+"
+
+- id: 0x537F
+  it: "Reliquia sciamanica+"
+
+- id: 0x5381
+  it: "Cronaca dell'Akasha+"
