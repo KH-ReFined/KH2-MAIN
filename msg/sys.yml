@@ -804,40 +804,40 @@
   it: "Colpo di grazia Plus"
 
 - id: 0x3BD4
-  it: "Combo ▴{:scale 9} ATT"
+  it: "Combo{:scale 12}{:width 75}+{:reset} ▴{:scale 9} ATT"
 
 - id: 0x3BD6
-  it: "Aerocombo ▴{:scale 9} ATT"
+  it: "Aerocombo{:scale 12}{:width 75}+{:reset} ▴{:scale 9} ATT"
 
 - id: 0x3BD8
-  it: "Reazione ▴{:scale 9} 50%"
+  it: "Reazione{:scale 12}{:width 75}+{:reset} ▴{:scale 9} 50%"
 
 - id: 0x3BE2
-  it: "Turbo ▴"
+  it: "Turbo{:scale 12}{:width 75}+"
 
 - id: 0x3BE4
-  it: "Fusione ▴"
+  it: "Fusione{:scale 12}{:width 75}+"
 
 - id: 0x3BE6
-  it: "Invocazione ▴"
+  it: "Invocazione{:scale 12}{:width 75}+"
 
 - id: 0x3BE8
-  it: "Combinazione ▴"
+  it: "Combinazione{:scale 12}{:width 75}+"
 
 - id: 0x3BEA
-  it: "Esperienza ▴{:scale 9} x2"
+  it: "Esperienza{:scale 12}{:width 75}+{:reset} ▴{:scale 9} x2"
 
 - id: 0x3BF8
-  it: "Fire ▴{:scale 9} 20%"
+  it: "Fire{:scale 12}{:width 75}+{:reset} ▴{:scale 9} 20%"
 
 - id: 0x3BFA
-  it: "Blizzard ▴{:scale 9} 20%"
+  it: "Blizzard{:scale 12}{:width 75}+{:reset} ▴{:scale 9} 20%"
 
 - id: 0x3BFC
-  it: "Thunder ▴{:scale 9} 20%"
+  it: "Thunder{:scale 12}{:width 75}+{:reset} ▴{:scale 9} 20%"
 
 - id: 0x3BFE
-  it: "Oggetti ▴{:scale 9} 50%"
+  it: "Oggetti{:scale 12}{:width 75}+{:reset} ▴{:scale 9} 50%"
 
 - id: 0x3C02
   it: "MP Haste ▴{:scale 9} 25%"
