@@ -35,6 +35,11 @@ assets:
   source:
     - name: sys/fontimage.png
 
+  - name: remastered/msg/us/fontimage.bar/US_fontimage_bar0.png
+    method: copy
+    source:
+      - name: sys/fontimage-1.png
+
 - name: msg/us/sys.bar
   multi:
   method: binarc
