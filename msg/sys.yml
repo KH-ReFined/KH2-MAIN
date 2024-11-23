@@ -394,7 +394,7 @@
     Please be patient. This may take a bit.
     
     
-    [####################]  % 888"
+    [####################]"
   it: "{:icon exclamation-mark}{:color #FF010180}INFORMAZIONE{:reset}
   
 
@@ -409,7 +409,7 @@
     Bitte geduldig bleiben. Es kann eine Weile dauern.
     
     
-    [####################]  % 888"
+    [####################]"
   fr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
@@ -417,7 +417,7 @@
 
     Cela peut prendre un petit moment.
     
-    [####################]  % 888"
+    [####################]"
   sp: "{:icon exclamation-mark}{:color #FF010180}INFORMACIÓN{:reset}
   
 
@@ -426,7 +426,7 @@
     Por favor ten paciencia. Puede tardar un rato.
     
     
-    [####################]  % 888"
+    [####################]"
     
 - id: 0x012A
   en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
