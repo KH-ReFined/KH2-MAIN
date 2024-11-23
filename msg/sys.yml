@@ -32,7 +32,7 @@
   en: "{:width 85}Shortcut Set A"
   it: "{:width 85}Uso rapido Set A"
   gr: "{:width 85}Kurzbefehl-Set A"
-  sp: "{:width 85}Atajo Set A"
+  sp: "{:width 85}Set de atajos A"
 
 - id: 0x3B89
   en: "Select settings for shortcut commands
@@ -80,7 +80,7 @@
     mostrando un avviso."
   gr: "Das Spiel wird mit einer Hinweisanzeige gespeichert."
   fr: "La sauvegarde auto. sera faite avec un indicateur."
-  sp: "El autoguardado se realizará con un aviso"
+  sp: "El autoguardado se realizará con un aviso."
 
 
 - id: 0x0107
@@ -544,7 +544,7 @@
     {:color #FFFF0080} (Vous raterez des éléments important de l'histoire si vous le faites!)"
   sp: "                  Salta el prólogo completamente.
   
-    {:color #FFFF0080} (¡Te perderás elementos de la historia importantes si lo haces!)"
+    {:color #FFFF0080} (¡Omitirás elementos de la historia importantes si lo haces!)"
     
 - id: 0x0133
   en: "Autosaving Functionality"
@@ -629,7 +629,7 @@
   en: "On Recharge!"
   fr: "En Recharge!"
   it: "In Ricarica!"
-  sp: "¡Recargando!"
+  sp: "¡En recarga!"
   gr: "Beim Aufladen!"
 
 
