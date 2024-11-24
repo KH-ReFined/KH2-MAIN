@@ -357,7 +357,7 @@
     
     I nuovi aggiornamenti dovrebbero migliorarne la stabilità.
     
-    Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Molto Consigliato!]"
+    Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Molto consigliato!]"
 
   gr: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
 
@@ -875,7 +875,7 @@
 - id: 0x39E3
   it: "AP ▴{:scale 9} UP"
 
-- id: 0x39DD
+- id: 0x39DB
   it: "Turbo istantaneo+"
 
 - id: 0x3A45
