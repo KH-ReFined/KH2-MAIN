@@ -353,9 +353,9 @@
   it: "{:icon question-mark}{:color #FF010180}AVVISO{:reset}
 
 
-    {:width 90}È disponibile un nuovo aggiornamento per Re:Fined!
+    {:width 90}È disponibile un aggiornamento per Re:Fined!
     
-    I nuovi aggiornamenti dovrebbero migliorare la stabilità della mod.
+    I nuovi aggiornamenti dovrebbero migliorarne la stabilità.
     
     Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Molto Consigliato!]"
 
@@ -398,7 +398,7 @@
   it: "{:icon exclamation-mark}{:color #FF010180}INFORMAZIONE{:reset}
   
 
-    Il download dell'aggiornamento è in corso. 
+    Download dell'aggiornamento in corso. 
 
     Si prega di attendere. L'operazione potrebbe richiedere alcuni minuti.
     
