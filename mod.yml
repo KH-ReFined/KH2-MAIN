@@ -214,6 +214,64 @@ assets:
   source:
   - name: remastered/field2d/qd0command.2dd/JP.dds
 
+- name: field2d/us/qd0command-xbo.2dd
+  multi:
+    - name: field2d/fr/qd0command-xbo.2dd
+    - name: field2d/gr/qd0command-xbo.2dd
+    - name: field2d/sp/qd0command-xbo.2dd
+    - name: field2d/it/qd0command-xbo.2dd
+    - name: field2d/jp/qd0command-xbo.2dd
+  method: copy
+  source:
+  - name: field2d/qd0command-xbo.2dd
+
+- name: remastered/field2d/us/qd0command-xbo.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command-xbo.2dd/US.dds
+- name: remastered/field2d/fr/qd0command-xbo.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command-xbo.2dd/FR.dds
+- name: remastered/field2d/gr/qd0command-xbo.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command-xbo.2dd/DE.dds
+- name: remastered/field2d/sp/qd0command-xbo.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command-xbo.2dd/ES.dds
+- name: remastered/field2d/it/qd0command-xbo.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command-xbo.2dd/IT.dds
+- name: remastered/field2d/jp/qd0command-xbo.2dd/~0.dds
+  method: copy
+  source:
+  - name: remastered/field2d/qd0command-xbo.2dd/JP.dds
+
+# === Title Screen Files ===
+
+- name: remastered/menu/us/title.2ld/US_title_2ld8.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld8.png
+  
+- name: remastered/menu/us/title.2ld/US_title_2ld9.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld9.png
+
+- name: remastered/menu/us/title.2ld/US_title_2ld10.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld10.png
+
+- name: remastered/menu/us/title.2ld/US_title_2ld11.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld11.png
+
 # === System Related Files ===
 - name: reFined.bin
   method: copy
