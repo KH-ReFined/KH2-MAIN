@@ -5,6 +5,27 @@ description: The base patch for Re:Fined on Kingdom Hearts II.
 
 assets:
 
+- name: menu/us/save.2ld
+  method: copy
+  source:
+  - name: menu/save.2ld
+
+- name: menu/us/pause.2ld
+  method: copy
+  source:
+  - name: menu/pause.2ld
+
+- name: menu/us/camp.2ld
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: menu/camp.2ld
+
+- name: menu/us/title.2ld
+  method: copy
+  source:
+  - name: menu/title.2ld
+
 # === Sound Effect Fixes ===
  
 - name: se/se000.win32.scd
