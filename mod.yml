@@ -34,6 +34,8 @@ assets:
     - name: se/se999.win32.scd
   
 - name: remastered/obj/B_EX140.a.us/se/obj/se320
+  multi:
+    - name: remastered/obj/B_EX140_LV99.a.us/se/obj/se320
   method: copy
   source:
     - name: remastered/obj/B_EX140.a.us/se/obj/se320
