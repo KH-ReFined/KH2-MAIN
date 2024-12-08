@@ -353,11 +353,11 @@
   it: "{:icon question-mark}{:color #FF010180}AVVISO{:reset}
 
 
-    {:width 90}È disponibile un nuovo aggiornamento per Re:Fined!
+    {:width 90}È disponibile un aggiornamento per Re:Fined!
     
-    I nuovi aggiornamenti dovrebbero migliorare la stabilità della mod.
+    I nuovi aggiornamenti dovrebbero migliorarne la stabilità.
     
-    Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Molto Consigliato!]"
+    Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Molto consigliato!]"
 
   gr: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
 
@@ -398,9 +398,12 @@
   it: "{:icon exclamation-mark}{:color #FF010180}INFORMAZIONE{:reset}
   
 
-    Il download dell'aggiornamento è in corso. 
+    Download dell'aggiornamento in corso. 
 
-    Si prega di attendere. L'operazione potrebbe richiedere alcuni minuti."
+    Si prega di attendere. L'operazione potrebbe richiedere alcuni minuti.
+    
+    
+    [####################]"
   gr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
@@ -641,6 +644,10 @@
 
 # === Item Text === #
 
+  it: "Oh wow! Hai scoperto un segreto! Cosa avrà fatto? Chissà..."
+
+# === Item Text === #
+
 - id: 0x0649
   en: "Using the Keyblade's true power,
     
@@ -878,7 +885,7 @@
 - id: 0x39E3
   it: "AP ▴{:scale 9} UP"
 
-- id: 0x39DD
+- id: 0x39DB
   it: "Turbo istantaneo+"
 
 - id: 0x3A45
