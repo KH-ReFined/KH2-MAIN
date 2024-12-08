@@ -736,6 +736,11 @@
   sp: "Incrementa la frecuencia de aparición de 
   
     los enemigos, incluyendo los menos frecuentes."
+  
+- id: 0x4062
+  en: "The Moogles grant you the knowledge of the
+    
+    {:icon ability-unequip} {:color FFFF0080}Encounter Plus{:reset} ability! Use it well!"
 
 - id: 0x4E83
   en: "Dodge Roll LV1"
