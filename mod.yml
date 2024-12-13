@@ -1262,3 +1262,1560 @@ assets:
   source:
   - name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
 
+# === Album Images [EN] === #
+
+- name: remastered/menu/us/jm_photo/al11.bin/US_al11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/al11.bin/US_al11_bin0.dds
+- name: remastered/menu/us/jm_photo/al12.bin/US_al12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/al12.bin/US_al12_bin0.dds
+- name: remastered/menu/us/jm_photo/al13.bin/US_al13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/al13.bin/US_al13_bin0.dds
+- name: remastered/menu/us/jm_photo/al14.bin/US_al14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/al14.bin/US_al14_bin0.dds
+- name: remastered/menu/us/jm_photo/al21.bin/US_al21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/al21.bin/US_al21_bin0.dds
+- name: remastered/menu/us/jm_photo/al22.bin/US_al22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/al22.bin/US_al22_bin0.dds
+- name: remastered/menu/us/jm_photo/al23.bin/US_al23_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/al23.bin/US_al23_bin0.dds
+- name: remastered/menu/us/jm_photo/al24.bin/US_al24_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/al24.bin/US_al24_bin0.dds
+- name: remastered/menu/us/jm_photo/bb11.bin/US_bb11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/bb11.bin/US_bb11_bin0.dds
+- name: remastered/menu/us/jm_photo/bb12.bin/US_bb12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/bb12.bin/US_bb12_bin0.dds
+- name: remastered/menu/us/jm_photo/bb13.bin/US_bb13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/bb13.bin/US_bb13_bin0.dds
+- name: remastered/menu/us/jm_photo/bb14.bin/US_bb14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/bb14.bin/US_bb14_bin0.dds
+- name: remastered/menu/us/jm_photo/bb21.bin/US_bb21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/bb21.bin/US_bb21_bin0.dds
+- name: remastered/menu/us/jm_photo/bb22.bin/US_bb22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/bb22.bin/US_bb22_bin0.dds
+- name: remastered/menu/us/jm_photo/bb23.bin/US_bb23_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/bb23.bin/US_bb23_bin0.dds
+- name: remastered/menu/us/jm_photo/bb24.bin/US_bb24_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/bb24.bin/US_bb24_bin0.dds
+- name: remastered/menu/us/jm_photo/ca11.bin/US_ca11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/ca11.bin/US_ca11_bin0.dds
+- name: remastered/menu/us/jm_photo/ca12.bin/US_ca12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/ca12.bin/US_ca12_bin0.dds
+- name: remastered/menu/us/jm_photo/ca13.bin/US_ca13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/ca13.bin/US_ca13_bin0.dds
+- name: remastered/menu/us/jm_photo/ca14.bin/US_ca14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/ca14.bin/US_ca14_bin0.dds
+- name: remastered/menu/us/jm_photo/ca21.bin/US_ca21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/ca21.bin/US_ca21_bin0.dds
+- name: remastered/menu/us/jm_photo/ca22.bin/US_ca22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/ca22.bin/US_ca22_bin0.dds
+- name: remastered/menu/us/jm_photo/ca23.bin/US_ca23_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/ca23.bin/US_ca23_bin0.dds
+- name: remastered/menu/us/jm_photo/ca24.bin/US_ca24_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/ca24.bin/US_ca24_bin0.dds
+- name: remastered/menu/us/jm_photo/dc11.bin/US_dc11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/dc11.bin/US_dc11_bin0.dds
+- name: remastered/menu/us/jm_photo/dc12.bin/US_dc12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/dc12.bin/US_dc12_bin0.dds
+- name: remastered/menu/us/jm_photo/dc13.bin/US_dc13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/dc13.bin/US_dc13_bin0.dds
+- name: remastered/menu/us/jm_photo/dc14.bin/US_dc14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/dc14.bin/US_dc14_bin0.dds
+- name: remastered/menu/us/jm_photo/eh11.bin/US_eh11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/eh11.bin/US_eh11_bin0.dds
+- name: remastered/menu/us/jm_photo/eh12.bin/US_eh12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/eh12.bin/US_eh12_bin0.dds
+- name: remastered/menu/us/jm_photo/eh13.bin/US_eh13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/eh13.bin/US_eh13_bin0.dds
+- name: remastered/menu/us/jm_photo/eh14.bin/US_eh14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/eh14.bin/US_eh14_bin0.dds
+- name: remastered/menu/us/jm_photo/hb11.bin/US_hb11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/hb11.bin/US_hb11_bin0.dds
+- name: remastered/menu/us/jm_photo/hb12.bin/US_hb12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/hb12.bin/US_hb12_bin0.dds
+- name: remastered/menu/us/jm_photo/hb13.bin/US_hb13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/hb13.bin/US_hb13_bin0.dds
+- name: remastered/menu/us/jm_photo/hb21.bin/US_hb21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/hb21.bin/US_hb21_bin0.dds
+- name: remastered/menu/us/jm_photo/hb22.bin/US_hb22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/hb22.bin/US_hb22_bin0.dds
+- name: remastered/menu/us/jm_photo/hb23.bin/US_hb23_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/hb23.bin/US_hb23_bin0.dds
+- name: remastered/menu/us/jm_photo/hb31.bin/US_hb31_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/hb31.bin/US_hb31_bin0.dds
+- name: remastered/menu/us/jm_photo/hb32.bin/US_hb32_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/hb32.bin/US_hb32_bin0.dds
+- name: remastered/menu/us/jm_photo/he11.bin/US_he11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/he11.bin/US_he11_bin0.dds
+- name: remastered/menu/us/jm_photo/he12.bin/US_he12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/he12.bin/US_he12_bin0.dds
+- name: remastered/menu/us/jm_photo/he13.bin/US_he13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/he13.bin/US_he13_bin0.dds
+- name: remastered/menu/us/jm_photo/he14.bin/US_he14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/he14.bin/US_he14_bin0.dds
+- name: remastered/menu/us/jm_photo/he21.bin/US_he21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/he21.bin/US_he21_bin0.dds
+- name: remastered/menu/us/jm_photo/he22.bin/US_he22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/he22.bin/US_he22_bin0.dds
+- name: remastered/menu/us/jm_photo/he23.bin/US_he23_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/he23.bin/US_he23_bin0.dds
+- name: remastered/menu/us/jm_photo/he24.bin/US_he24_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/he24.bin/US_he24_bin0.dds
+- name: remastered/menu/us/jm_photo/lk11.bin/US_lk11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lk11.bin/US_lk11_bin0.dds
+- name: remastered/menu/us/jm_photo/lk12.bin/US_lk12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lk12.bin/US_lk12_bin0.dds
+- name: remastered/menu/us/jm_photo/lk13.bin/US_lk13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lk13.bin/US_lk13_bin0.dds
+- name: remastered/menu/us/jm_photo/lk14.bin/US_lk14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lk14.bin/US_lk14_bin0.dds
+- name: remastered/menu/us/jm_photo/lk21.bin/US_lk21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lk21.bin/US_lk21_bin0.dds
+- name: remastered/menu/us/jm_photo/lk22.bin/US_lk22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lk22.bin/US_lk22_bin0.dds
+- name: remastered/menu/us/jm_photo/lk23.bin/US_lk23_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lk23.bin/US_lk23_bin0.dds
+- name: remastered/menu/us/jm_photo/lk24.bin/US_lk24_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lk24.bin/US_lk24_bin0.dds
+- name: remastered/menu/us/jm_photo/lm11.bin/US_lm11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lm11.bin/US_lm11_bin0.dds
+- name: remastered/menu/us/jm_photo/lm12.bin/US_lm12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lm12.bin/US_lm12_bin0.dds
+- name: remastered/menu/us/jm_photo/lm13.bin/US_lm13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lm13.bin/US_lm13_bin0.dds
+- name: remastered/menu/us/jm_photo/lm14.bin/US_lm14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/lm14.bin/US_lm14_bin0.dds
+- name: remastered/menu/us/jm_photo/mu11.bin/US_mu11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/mu11.bin/US_mu11_bin0.dds
+- name: remastered/menu/us/jm_photo/mu12.bin/US_mu12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/mu12.bin/US_mu12_bin0.dds
+- name: remastered/menu/us/jm_photo/mu13.bin/US_mu13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/mu13.bin/US_mu13_bin0.dds
+- name: remastered/menu/us/jm_photo/mu14.bin/US_mu14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/mu14.bin/US_mu14_bin0.dds
+- name: remastered/menu/us/jm_photo/mu21.bin/US_mu21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/mu21.bin/US_mu21_bin0.dds
+- name: remastered/menu/us/jm_photo/mu22.bin/US_mu22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/mu22.bin/US_mu22_bin0.dds
+- name: remastered/menu/us/jm_photo/mu23.bin/US_mu23_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/mu23.bin/US_mu23_bin0.dds
+- name: remastered/menu/us/jm_photo/mu24.bin/US_mu24_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/mu24.bin/US_mu24_bin0.dds
+- name: remastered/menu/us/jm_photo/nm11.bin/US_nm11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/nm11.bin/US_nm11_bin0.dds
+- name: remastered/menu/us/jm_photo/nm12.bin/US_nm12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/nm12.bin/US_nm12_bin0.dds
+- name: remastered/menu/us/jm_photo/nm13.bin/US_nm13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/nm13.bin/US_nm13_bin0.dds
+- name: remastered/menu/us/jm_photo/nm14.bin/US_nm14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/nm14.bin/US_nm14_bin0.dds
+- name: remastered/menu/us/jm_photo/nm21.bin/US_nm21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/nm21.bin/US_nm21_bin0.dds
+- name: remastered/menu/us/jm_photo/nm22.bin/US_nm22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/nm22.bin/US_nm22_bin0.dds
+- name: remastered/menu/us/jm_photo/nm23.bin/US_nm23_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/nm23.bin/US_nm23_bin0.dds
+- name: remastered/menu/us/jm_photo/nm24.bin/US_nm24_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/nm24.bin/US_nm24_bin0.dds
+- name: remastered/menu/us/jm_photo/po11.bin/US_po11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/po11.bin/US_po11_bin0.dds
+- name: remastered/menu/us/jm_photo/po12.bin/US_po12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/po12.bin/US_po12_bin0.dds
+- name: remastered/menu/us/jm_photo/po13.bin/US_po13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/po13.bin/US_po13_bin0.dds
+- name: remastered/menu/us/jm_photo/po14.bin/US_po14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/po14.bin/US_po14_bin0.dds
+- name: remastered/menu/us/jm_photo/po21.bin/US_po21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/po21.bin/US_po21_bin0.dds
+- name: remastered/menu/us/jm_photo/po22.bin/US_po22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/po22.bin/US_po22_bin0.dds
+- name: remastered/menu/us/jm_photo/po23.bin/US_po23_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/po23.bin/US_po23_bin0.dds
+- name: remastered/menu/us/jm_photo/po24.bin/US_po24_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/po24.bin/US_po24_bin0.dds
+- name: remastered/menu/us/jm_photo/tr11.bin/US_tr11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tr11.bin/US_tr11_bin0.dds
+- name: remastered/menu/us/jm_photo/tr12.bin/US_tr12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tr12.bin/US_tr12_bin0.dds
+- name: remastered/menu/us/jm_photo/tr13.bin/US_tr13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tr13.bin/US_tr13_bin0.dds
+- name: remastered/menu/us/jm_photo/tr14.bin/US_tr14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tr14.bin/US_tr14_bin0.dds
+- name: remastered/menu/us/jm_photo/tr21.bin/US_tr21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tr21.bin/US_tr21_bin0.dds
+- name: remastered/menu/us/jm_photo/tr22.bin/US_tr22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tr22.bin/US_tr22_bin0.dds
+- name: remastered/menu/us/jm_photo/tr23.bin/US_tr23_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tr23.bin/US_tr23_bin0.dds
+- name: remastered/menu/us/jm_photo/tr24.bin/US_tr24_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tr24.bin/US_tr24_bin0.dds
+- name: remastered/menu/us/jm_photo/tt11.bin/US_tt11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tt11.bin/US_tt11_bin0.dds
+- name: remastered/menu/us/jm_photo/tt12.bin/US_tt12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tt12.bin/US_tt12_bin0.dds
+- name: remastered/menu/us/jm_photo/tt21.bin/US_tt21_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tt21.bin/US_tt21_bin0.dds
+- name: remastered/menu/us/jm_photo/tt22.bin/US_tt22_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tt22.bin/US_tt22_bin0.dds
+- name: remastered/menu/us/jm_photo/tt31.bin/US_tt31_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tt31.bin/US_tt31_bin0.dds
+- name: remastered/menu/us/jm_photo/tt32.bin/US_tt32_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tt32.bin/US_tt32_bin0.dds
+- name: remastered/menu/us/jm_photo/tt41.bin/US_tt41_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tt41.bin/US_tt41_bin0.dds
+- name: remastered/menu/us/jm_photo/tt42.bin/US_tt42_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/tt42.bin/US_tt42_bin0.dds
+- name: remastered/menu/us/jm_photo/wi11.bin/US_wi11_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/wi11.bin/US_wi11_bin0.dds
+- name: remastered/menu/us/jm_photo/wi12.bin/US_wi12_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/wi12.bin/US_wi12_bin0.dds
+- name: remastered/menu/us/jm_photo/wi13.bin/US_wi13_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/wi13.bin/US_wi13_bin0.dds
+- name: remastered/menu/us/jm_photo/wi14.bin/US_wi14_bin0.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/jm_photo/wi14.bin/US_wi14_bin0.dds
+
+# === Timeless River Switcher === #
+
+- name: obj/X_AL010.a.us
+  method: copy
+  source:
+  - name: obj/X_AL010.a.us
+- name: obj/X_AL010.mdlx
+  method: copy
+  source:
+  - name: obj/X_AL010.mdlx
+- name: obj/X_EX330.a.us
+  method: copy
+  source:
+  - name: obj/X_EX330.a.us
+- name: obj/X_EX330.mdlx
+  method: copy
+  source:
+  - name: obj/X_EX330.mdlx
+- name: obj/X_EX350.a.fr
+  method: copy
+  source:
+  - name: obj/X_EX350.a.fr
+- name: obj/X_EX350.a.gr
+  method: copy
+  source:
+  - name: obj/X_EX350.a.gr
+- name: obj/X_EX350.a.it
+  method: copy
+  source:
+  - name: obj/X_EX350.a.it
+- name: obj/X_EX350.a.sp
+  method: copy
+  source:
+  - name: obj/X_EX350.a.sp
+- name: obj/X_EX350.a.us
+  method: copy
+  source:
+  - name: obj/X_EX350.a.us
+- name: obj/X_EX350.mdlx
+  method: copy
+  source:
+  - name: obj/X_EX350.mdlx
+- name: obj/X_HB040_BTL.a.fr
+  method: copy
+  source:
+  - name: obj/X_HB040_BTL.a.fr
+- name: obj/X_HB040_BTL.a.gr
+  method: copy
+  source:
+  - name: obj/X_HB040_BTL.a.gr
+- name: obj/X_HB040_BTL.a.it
+  method: copy
+  source:
+  - name: obj/X_HB040_BTL.a.it
+- name: obj/X_HB040_BTL.a.sp
+  method: copy
+  source:
+  - name: obj/X_HB040_BTL.a.sp
+- name: obj/X_HB040_BTL.a.us
+  method: copy
+  source:
+  - name: obj/X_HB040_BTL.a.us
+- name: obj/X_HB040_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/X_HB040_BTL.mdlx
+- name: remastered/obj/X_AL010.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-0.dds
+- name: remastered/obj/X_AL010.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-1.dds
+- name: remastered/obj/X_AL010.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-10.dds
+- name: remastered/obj/X_AL010.a.us/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-11.dds
+- name: remastered/obj/X_AL010.a.us/-12.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-12.dds
+- name: remastered/obj/X_AL010.a.us/-13.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-13.dds
+- name: remastered/obj/X_AL010.a.us/-14.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-14.dds
+- name: remastered/obj/X_AL010.a.us/-15.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-15.dds
+- name: remastered/obj/X_AL010.a.us/-16.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-16.dds
+- name: remastered/obj/X_AL010.a.us/-17.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-17.dds
+- name: remastered/obj/X_AL010.a.us/-18.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-18.dds
+- name: remastered/obj/X_AL010.a.us/-19.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-19.dds
+- name: remastered/obj/X_AL010.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-2.dds
+- name: remastered/obj/X_AL010.a.us/-20.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-20.dds
+- name: remastered/obj/X_AL010.a.us/-21.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-21.dds
+- name: remastered/obj/X_AL010.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-3.dds
+- name: remastered/obj/X_AL010.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-4.dds
+- name: remastered/obj/X_AL010.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-5.dds
+- name: remastered/obj/X_AL010.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-6.dds
+- name: remastered/obj/X_AL010.a.us/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-7.dds
+- name: remastered/obj/X_AL010.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-8.dds
+- name: remastered/obj/X_AL010.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/-9.dds
+- name: remastered/obj/X_AL010.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-0.dds
+- name: remastered/obj/X_AL010.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-1.dds
+- name: remastered/obj/X_AL010.mdlx/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-10.dds
+- name: remastered/obj/X_AL010.mdlx/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-11.dds
+- name: remastered/obj/X_AL010.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-2.dds
+- name: remastered/obj/X_AL010.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-3.dds
+- name: remastered/obj/X_AL010.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-4.dds
+- name: remastered/obj/X_AL010.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-5.dds
+- name: remastered/obj/X_AL010.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-6.dds
+- name: remastered/obj/X_AL010.mdlx/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-7.dds
+- name: remastered/obj/X_AL010.mdlx/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-8.dds
+- name: remastered/obj/X_AL010.mdlx/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.mdlx/-9.dds
+- name: remastered/obj/X_EX330.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-0.dds
+- name: remastered/obj/X_EX330.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-1.dds
+- name: remastered/obj/X_EX330.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-10.dds
+- name: remastered/obj/X_EX330.a.us/-11.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-11.dds
+- name: remastered/obj/X_EX330.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-2.dds
+- name: remastered/obj/X_EX330.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-3.dds
+- name: remastered/obj/X_EX330.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-4.dds
+- name: remastered/obj/X_EX330.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-5.dds
+- name: remastered/obj/X_EX330.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-6.dds
+- name: remastered/obj/X_EX330.a.us/-7.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-7.dds
+- name: remastered/obj/X_EX330.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-8.dds
+- name: remastered/obj/X_EX330.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/-9.dds
+- name: remastered/obj/X_EX330.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.mdlx/-0.dds
+- name: remastered/obj/X_EX330.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.mdlx/-1.dds
+- name: remastered/obj/X_EX330.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.mdlx/-2.dds
+- name: remastered/obj/X_EX330.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.mdlx/-3.dds
+- name: remastered/obj/X_EX330.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.mdlx/-4.dds
+- name: remastered/obj/X_EX330.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.mdlx/-5.dds
+- name: remastered/obj/X_EX330.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.mdlx/-6.dds
+- name: remastered/obj/X_EX350.a.fr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-0.png
+- name: remastered/obj/X_EX350.a.fr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-1.png
+- name: remastered/obj/X_EX350.a.fr/-10.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-10.png
+- name: remastered/obj/X_EX350.a.fr/-11.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-11.png
+- name: remastered/obj/X_EX350.a.fr/-12.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-12.png
+- name: remastered/obj/X_EX350.a.fr/-13.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-13.png
+- name: remastered/obj/X_EX350.a.fr/-14.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-14.png
+- name: remastered/obj/X_EX350.a.fr/-15.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-15.png
+- name: remastered/obj/X_EX350.a.fr/-16.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-16.png
+- name: remastered/obj/X_EX350.a.fr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-2.png
+- name: remastered/obj/X_EX350.a.fr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-3.png
+- name: remastered/obj/X_EX350.a.fr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-4.png
+- name: remastered/obj/X_EX350.a.fr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-5.png
+- name: remastered/obj/X_EX350.a.fr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-6.png
+- name: remastered/obj/X_EX350.a.fr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-7.png
+- name: remastered/obj/X_EX350.a.fr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-8.png
+- name: remastered/obj/X_EX350.a.fr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/-9.png
+- name: remastered/obj/X_EX350.a.gr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-0.png
+- name: remastered/obj/X_EX350.a.gr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-1.png
+- name: remastered/obj/X_EX350.a.gr/-10.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-10.png
+- name: remastered/obj/X_EX350.a.gr/-11.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-11.png
+- name: remastered/obj/X_EX350.a.gr/-12.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-12.png
+- name: remastered/obj/X_EX350.a.gr/-13.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-13.png
+- name: remastered/obj/X_EX350.a.gr/-14.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-14.png
+- name: remastered/obj/X_EX350.a.gr/-15.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-15.png
+- name: remastered/obj/X_EX350.a.gr/-16.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-16.png
+- name: remastered/obj/X_EX350.a.gr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-2.png
+- name: remastered/obj/X_EX350.a.gr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-3.png
+- name: remastered/obj/X_EX350.a.gr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-4.png
+- name: remastered/obj/X_EX350.a.gr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-5.png
+- name: remastered/obj/X_EX350.a.gr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-6.png
+- name: remastered/obj/X_EX350.a.gr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-7.png
+- name: remastered/obj/X_EX350.a.gr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-8.png
+- name: remastered/obj/X_EX350.a.gr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/-9.png
+- name: remastered/obj/X_EX350.a.it/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-0.png
+- name: remastered/obj/X_EX350.a.it/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-1.png
+- name: remastered/obj/X_EX350.a.it/-10.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-10.png
+- name: remastered/obj/X_EX350.a.it/-11.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-11.png
+- name: remastered/obj/X_EX350.a.it/-12.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-12.png
+- name: remastered/obj/X_EX350.a.it/-13.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-13.png
+- name: remastered/obj/X_EX350.a.it/-14.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-14.png
+- name: remastered/obj/X_EX350.a.it/-15.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-15.png
+- name: remastered/obj/X_EX350.a.it/-16.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-16.png
+- name: remastered/obj/X_EX350.a.it/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-2.png
+- name: remastered/obj/X_EX350.a.it/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-3.png
+- name: remastered/obj/X_EX350.a.it/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-4.png
+- name: remastered/obj/X_EX350.a.it/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-5.png
+- name: remastered/obj/X_EX350.a.it/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-6.png
+- name: remastered/obj/X_EX350.a.it/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-7.png
+- name: remastered/obj/X_EX350.a.it/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-8.png
+- name: remastered/obj/X_EX350.a.it/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/-9.png
+- name: remastered/obj/X_EX350.a.sp/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-0.png
+- name: remastered/obj/X_EX350.a.sp/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-1.png
+- name: remastered/obj/X_EX350.a.sp/-10.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-10.png
+- name: remastered/obj/X_EX350.a.sp/-11.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-11.png
+- name: remastered/obj/X_EX350.a.sp/-12.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-12.png
+- name: remastered/obj/X_EX350.a.sp/-13.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-13.png
+- name: remastered/obj/X_EX350.a.sp/-14.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-14.png
+- name: remastered/obj/X_EX350.a.sp/-15.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-15.png
+- name: remastered/obj/X_EX350.a.sp/-16.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-16.png
+- name: remastered/obj/X_EX350.a.sp/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-2.png
+- name: remastered/obj/X_EX350.a.sp/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-3.png
+- name: remastered/obj/X_EX350.a.sp/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-4.png
+- name: remastered/obj/X_EX350.a.sp/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-5.png
+- name: remastered/obj/X_EX350.a.sp/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-6.png
+- name: remastered/obj/X_EX350.a.sp/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-7.png
+- name: remastered/obj/X_EX350.a.sp/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-8.png
+- name: remastered/obj/X_EX350.a.sp/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/-9.png
+- name: remastered/obj/X_EX350.a.us/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-0.png
+- name: remastered/obj/X_EX350.a.us/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-1.png
+- name: remastered/obj/X_EX350.a.us/-10.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-10.png
+- name: remastered/obj/X_EX350.a.us/-11.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-11.png
+- name: remastered/obj/X_EX350.a.us/-12.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-12.png
+- name: remastered/obj/X_EX350.a.us/-13.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-13.png
+- name: remastered/obj/X_EX350.a.us/-14.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-14.png
+- name: remastered/obj/X_EX350.a.us/-15.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-15.png
+- name: remastered/obj/X_EX350.a.us/-16.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-16.png
+- name: remastered/obj/X_EX350.a.us/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-2.png
+- name: remastered/obj/X_EX350.a.us/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-3.png
+- name: remastered/obj/X_EX350.a.us/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-4.png
+- name: remastered/obj/X_EX350.a.us/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-5.png
+- name: remastered/obj/X_EX350.a.us/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-6.png
+- name: remastered/obj/X_EX350.a.us/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-7.png
+- name: remastered/obj/X_EX350.a.us/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-8.png
+- name: remastered/obj/X_EX350.a.us/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/-9.png
+- name: remastered/obj/X_EX350.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.mdlx/-0.dds
+- name: remastered/obj/X_EX350.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.mdlx/-1.dds
+- name: remastered/obj/X_EX350.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.mdlx/-2.dds
+- name: remastered/obj/X_HB040_BTL.a.fr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-0.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-1.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-10.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-10.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-11.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-11.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-12.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-12.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-13.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-13.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-14.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-14.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-15.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-15.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-16.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-16.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-17.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-17.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-18.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-18.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-19.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-19.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-2.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-3.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-4.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-5.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-6.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-7.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-8.png
+- name: remastered/obj/X_HB040_BTL.a.fr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/-9.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-0.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-1.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-10.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-10.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-11.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-11.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-12.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-12.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-13.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-13.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-14.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-14.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-15.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-15.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-16.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-16.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-17.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-17.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-18.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-18.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-19.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-19.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-2.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-3.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-4.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-5.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-6.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-7.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-8.png
+- name: remastered/obj/X_HB040_BTL.a.gr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/-9.png
+- name: remastered/obj/X_HB040_BTL.a.it/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-0.png
+- name: remastered/obj/X_HB040_BTL.a.it/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-1.png
+- name: remastered/obj/X_HB040_BTL.a.it/-10.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-10.png
+- name: remastered/obj/X_HB040_BTL.a.it/-11.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-11.png
+- name: remastered/obj/X_HB040_BTL.a.it/-12.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-12.png
+- name: remastered/obj/X_HB040_BTL.a.it/-13.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-13.png
+- name: remastered/obj/X_HB040_BTL.a.it/-14.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-14.png
+- name: remastered/obj/X_HB040_BTL.a.it/-15.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-15.png
+- name: remastered/obj/X_HB040_BTL.a.it/-16.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-16.png
+- name: remastered/obj/X_HB040_BTL.a.it/-17.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-17.png
+- name: remastered/obj/X_HB040_BTL.a.it/-18.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-18.png
+- name: remastered/obj/X_HB040_BTL.a.it/-19.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-19.png
+- name: remastered/obj/X_HB040_BTL.a.it/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-2.png
+- name: remastered/obj/X_HB040_BTL.a.it/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-3.png
+- name: remastered/obj/X_HB040_BTL.a.it/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-4.png
+- name: remastered/obj/X_HB040_BTL.a.it/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-5.png
+- name: remastered/obj/X_HB040_BTL.a.it/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-6.png
+- name: remastered/obj/X_HB040_BTL.a.it/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-7.png
+- name: remastered/obj/X_HB040_BTL.a.it/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-8.png
+- name: remastered/obj/X_HB040_BTL.a.it/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/-9.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-0.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-1.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-10.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-10.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-11.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-11.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-12.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-12.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-13.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-13.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-14.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-14.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-15.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-15.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-16.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-16.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-17.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-17.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-18.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-18.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-19.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-19.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-2.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-3.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-4.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-5.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-6.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-7.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-8.png
+- name: remastered/obj/X_HB040_BTL.a.sp/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/-9.png
+- name: remastered/obj/X_HB040_BTL.a.us/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-0.png
+- name: remastered/obj/X_HB040_BTL.a.us/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-1.png
+- name: remastered/obj/X_HB040_BTL.a.us/-10.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-10.png
+- name: remastered/obj/X_HB040_BTL.a.us/-11.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-11.png
+- name: remastered/obj/X_HB040_BTL.a.us/-12.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-12.png
+- name: remastered/obj/X_HB040_BTL.a.us/-13.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-13.png
+- name: remastered/obj/X_HB040_BTL.a.us/-14.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-14.png
+- name: remastered/obj/X_HB040_BTL.a.us/-15.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-15.png
+- name: remastered/obj/X_HB040_BTL.a.us/-16.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-16.png
+- name: remastered/obj/X_HB040_BTL.a.us/-17.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-17.png
+- name: remastered/obj/X_HB040_BTL.a.us/-18.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-18.png
+- name: remastered/obj/X_HB040_BTL.a.us/-19.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-19.png
+- name: remastered/obj/X_HB040_BTL.a.us/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-2.png
+- name: remastered/obj/X_HB040_BTL.a.us/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-3.png
+- name: remastered/obj/X_HB040_BTL.a.us/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-4.png
+- name: remastered/obj/X_HB040_BTL.a.us/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-5.png
+- name: remastered/obj/X_HB040_BTL.a.us/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-6.png
+- name: remastered/obj/X_HB040_BTL.a.us/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-7.png
+- name: remastered/obj/X_HB040_BTL.a.us/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-8.png
+- name: remastered/obj/X_HB040_BTL.a.us/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/-9.png
+- name: remastered/obj/X_HB040_BTL.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.mdlx/-0.dds
+- name: remastered/obj/X_HB040_BTL.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.mdlx/-1.dds
+- name: remastered/obj/X_HB040_BTL.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.mdlx/-2.dds
+- name: remastered/obj/X_AL010.a.us/se/obj/se597
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/se/obj/se597
+- name: remastered/obj/X_EX330.a.us/se/obj/se595
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/se/obj/se595
+- name: remastered/obj/X_EX350.a.fr/se/obj/se596
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/se/obj/se596
+- name: remastered/obj/X_EX350.a.gr/se/obj/se596
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/se/obj/se596
+- name: remastered/obj/X_EX350.a.it/se/obj/se596
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/se/obj/se596
+- name: remastered/obj/X_EX350.a.sp/se/obj/se596
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/se/obj/se596
+- name: remastered/obj/X_EX350.a.us/se/obj/se596
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/se/obj/se596
+- name: remastered/obj/X_HB040_BTL.a.fr/se/obj/se598
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/se/obj/se598
+- name: remastered/obj/X_HB040_BTL.a.gr/se/obj/se598
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/se/obj/se598
+- name: remastered/obj/X_HB040_BTL.a.it/se/obj/se598
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/se/obj/se598
+- name: remastered/obj/X_HB040_BTL.a.sp/se/obj/se598
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/se/obj/se598
+- name: remastered/obj/X_HB040_BTL.a.us/se/obj/se598
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/se/obj/se598
+- name: remastered/obj/X_AL010.a.us/voice/battle/us/genie
+  method: copy
+  source:
+  - name: remastered/obj/X_AL010.a.us/voice/battle/us/genie
+- name: remastered/obj/X_EX330.a.us/voice/battle/us/peterpan
+  method: copy
+  source:
+  - name: remastered/obj/X_EX330.a.us/voice/battle/us/peterpan
+- name: remastered/obj/X_EX350.a.fr/voice/battle/us/chicken_little
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.fr/voice/battle/us/chicken_little
+- name: remastered/obj/X_EX350.a.gr/voice/battle/us/chicken_little
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.gr/voice/battle/us/chicken_little
+- name: remastered/obj/X_EX350.a.it/voice/battle/us/chicken_little
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.it/voice/battle/us/chicken_little
+- name: remastered/obj/X_EX350.a.sp/voice/battle/us/chicken_little
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.sp/voice/battle/us/chicken_little
+- name: remastered/obj/X_EX350.a.us/voice/battle/us/chicken_little
+  method: copy
+  source:
+  - name: remastered/obj/X_EX350.a.us/voice/battle/us/chicken_little
+- name: remastered/obj/X_HB040_BTL.a.fr/voice/battle/us/stitch
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.fr/voice/battle/us/stitch
+- name: remastered/obj/X_HB040_BTL.a.gr/voice/battle/us/stitch
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.gr/voice/battle/us/stitch
+- name: remastered/obj/X_HB040_BTL.a.it/voice/battle/us/stitch
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.it/voice/battle/us/stitch
+- name: remastered/obj/X_HB040_BTL.a.sp/voice/battle/us/stitch
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.sp/voice/battle/us/stitch
+- name: remastered/obj/X_HB040_BTL.a.us/voice/battle/us/stitch
+  method: copy
+  source:
+  - name: remastered/obj/X_HB040_BTL.a.us/voice/battle/us/stitch
