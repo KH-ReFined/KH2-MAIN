@@ -241,7 +241,7 @@
   sp: "El idioma del audio será uno de los
   
     siguientes idiomas europeos."
-  jp: "音声は下で選択した言語になります。
+  jp: "音声は下で選択した言語になります。"
 
 - id: 0x0118
   en: "Background Music"
@@ -736,10 +736,6 @@
 
 # === Item Text === #
 
-  it: "Oh wow! Hai scoperto un segreto! Cosa avrà fatto? Chissà..."
-
-# === Item Text === #
-
 - id: 0x0649
   en: "Using the Keyblade's true power,
     
@@ -882,7 +878,7 @@
   gr: "Limitklatsche"
   fr: "Aquilon"
   sp: "Estocada Sónica"
-  jp: "ソニックレイヴ""
+  jp: "ソニックレイヴ"
 
 - id: 0x4EFE
   en: "Sonic Blade"
