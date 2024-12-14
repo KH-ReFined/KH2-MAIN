@@ -113,6 +113,17 @@ assets:
     - name: msg/sys.yml
       language: gr
 
+- name: msg/jp/sys.bar
+  multi:
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: jp
+
 - name: msg/us/ca.bar
   multi:
   method: binarc
