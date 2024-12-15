@@ -6,7 +6,7 @@
   gr: "Drücke {:icon dynamic-circle} zum abbrechen!"
   fr: "Appuyez sur {:icon dynamic-cross} pour annuler!"
   sp: "¡Pulsa{:icon dynamic-cross} para cancelar!"
-  jp: "キャンセルするには{:icon dynamic-cross}を押して下さい。"
+  jp: "キャンセルするには{:icon dynamic-cross}を押して下さ{:unk 91}。"
 
 - id: 0x0101
   en: "Soft-Reset cancelled!"
@@ -65,7 +65,7 @@
   
     さまざまな機能の設定をします
     
-    {:color #E070E080}セットを切り替えるには、{:icon dynamic-l1} /{:icon dynamic-r1}を押して下さい。"
+    {:color #E070E080}セットを切り替えるには、{:icon dynamic-l1} /{:icon dynamic-r1}を押して下さ{:unk 91}。"
 
 # === Config Menu Text === #
 
@@ -101,7 +101,7 @@
   gr: "Unbemerkt"
   fr: "Silencieux"
   sp: "Silencioso"
-  jp: "通知しない"
+  jp: "通知しな{:unk 91}"
 
 - id: 0x0108
   en: "Autosaving will be done silently."
@@ -486,9 +486,9 @@
   jp: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
-    更新データをダウンロードしています。
+    更新データをダウンロードして{:unk 91}ます。
 
-    しばらくお待ちください。時間がかかる場合があります。
+    しばらくお待ちくださ{:unk 91}。時間がかかる場合があります。
     
     
     [####################]"
@@ -682,7 +682,7 @@
   gr: "JA"
   fr: "OUI"
   sp: "Sí"
-  jp: "はい"
+  jp: "は{:unk 91}"
 
 - id: 0x0139
   en: "NO"
@@ -690,7 +690,7 @@
   gr: "NEIN"
   fr: "NON"
   sp: "No"
-  sp: "いいえ"
+  sp: "{:unk 91}{:unk 91}え"
 
 # === Discord RPC Text === #
 
@@ -842,9 +842,9 @@
   sp: "Incrementa la frecuencia de aparición de 
   
     los enemigos, incluyendo los menos frecuentes."
-  jp: "フィールドを移動している時、
+  jp: "フィールドを移動して{:unk 91}る時、
   
-    敵に出会いやすくなります
+    敵に出会{:unk 91}やすくなります
   
     {:color #FFFF0080}レアな敵もふくみます{:reset}"
 
