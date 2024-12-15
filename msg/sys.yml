@@ -65,7 +65,7 @@
   
     さまざまな機能の設定をします
     
-    {:color #E070E080}セットを切り替えるには、{:icon dynamic-l1} /{:icon dynamic-r1}を押して下さ{:unk 91}。"
+    {:color #E070E080}セットを切り替{:unk 93}るには、{:icon dynamic-l1} /{:icon dynamic-r1}を押して下さ{:unk 91}。"
 
 # === Config Menu Text === #
 
@@ -690,7 +690,7 @@
   gr: "NEIN"
   fr: "NON"
   sp: "No"
-  sp: "{:unk 91}{:unk 91}え"
+  sp: "{:unk 91}{:unk 91}{:unk 93}"
 
 # === Discord RPC Text === #
 
