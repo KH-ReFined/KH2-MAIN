@@ -1,4 +1,4 @@
-# ===  ITA Larxen spelling fix  ===
+# ===  ITA Larxene Spelling Fix === #
 - id: 0x4ED8
   it: "{:unk08 02 00 06}Combatti di nuovo con Larxene,
     
@@ -14,6 +14,8 @@
     Anche se si duplica, le copie sono reali!
     
     Attaccane due per infliggere danni doppi!"
+
+# === Sephiroth Absent Silhouette Text === #
 
 - id: 0x5501
   en: "{:unk 08}{:unk 02}{:unk 00}{:unk 06}Battle Sephiroth again?
