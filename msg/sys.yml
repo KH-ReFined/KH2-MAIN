@@ -690,7 +690,6 @@
   gr: "NEIN"
   fr: "NON"
   sp: "No"
-  sp: "{:unk 91}{:unk 91}{:unk 93}"
 
 # === Discord RPC Text === #
 
@@ -738,9 +737,11 @@
 
 - id: 0x5745
   en: "You have uncovered a secret! I wonder what it did, kupo..."
-
+  sp: "¡Has descubierto un secreto! Me pregunto que será, kupo..."
+  
 - id: 0x5750
   en: "Retribution"
+  sp: "Retribución"
 
 - id: 0x5751
   en: "A Keychain that only obeys Patron of the Mods.
@@ -748,17 +749,28 @@
     It's power is entirely dependent on what it's 
     
     wielder wishes it to be."
+  sp: "Un llavero que sólo obedece al Patrón de los Mods.
+  
+    Su poder depende al completo de los deseos
+    
+    de su portador."
 
 - id: 0x5752
   en: "Absolution"
-
+  sp: "Absolución"
+  
 - id: 0x5753
   en: "A Keychain that only obeys those who defy all
   
     reason. It's power is entirely dependent on what
     
     it's wielder commands it to be."
-
+  sp: "Un llavero que sólo obedece a esos que desafían toda la razón. 
+  
+	Su poder depende al completo de los deseos
+    
+	de su portador."
+  
 - id: 0x0649
   en: "Using the Keyblade's true power,
     
