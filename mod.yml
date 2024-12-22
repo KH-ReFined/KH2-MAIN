@@ -848,18 +848,22 @@ assets:
 - name: 03system.bin
   method: binarc
   source:
+  - name: item
+    type: list
+    method: copy
+    source:
+    - name: 03system.bin/item.bin
+  - name: went
+    type: list
+    method: copy
+    source:
+    - name: 03system.bin/went.bin
   - name: trsr
     type: list
     method: listpatch
     source:
-    - name: sys/trsr.yml
+    - name: 03system.bin/trsr.yml
       type: trsr
-  - name: item 
-    type: list
-    method: listpatch
-    source:
-    - name: sys/item.yml
-      type: item
 
 - name: ard/es00.ard
   multi:
