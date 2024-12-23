@@ -738,6 +738,7 @@
 
 - id: 0x5745
   en: "You have uncovered a secret! I wonder what it did, kupo..."
+  fr: "Ouah! Tu as découvert un secret! Qu'est-ce que ca a fait, je me demande..?"
 
 - id: 0x5750
   en: "Retribution"
