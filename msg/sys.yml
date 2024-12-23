@@ -738,6 +738,7 @@
 
 - id: 0x5745
   en: "You have uncovered a secret! I wonder what it did, kupo..."
+  en: "Hai scoperto un segreto! Mi chiedo cosa abbia fatto, kupo..."
 
 - id: 0x5750
   en: "Retribution"
@@ -751,6 +752,7 @@
 
 - id: 0x5752
   en: "Absolution"
+  it: "Assoluzione"
 
 - id: 0x5753
   en: "A Keychain that only obeys those who defy all
@@ -758,6 +760,11 @@
     reason. It's power is entirely dependent on what
     
     it's wielder commands it to be."
+  it: "Un Keychain che ascolta solo coloro che
+  
+    sfidano ogni ragione. Il suo potere dipende
+    
+    interamente dai comandi del suo portatore.
 
 - id: 0x0649
   en: "Using the Keyblade's true power,
