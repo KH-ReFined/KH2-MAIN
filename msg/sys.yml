@@ -738,10 +738,11 @@
 
 - id: 0x5745
   en: "You have uncovered a secret! I wonder what it did, kupo..."
-  it: "Hai scoperto un segreto! Mi chiedo cosa abbia fatto, kupo..."
+  en: "Hai scoperto un segreto! Mi chiedo cosa abbia fatto, kupo..."
 
 - id: 0x5750
   en: "Retribution"
+  it: "Retribuzione"
 
 - id: 0x5751
   en: "A Keychain that only obeys Patron of the Mods.
@@ -749,6 +750,11 @@
     It's power is entirely dependent on what it's 
     
     wielder wishes it to be."
+  it: "Un Keychain che obbedisce soltanto ai Patron
+  
+    delle mod. Il suo potere dipende interamente da 
+    
+    ciò che il suo custode desidera."
 
 - id: 0x5752
   en: "Absolution"
@@ -764,7 +770,7 @@
   
     sfidano ogni ragione. Il suo potere dipende
     
-    interamente dalla richiesta del suo custode.
+    interamente da ciò che il suo custode gli ordina.
 
 - id: 0x0649
   en: "Using the Keyblade's true power,
