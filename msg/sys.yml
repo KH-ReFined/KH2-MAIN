@@ -752,7 +752,7 @@
 - id: 0x5751
   en: "A Keychain that only obeys Patron of the Mods.
   
-    It's power is entirely dependent on what it's 
+    Its power is entirely dependent on what its 
     
     wielder wishes it to be."
   sp: "Un llavero que sólo obedece al Patrón de los Mods.
@@ -787,9 +787,9 @@
 - id: 0x5753
   en: "A Keychain that only obeys those who defy all
   
-    reason. It's power is entirely dependent on what
+    reason. Its power is entirely dependent on what
     
-    it's wielder commands it to be."
+    its wielder commands it to be."
   sp: "Un llavero que sólo obedece a esos que desafían toda la razón. 
   
 	Su poder depende al completo de los deseos
@@ -799,13 +799,12 @@
   
     sfidano ogni ragione. Il suo potere dipende
     
-    interamente da ciò che il suo custode gli ordina.
+    interamente da ciò che il suo custode gli ordina."
   fr: "Une keyblade qui obéit uniquement à ceux qui
   
     défient toute raison. Sa puissance dépends entièrement
     
     de la volonté de son porteur."
-
   gr: "Ein Schlüsselanhänger, der nur denen gehorcht, die sich
   
     jeder Vernunft widersetzen. Seine Macht hängt
