@@ -690,7 +690,6 @@
   gr: "NEIN"
   fr: "NON"
   sp: "No"
-  sp: "{:unk 91}{:unk 91}{:unk 93}"
 
 # === Discord RPC Text === #
 
@@ -738,12 +737,14 @@
 
 - id: 0x5745
   en: "You have uncovered a secret! I wonder what it did, kupo..."
+  sp: "¡Has descubierto un secreto! Me pregunto que será, kupo..."
   gr: "Du hast ein Geheimnis entdeckt! Ich frage mich was passiert ist, kupo..."
   it: "Hai scoperto un segreto! Mi chiedo cosa abbia fatto, kupo..."
   fr: "Ouah! Tu as découvert un secret! Qu'est-ce que ca a fait, je me demande..?"
   
 - id: 0x5750
   en: "Retribution"
+  sp: "Retribución"
   gr: "Vergeltung"
   it: "Retribuzione"
   fr: "Rétribution"
@@ -754,6 +755,11 @@
     It's power is entirely dependent on what it's 
     
     wielder wishes it to be."
+  sp: "Un llavero que sólo obedece al Patrón de los Mods.
+  
+    Su poder depende al completo de los deseos
+    
+    de su portador."
   it: "Un Keychain che obbedisce soltanto ai Patron
   
     delle mod. Il suo potere dipende interamente da 
@@ -770,9 +776,10 @@
     Seine Kraft hängt vollständig davon ab, was sein Träger
     
     ihm befiehlt."
-
+    
 - id: 0x5752
   en: "Absolution"
+  sp: "Absolución"
   gr: "Absolution"
   it: "Assoluzione"
   fr: "Absolution"
@@ -783,6 +790,11 @@
     reason. It's power is entirely dependent on what
     
     it's wielder commands it to be."
+  sp: "Un llavero que sólo obedece a esos que desafían toda la razón. 
+  
+	Su poder depende al completo de los deseos
+    
+	de su portador."
   it: "Un Keychain che ascolta solo coloro che
   
     sfidano ogni ragione. Il suo potere dipende
