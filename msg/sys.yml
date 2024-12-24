@@ -738,11 +738,13 @@
 
 - id: 0x5745
   en: "You have uncovered a secret! I wonder what it did, kupo..."
-  en: "Hai scoperto un segreto! Mi chiedo cosa abbia fatto, kupo..."
+  it: "Hai scoperto un segreto! Mi chiedo cosa abbia fatto, kupo..."
+  fr: "Ouah! Tu as découvert un secret! Qu'est-ce que ca a fait, je me demande..?"
 
 - id: 0x5750
   en: "Retribution"
   it: "Retribuzione"
+  fr: "Rétribution"
 
 - id: 0x5751
   en: "A Keychain that only obeys Patron of the Mods.
@@ -755,10 +757,16 @@
     delle mod. Il suo potere dipende interamente da 
     
     ciò che il suo custode desidera."
+  fr: "Une Keyblade qui obéit uniquement aux patrons des mods.
+  
+    Sa puissance dépends entièrement de la volonté
+    
+    de son porteur."
 
 - id: 0x5752
   en: "Absolution"
   it: "Assoluzione"
+  fr: "Absolution"
 
 - id: 0x5753
   en: "A Keychain that only obeys those who defy all
@@ -771,6 +779,11 @@
     sfidano ogni ragione. Il suo potere dipende
     
     interamente da ciò che il suo custode gli ordina.
+  fr: "Une keyblade qui obéit uniquement à ceux qui
+  
+    défient toute raison. Sa puissance dépends entièrement
+    
+    de la volonté de son porteur."
 
 - id: 0x0649
   en: "Using the Keyblade's true power,
