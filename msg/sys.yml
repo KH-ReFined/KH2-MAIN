@@ -738,11 +738,13 @@
 
 - id: 0x5745
   en: "You have uncovered a secret! I wonder what it did, kupo..."
+  gr: "Du hast ein Geheimnis entdeckt! Ich frage mich was passiert ist, kupo..."
   it: "Hai scoperto un segreto! Mi chiedo cosa abbia fatto, kupo..."
   fr: "Ouah! Tu as découvert un secret! Qu'est-ce que ca a fait, je me demande..?"
-
+  
 - id: 0x5750
   en: "Retribution"
+  gr: "Vergeltung"
   it: "Retribuzione"
   fr: "Rétribution"
 
@@ -763,8 +765,15 @@
     
     de son porteur."
 
+  gr: "Ein Schlüsselanhänger, der nur dem Patron der Mods gehorcht.
+  
+    Seine Kraft hängt vollständig davon ab, was sein Träger
+    
+    ihm befiehlt."
+
 - id: 0x5752
   en: "Absolution"
+  gr: "Absolution"
   it: "Assoluzione"
   fr: "Absolution"
 
@@ -784,6 +793,12 @@
     défient toute raison. Sa puissance dépends entièrement
     
     de la volonté de son porteur."
+
+  gr: "Ein Schlüsselanhänger, der nur denen gehorcht, die sich
+  
+    jeder Vernunft widersetzen. Seine Macht hängt
+    
+    vollständig davon ab, was sein Träger ihm befiehlt."
 
 - id: 0x0649
   en: "Using the Keyblade's true power,
