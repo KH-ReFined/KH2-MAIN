@@ -571,6 +571,7 @@ assets:
   - name: remastered/menu/us/title.2ld/US_title_2ld11.png
 
 # === System Related Files ===
+
 - name: reFined.bin
   method: copy
   source:
@@ -818,6 +819,11 @@ assets:
   method: copy
   source:
   - name: remastered/70landing.bar/-9.dds
+
+- name: 00shopface.bin
+  method: copy
+  source:
+  - name: 00shopface.bin
 
 - name: ard/hb26.ard
   multi:
