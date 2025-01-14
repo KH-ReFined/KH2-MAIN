@@ -257,11 +257,6 @@ assets:
   source:
   - name: libretto/libretto-hb.bar
 
-- name: 00objentry.bin
-  method: copy
-  source:
-  - name: 00objentry.bin
-
 - name: 07localset.bin
   method: copy
   source:
@@ -824,6 +819,13 @@ assets:
   method: copy
   source:
   - name: 00shopface.bin
+
+- name: 00objentry.bin
+  type: list
+  method: listpatch
+  source:
+  - name: 00objentry.yml
+    type: objentry
 
 - name: ard/hb26.ard
   multi:
