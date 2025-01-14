@@ -452,4 +452,29 @@
   ObjectId: 0x1300
   ObjectType: G_OBJ
   ModelName: F_CZ240
-  SpawnLimiter: 0x08
+  SubType: 0
+  DrawPriority: 0
+  WeaponJoint: 0
+  AnimationName: ''
+  Flags: 0
+  ObjectTargetType: M
+  Padding: 0
+  NeoStatus: 0
+  NeoMoveset: 0
+  Weight: 0
+  SpawnLimiter: 8
+  Page: 0
+  ObjectShadowSize: NoShadow
+  ObjectForm: Default
+  SpawnObject1: 0
+  SpawnObject2: 0
+  SpawnObject3: 0
+  SpawnObject4: 0
+  NoApdx: false
+  Before: false
+  FixColor: false
+  Fly: false
+  Scissoring: false
+  IsPirate: false
+  WallOcclusion: false
+  Hift: false
