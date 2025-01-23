@@ -38,6 +38,7 @@
   gr: "{:width 85}Kurzbefehl-Set A"
   sp: "{:width 85}Set de atajos A"
   jp: "{:width 85}ショートカット セットA"
+  fr: "{:width 75}Set de raccourcis A"
 
 - id: 0x3B89
   en: "Select settings for shortcut commands
@@ -66,6 +67,11 @@
     さまざまな機能の設定をします
     
     {:color #E070E080}セットを切り替{:unk 93}るには、{:icon dynamic-l1} /{:icon dynamic-r1}を押して下さ{:unk 91}。"
+  fr: "Choisir des options pour les raccourcis
+  
+    et d'autres fonctions variées.
+
+    {:color #E070E080}Appuyer sur {:icon dynamic-l1} /{:icon dynamic-r1} pour changer de set."
 
 # === Config Menu Text === #
 
@@ -515,7 +521,7 @@
   fr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
-    Re:Fined à été mis a jour avec succès! 
+    Re:Fined à été mis à jour avec succès! 
     
     Le jeu va redémarrer pour appliquer la mise à jour..."
   
@@ -584,6 +590,7 @@
   gr: "Sora"
   sp: "Sora"
   jp: "ソラ"
+  fr: "Sora"
 
 - id: 0x3734
   en: "By World"
@@ -591,6 +598,7 @@
   gr: "Nach Welt"
   sp: "Por mundo"
   jp: "ワールド変化"
+  fr: "Par monde"
 
 - id: 0x3735
   en: "Classic"
@@ -598,6 +606,7 @@
   gr: "Klassisch"
   es: "Clásico"
   jp: "クラシック"
+  fr: "Classique"
 
 # === New Game Text === #
 
@@ -628,6 +637,7 @@
   
     {:color #FFFF0080} (Du wirst wichtige Elemente der Geschichte verpassen!)"
   fr: "               Passer le prologue entièrement.
+
     {:color #FFFF0080} (Vous raterez des éléments important de l'histoire si vous le faites!)"
   sp: "                  Salta el prólogo completamente.
   
