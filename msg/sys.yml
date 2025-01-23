@@ -38,7 +38,7 @@
   gr: "{:width 85}Kurzbefehl-Set A"
   sp: "{:width 85}Set de atajos A"
   jp: "{:width 85}ショートカット セットA"
-  fr: "{:width 85}Set de raccourcis A"
+  fr: "{:width 75}Set de raccourcis A"
 
 - id: 0x3B89
   en: "Select settings for shortcut commands
