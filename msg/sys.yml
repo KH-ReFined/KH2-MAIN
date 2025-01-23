@@ -37,7 +37,7 @@
   it: "{:width 85}Uso rapido Set A"
   gr: "{:width 85}Kurzbefehl-Set A"
   sp: "{:width 85}Set de atajos A"
-  jp: "{:width 85}ショートカット セットA"\
+  jp: "{:width 85}ショートカット セットA"
   fr: "{:width 85}Set de raccourcis A"
 
 - id: 0x3B89
@@ -637,7 +637,7 @@
   
     {:color #FFFF0080} (Du wirst wichtige Elemente der Geschichte verpassen!)"
   fr: "               Passer le prologue entièrement.
-  
+
     {:color #FFFF0080} (Vous raterez des éléments important de l'histoire si vous le faites!)"
   sp: "                  Salta el prólogo completamente.
   
