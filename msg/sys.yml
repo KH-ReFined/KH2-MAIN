@@ -6,7 +6,6 @@
   gr: "Drücke {:icon dynamic-circle} zum abbrechen!"
   fr: "Appuyez sur {:icon dynamic-cross} pour annuler!"
   sp: "¡Pulsa{:icon dynamic-cross} para cancelar!"
-  jp: "キャンセルするには{:icon dynamic-cross}を押して下さ{:unk 91}。"
 
 - id: 0x5701
   en: "Soft-Reset cancelled!"
@@ -14,7 +13,6 @@
   gr: "Soft-Reset abgebrochen!"
   fr: "Soft-Reset annulé!"
   sp: "¡Soft-Reset cancelado!"
-  jp: "ソフトリセットがキャンセルされました。"
 
 - id: 0x5702
   en: "Your progress is safe, kupo!"
@@ -22,7 +20,6 @@
   gr: "Dein Fortschritt ist gespeichert, kupo!"
   fr: "Votre progression a été sauvegardée, kupo!"
   sp: "Tu progreso se ha guardado, ¡kupó!"
-  jp: "オートセーブをしたクポ!"
 
 - id: 0x5703
   en: "Could not save your progress, kupo! Please save the game manually!"
@@ -30,14 +27,12 @@
   gr: "Konnte deinen Fortschritt nicht speichern, kupo! Bitte speichere ihn manuell!"
   fr: "Votre progression n'a pas pu être sauvegardée, kupo! Sauvegardez manuellement!"
   sp: "No he podido guardar tu progreso, ¡kupó! ¡Por favor guarda el juego manualmente!"
-  jp: "オートセーブに失敗したクポォ..."
 
 - id: 0x051F
   en: "{:width 85}Shortcut Set A"
   it: "{:width 85}Uso rapido Set A"
   gr: "{:width 85}Kurzbefehl-Set A"
   sp: "{:width 85}Set de atajos A"
-  jp: "{:width 85}ショートカット セットA"
   fr: "{:width 75}Set de raccourcis A"
 
 - id: 0x3B89
@@ -62,11 +57,6 @@
     y otras funciones varias.
     
     {:color #E070E080}Pulsa {:icon dynamic-l1} /{:icon dynamic-r1} para alternar entre sets."
-  jp: "ショートカットコマンドの登録や
-  
-    さまざまな機能の設定をします
-    
-    {:color #E070E080}セットを切り替{:unk 93}るには、{:icon dynamic-l1} /{:icon dynamic-r1}を押して下さ{:unk 91}。"
   fr: "Choisir des options pour les raccourcis
   
     et d'autres fonctions variées.
@@ -81,7 +71,6 @@
   gr: "Auto-Speichern"
   fr: "Sauvegarde auto."
   sp: "Autoguardado"
-  jp: "オートセーブ"
 
 - id: 0x5705
   en: "Informative"
@@ -89,7 +78,6 @@
   gr: "Informativ"
   fr: "Informatif"
   sp: "Informativo"
-  jp: "通知する"
 
 - id: 0x5706
   en: "Autosaving will be done with an indicator."
@@ -99,7 +87,6 @@
   gr: "Das Spiel wird mit einer Hinweisanzeige gespeichert."
   fr: "La sauvegarde auto. sera faite avec un indicateur."
   sp: "El autoguardado se realizará con un aviso."
-  jp: "オートセーブ時に通知を左上に表示します。"
 
 - id: 0x5707
   en: "Silent"
@@ -107,7 +94,6 @@
   gr: "Unbemerkt"
   fr: "Silencieux"
   sp: "Silencioso"
-  jp: "通知しな{:unk 91}"
 
 - id: 0x5708
   en: "Autosaving will be done silently."
@@ -117,7 +103,6 @@
   gr: "Auto-Speichern erfolgt unbemerkt."
   fr: "La sauvegarde auto. sera faite silencieusement."
   sp: "El autoguardado se realizará silenciosamente."
-  jp: "オートセーブ時に通知を表示しません。"
 
 - id: 0x5709
   en: "Disabled"
@@ -125,7 +110,6 @@
   gr: "Deaktiviert"
   fr: "Désactivé"
   sp: "Desactivado"
-  jp: "無効"
 
 - id: 0x570A
   en: "Autosaving will be disabled."
@@ -133,7 +117,6 @@
   gr: "Auto-Speichern wird deaktiviert."
   fr: "La sauvegarde auto. sera désactivée."
   sp: "El autoguardado estará deshabilitado."
-  jp: "オートセーブ機能を無効にします。"
 
 - id: 0x570B
   en: "Audio Language"
@@ -141,7 +124,6 @@
   gr: "Sprachausgabe"
   fr: "Langue audio"
   sp: "Idioma de audio"
-  jp: "音声言語"
 
 - id: 0x570C
   en: "English"
@@ -149,7 +131,6 @@
   gr: "Englisch"
   fr: "Anglais"
   sp: "Inglés"
-  jp: "英語"
 
 - id: 0x570D
   en: "The audio will be in English."
@@ -157,7 +138,6 @@
   gr: "Die Sprachausgabe wird auf Englisch sein."
   fr: "La langue audio sera en Anglais."
   sp: "El idioma del audio será en inglés."
-  jp: "音声を英語にします。"
 
 - id: 0x570E
   en: "Japanese"
@@ -165,7 +145,6 @@
   gr: "Japanisch"
   fr: "Japonais"
   sp: "Japonés"
-  jp: "日本語"
 
 - id: 0x570F
   en: "The audio will be in Japanese."
@@ -173,7 +152,6 @@
   gr: "Die Sprachausgabe wird auf Japanisch sein."
   fr: "La langue audio sera en Japonais."
   sp: "El idioma del audio será en japonés."
-  jp: "音声を日本語にします。"
 
 - id: 0x5710
   en: "Spanish"
@@ -181,7 +159,6 @@
   gr: "Spanisch"
   fr: "Espagnol"
   sp: "Español"
-  jp: "スペイン語"
 
 - id: 0x5711
   en: "The audio will be in Spanish."
@@ -189,7 +166,6 @@
   gr: "Die Sprachausgabe wird auf Spanisch sein."
   fr: "La langue audio sera en Espagnol."
   sp: "El idioma del audio será en español."
-  jp: "音声をスペイン語にします。"
 
 - id: 0x5712
   en: "German"
@@ -197,7 +173,6 @@
   gr: "Deutsch"
   fr: "Allemand"
   sp: "Alemán"
-  jp: "ドイツ語"
 
 - id: 0x5713
   en: "The audio will be in German."
@@ -205,7 +180,6 @@
   gr: "Die Sprachausgabe wird auf Deutsch sein."
   fr: "La langue audio sera en Allemand."
   sp: "El idioma del audio será en alemán."
-  jp: "音声をドイツ語にします。"
 
 - id: 0x5714
   en: "French"
@@ -213,7 +187,6 @@
   gr: "Französisch"
   fr: "Francais"
   sp: "Francés"
-  jp: "フランス語"
 
 - id: 0x5715
   en: "The audio will be in French."
@@ -221,7 +194,6 @@
   gr: "Die Sprachausgabe wird auf Französisch sein."
   fr: "La langue audio sera en Francais."
   sp: "El idioma del audio será en francés."
-  jp: "音声をフランス語にします。"
 
 - id: 0x5716
   en: "European"
@@ -229,7 +201,6 @@
   gr: "Europäisch"
   fr: "Européen"
   sp: "Europeo"
-  jp: "ヨーロッパ"
 
 - id: 0x5717
   en: "The audio will be in one of the European
@@ -247,7 +218,6 @@
   sp: "El idioma del audio será uno de los
   
     siguientes idiomas europeos."
-  jp: "音声は下で選択した言語になります。"
 
 - id: 0x5718
   en: "Background Music"
@@ -255,7 +225,6 @@
   gr: "Hintergrundmusik"
   fr: "Musique de fond"
   sp: "Música de fondo"
-  jp: "BGM"
 
 - id: 0x5719
   en: "Original"
@@ -263,7 +232,6 @@
   gr: "Original"
   fr: "Original"
   sp: "Original"
-  jp: "オリジナル"
   
 - id: 0x571A
   en: "The background music will be the
@@ -281,7 +249,6 @@
   sp: "La música de fondo será de la versión
   
     original de Playstation® 2."
-  jp: "BGMをPS2のオリジナルバージョンにします。"
 
 - id: 0x571B
   en: "Remastered"
@@ -289,7 +256,6 @@
   gr: "Neuaflage"
   fr: "Remasterisé"
   sp: "Remasterizada"
-  jp: "リマスター"
 
 - id: 0x571C
   en: "The background music will be remastered."
@@ -297,7 +263,6 @@
   gr: "Die Hintergrundmusik verwendet die Neuauflage verwenden."
   fr: "La musique sera la version remasterisée."
   sp: "La música de fondo será de la versión remasterizada."
-  jp: "BGMをリマスターバージョンにします。"
 
 - id: 0x571D
   en: "Heartless Palette"
@@ -305,7 +270,6 @@
   gr: "Herzlosen-Palette"
   fr: "Visuels des sans-coeurs"
   sp: "Paleta de los sincorazón"
-  jp: "ハートレスの色"
 
 - id: 0x571E
   en: "Original"
@@ -313,7 +277,6 @@
   gr: "Original"
   fr: "Originale"
   sp: "Original"
-  jp: "オリジナル"
 
 - id: 0x571F
   en: "The Heartless will use the Original Palette."
@@ -321,7 +284,6 @@
   gr: "Die Herzlosen werden die originale Farben verwenden."
   fr: "Les sans-coeurs utiliseront la palette originale."
   sp: "Los sincorazón usarán la paleta de colores original."
-  jp: "ハートレスの色をオリジナルにします。"
 
 - id: 0x5720
   en: "Final Mix"
@@ -329,7 +291,6 @@
   gr: "Final Mix"
   fr: "Final Mix"
   sp: "Final Mix"
-  jp: "ファイナル ミックス"
 
 - id: 0x5721
   en: "The Heartless will use the Final Mix Palette."
@@ -337,7 +298,6 @@
   gr: "The Herzlosen werden die Final Mix Farben verwenden."
   fr: "Les sans-coeurs utiliseront la palette Final Mix."
   sp: "Los sincorazón usarán la paleta del Final Mix."
-  jp: "ハートレスの色をファイナル ミックスにします。"
 
 - id: 0x5722
   en: "Button Prompts"
@@ -345,7 +305,6 @@
   gr: "Steuerungseingaben"
   fr: "Affichage des contrôles"
   sp: "Iconos de los botones"
-  jp: "ボタン表示"
 
 - id: 0x5723
   en: "Controller"
@@ -353,7 +312,6 @@
   gr: "Controller"
   fr: "Manette"
   sp: "Mando"
-  jp: "コントローラー"
 
 - id: 0x5724
   en: "The game will only display Controller Prompts."
@@ -361,7 +319,6 @@
   gr: "Das Spiel wird nur Controller-Eingaben anzeigen."
   fr: "Le jeu affichera les contrôles pour manette."
   sp: "El juego solo mostrará los iconos del mando."
-  jp: "ボタンアイコンをコントローラーのみにします。"
 
 - id: 0x5725
   en: "Automatic"
@@ -369,7 +326,6 @@
   gr: "Automatisch"
   fr: "Automatique"
   sp: "Automático"
-  jp: "自動検出"
 
 - id: 0x5726
   en: "The game will adjust the prompts automatically."
@@ -382,7 +338,6 @@
     Controllers automatisch an."
   fr: "Le jeu changera l'affichage des contrôles automatiquement."
   sp: "El juego ajustará los iconos automáticamente." 
-  jp: "ボタンアイコンを自動検出します。"
 
 - id: 0x5727
   en: "Prepare & Retry"
@@ -390,7 +345,6 @@
   it: "Preparati e Riprova"
   fr: "Se Préparer et Réessayer"
   sp: "Prepararse y reintentar"
-  jp: "準備してリトライ"
 
 - id: 0x5728
   en: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
@@ -436,14 +390,7 @@
     Las nuevas actualizaciones suelen ser más estables
     
     ¿Quieres actualizar? {:color #FFFF0180}[¡Muy recomendado!]"
-
-  jp: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
-
-
-    {:width 90}RE:FINDのアップデートが見つかりました!
     
-    アップデートしますか?"
-
 - id: 0x5729
   en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
@@ -489,15 +436,6 @@
     
     
     [####################]"
-  jp: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
-  
-
-    更新データをダウンロードして{:unk 91}ます。
-
-    しばらくお待ちくださ{:unk 91}。時間がかかる場合があります。
-    
-    
-    [####################]"
 
 - id: 0x572A
   en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
@@ -530,13 +468,7 @@
 
     ¡Re:Fined ha sido actualizado! 
     
-    El juego se reiniciará para aplicarlo..."
-  jp: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
-  
-
-    RE:FINEDは正常にアップデートされました! 
-    
-    適用するためにゲームを再起動します。"   
+    El juego se reiniciará para aplicarlo..."  
 
 - id: 0x572B
   en: "※ European"
@@ -544,7 +476,6 @@
   gr: "※ Europäisch"
   fr: "※ Européen"
   sp: "※ Europeo"
-  jp: "※ ヨーロッパ"
 
 - id: 0x572C
   en: "Quadratum"
@@ -552,7 +483,6 @@
   gr: "Quadratum"
   it: "Quadratum"
   sp: "Quadratum"
-  jp: "クァッドラトゥム"
 
 - id: 0x572D
   en: "Use a command menu reminiscent of a
@@ -580,16 +510,12 @@
     de una época y un lugar, familiares y a
 
     la vez inquietantemente enigmáticos."
-  jp: "コマンドウインドウのデザインを
-
-    クァッドラトゥムタイプに固定します"
 
 - id: 0x572E
   en: "Sora"
   it: "Sora"
   gr: "Sora"
   sp: "Sora"
-  jp: "ソラ"
   fr: "Sora"
 
 - id: 0x3734
@@ -597,7 +523,6 @@
   it: "Per Mondo"
   gr: "Nach Welt"
   sp: "Por mundo"
-  jp: "ワールド変化"
   fr: "Par monde"
 
 - id: 0x3735
@@ -605,7 +530,6 @@
   it: "Classico"
   gr: "Klassisch"
   sp: "Clásico"
-  jp: "クラシック"
   fr: "Classique"
 
 # === New Game Text === #
@@ -616,7 +540,6 @@
   gr: "Durch den Prolog spielen?"
   fr: "Jouer le prologue?"
   sp: "¿Jugar el prólogo?"
-  jp: "プロローグをプレイしますか?"
 
 - id: 0x5731
   en: "Play through the prologue as intended!"
@@ -624,7 +547,6 @@
   gr: "Spiele wie vorgesehen durch den Prolog!"
   fr: "Jouer le prologue normalement."
   sp: "¡Juega el prólogo de la forma intencionada!"
-  jp: "プロローグをスキップしません。"
 
 - id: 0x5732
   en: "                  Skip the prologue entirely.
@@ -642,9 +564,6 @@
   sp: "                  Salta el prólogo completamente.
   
     {:color #FFFF0080} (¡Omitirás elementos de la historia importantes si lo haces!)"
-  jp: "プロローグをスキップします。
-  
-    {:color #FFFF0080}※重要なストーリー要素もスキップされます。{:reset}"
 
 - id: 0x5733
   en: "Autosaving Functionality"
@@ -652,7 +571,6 @@
   gr: "Auto-Speichern Funktionalität"
   fr: "Sauvegarde Automatique"
   sp: "Funcionalidad de autoguardado"
-  jp: "オートセーブ機能"
 
 - id: 0x5734
   en: "In-Game Dialog Language"
@@ -660,7 +578,6 @@
   gr: "Textsprache"
   fr: "Langue des dialogues"
   sp: "Idioma de los diálogos del juego"
-  jp: "テキスト言語"
 
 - id: 0x5735
   en: "In-Game Soundtrack"
@@ -668,7 +585,6 @@
   gr: "Soundtrack"
   fr: "Musique en jeu"
   sp: "Música del juego"
-  jp: "BGM"
 
 - id: 0x5736
   en: "Heartless Color Palette"
@@ -676,7 +592,6 @@
   gr: "Herzlosen-Palette"
   fr: "Palette de couleur des sans-coeurs"
   sp: "Paleta de los sincorazón"
-  jp: "ハートレスの色"
 
 - id: 0x5737
   en: "Button Prompts"
@@ -684,7 +599,6 @@
   gr: "Steuerungseingaben"
   fr: "Icones des boutons"
   sp: "Iconos de los botones"
-  jp: "ボタンアイコン"
 
 - id: 0x5738
   en: "YES"
@@ -692,7 +606,6 @@
   gr: "JA"
   fr: "OUI"
   sp: "Sí"
-  jp: "は{:unk 91}"
 
 - id: 0x5739
   en: "NO"
@@ -709,7 +622,6 @@
   it: "HP: [0] / MP: [1]"
   sp: "VT: [0] / PM: [1]"
   gr: "HP: [0] / MP: [1]"
-  jp: "HP: [0] / MP: [1]"
 
 - id: 0x5741
   en: "Level [0] / Form: [1]"
@@ -717,7 +629,6 @@
   it: "Livello [0] / Fusione: [1]"
   sp: "Nivel [0] / Forma: [1]"
   gr: "Level [0] / Form: [1]"
-  jp: "レベル [0] / フォーム: [1]"
 
 - id: 0x5742
   en: "Level [0] / Round [2] / Form: [1]"
@@ -725,7 +636,6 @@
   it: "Livello [0] / Round [2] / Fusione: [1]"
   sp: "Nivel [0] / Ronda [2] / Forma: [1]"
   gr: "Level [0] / Runde [2] / Form: [1]"
-  jp: "レベル [0] / ラウンド [2] / フォーム: [1]"
 
 - id: 0x5743
   en: "In-Game Time: [0]"
@@ -733,7 +643,6 @@
   it: "Tempo di gioco: [0]"
   sp: "Tiempo de juego: [0]"
   gr: "Spielzeit: [0]"
-  jp: "プレイ時間: [0]"
  
 - id: 0x5744
   en: "On Recharge!"
@@ -741,7 +650,6 @@
   it: "In Ricarica!"
   sp: "¡En recarga!"
   gr: "Beim Aufladen!"
-  jp: "MPチャージ中!"
 
 # === Item Text === #
 
@@ -847,11 +755,6 @@
     de la llave espada, usa el comando Fusión
     
     para cambiar a la Forma Final."
-  jp: "キーブレードの真の力を解放して
-    
-    「ドライヴ」コマンドで
-    
-    ファイナルフォームにチェンジできます"
 
 - id: 0x064A
   en: "Anti Form"
@@ -859,7 +762,6 @@
   gr: "Anti-Form"
   fr: "Non-forme"
   sp: "Anti-Forma"
-  jp: "アンチフォーム"
 
 - id: 0x01E9
   en: "Anti Form"
@@ -867,7 +769,6 @@
   gr: "Anti-Form"
   fr: "Non-forme"
   sp: "Anti-Forma"
-  jp: "アンチフォーム"
 
 - id: 0x064B
   en: "Using the darkness in Sora's heart,
@@ -895,11 +796,6 @@
     usa el comando Fusión para
     
     cambiar a la Anti-Forma."
-  jp: "ソラの心の闇を利用して
-    
-    「ドライヴ」コマンドで
-    
-    アンチフォームにチェンジできます"
 
 # === Ability Text === #
 
@@ -909,7 +805,6 @@
   gr: "Gefecht +"
   fr: "Rencontre +"
   sp: "Más Encuentros"
-  jp: "エンカウントアップ"
 
 - id: 0x3788
   en: "Increases the rate in which enemies appear, 
@@ -927,11 +822,6 @@
   sp: "Incrementa la frecuencia de aparición de 
   
     los enemigos, incluyendo los menos frecuentes."
-  jp: "フィールドを移動して{:unk 91}る時、
-  
-    敵に出会{:unk 91}やすくなります
-  
-    {:color #FFFF0080}レアな敵もふくみます{:reset}"
 
 - id: 0x4E83
   en: "Dodge Roll LV1"
@@ -939,7 +829,6 @@
   gr: "Ausweichrolle LV1"
   fr: "Roulade LV1"
   sp: "Voltereta 1"
-  jp: "ドッジロールLV1"
 
 - id: 0x4E85
   en: "Dodge Roll LV2"
@@ -947,7 +836,6 @@
   gr: "Ausweichrolle LV2"
   fr: "Roulade LV2"
   sp: "Voltereta 2"
-  jp: "ドッジロールLV2"
 
 - id: 0x4E87
   en: "Dodge Roll LV3"
@@ -955,7 +843,6 @@
   gr: "Ausweichrolle LV3"
   fr: "Roulade LV3"
   sp: "Voltereta 3"
-  jp: "ドッジロールLV3"
 
 - id: 0x4E8D
   en: "Sonic Blade"
@@ -963,7 +850,6 @@
   gr: "Limitklatsche"
   fr: "Aquilon"
   sp: "Estocada Sónica"
-  jp: "ソニックレイヴ"
 
 - id: 0x4EFE
   en: "Sonic Blade"
@@ -971,7 +857,6 @@
   gr: "Limitklatsche"
   fr: "Aquilon"
   sp: "Estocada Sónica"
-  jp: "ソニックレイヴ"
 
 - id: 0x4E8F
   en: "Ars Arcanum"
@@ -979,7 +864,6 @@
   gr: "Amok-Arkana"
   fr: "Arcanes"
   sp: "Último Arcano"
-  jp: "ラストアルカナム"
 
 - id: 0x4F01
   en: "Ars Arcanum"
@@ -987,7 +871,6 @@
   gr: "Amok-Arkana"
   fr: "Arcanes"
   sp: "Último Arcano"
-  jp: "ラストアルカナム"
 
 - id: 0x4E93
   en: "Ragnarok"
@@ -995,7 +878,6 @@
   gr: "Ragnarök"
   fr: "Ragnarok"
   sp: "Ragnarok"
-  jp: "ラグナロク"
 
 - id: 0x4EF6
   en: "Ragnarok"
@@ -1003,7 +885,6 @@
   gr: "Ragnarök"
   fr: "Ragnarok"
   sp: "Ragnarok"
-  jp: "ラグナロク"
 
 # === ITA System Text Overhaul === #
 
