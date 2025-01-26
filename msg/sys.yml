@@ -3,7 +3,7 @@
 - id: 0x5700
   en: "Press{:icon dynamic-cross} to cancel!"
   it: "Premi{:icon dynamic-cross} per annullare!"
-  gr: "Drücke {:icon dynamic-circle} zum abbrechen!"
+  gr: "Drücke {:icon dynamic-circle}, um abzubrechen."
   fr: "Appuyez sur {:icon dynamic-cross} pour annuler!"
   sp: "¡Pulsa{:icon dynamic-cross} para cancelar!"
 
@@ -24,14 +24,14 @@
 - id: 0x5703
   en: "Could not save your progress, kupo! Please save the game manually!"
   it: "Il tuo progresso non può essere salvato, kupò! Si prega di salvare manualmente!"
-  gr: "Konnte deinen Fortschritt nicht speichern, kupo! Bitte speichere ihn manuell!"
+  gr: "Dein Fortschritt wurde nicht gespeichert, kupo! Bitte speichere manuell!"
   fr: "Votre progression n'a pas pu être sauvegardée, kupo! Sauvegardez manuellement!"
   sp: "No he podido guardar tu progreso, ¡kupó! ¡Por favor guarda el juego manualmente!"
 
 - id: 0x051F
   en: "{:width 85}Shortcut Set A"
   it: "{:width 85}Uso rapido Set A"
-  gr: "{:width 85}Kurzbefehl-Set A"
+  gr: "{:width 85}Kurzbefehle-Set A"
   sp: "{:width 85}Set de atajos A"
   fr: "{:width 75}Set de raccourcis A"
 
@@ -46,11 +46,11 @@
     rapido e altre funzioni.
     
     {:color #E070E080}Premi {:icon dynamic-l1} /{:icon dynamic-r1} per cambiare Set."
-  gr: "Wähle die Einstellungen für Kurzbefehl-Kommandos
+  gr: "Einstellungen für Kurzbefehle und
   
-    und vielen anderen Funktionen.
+    diverse andere Funktionen ändern.
     
-    {:color #E070E080}Drücke {:icon dynamic-l1} /{:icon dynamic-r1} um zwischen Sets zu wechseln."
+    {:color #E070E080}Drücke {:icon dynamic-l1} /{:icon dynamic-r1}, um zwischen den Sets zu wechseln."
     
   sp: "Selecciona los ajustes para atajos de comandos
   
@@ -84,7 +84,7 @@
   it: "Il salvataggio automatico sarà effettuato
   
     mostrando un avviso."
-  gr: "Das Spiel wird mit einer Hinweisanzeige gespeichert."
+  gr: "Auto-Speichern mit einer Hinweisanzeige einschalten."
   fr: "La sauvegarde auto. sera faite avec un indicateur."
   sp: "El autoguardado se realizará con un aviso."
 
@@ -100,7 +100,7 @@
   it: "Il salvataggio automatico sarà
   
     effettuato silenziosamente."
-  gr: "Auto-Speichern erfolgt unbemerkt."
+  gr: "Auto-Speichern ohne Hinweisanzeige einschalten."
   fr: "La sauvegarde auto. sera faite silencieusement."
   sp: "El autoguardado se realizará silenciosamente."
 
@@ -114,7 +114,7 @@
 - id: 0x570A
   en: "Autosaving will be disabled."
   it: "Il salvataggio automatico sarà disattivato."
-  gr: "Auto-Speichern wird deaktiviert."
+  gr: "Auto-Speichern ausschalten."
   fr: "La sauvegarde auto. sera désactivée."
   sp: "El autoguardado estará deshabilitado."
 
@@ -209,9 +209,9 @@
   it: "La lingua del doppiaggio sarà in una
   
     delle seguenti lingue europee."
-  gr: "Die Sprachausgabe wird auf eines der 
+  gr: "Die Sprachausgabe erfolgt in einer der 
 
-    unten genannten Sprachen gewählt."
+    folgenden Sprachen."
   fr: "La langue audio sera dans l'une des langues
   
     choisie plus bas."
@@ -253,14 +253,14 @@
 - id: 0x571B
   en: "Remastered"
   it: "Rimasterizzata"
-  gr: "Neuaflage"
+  gr: "Neuauflage"
   fr: "Remasterisé"
   sp: "Remasterizada"
 
 - id: 0x571C
   en: "The background music will be remastered."
   it: "La colonna sonora sarà quella rimasterizzata."
-  gr: "Die Hintergrundmusik verwendet die Neuauflage verwenden."
+  gr: "Die Hintergrundmusik wird die Neuauflage verwenden."
   fr: "La musique sera la version remasterisée."
   sp: "La música de fondo será de la versión remasterizada."
 
@@ -281,7 +281,7 @@
 - id: 0x571F
   en: "The Heartless will use the Original Palette."
   it: "Gli Heartless avranno l'aspetto classico."
-  gr: "Die Herzlosen werden die originale Farben verwenden."
+  gr: "Die Herzlosen werden die originalen Farben verwenden."
   fr: "Les sans-coeurs utiliseront la palette originale."
   sp: "Los sincorazón usarán la paleta de colores original."
 
@@ -295,14 +295,14 @@
 - id: 0x5721
   en: "The Heartless will use the Final Mix Palette."
   it: "Gli Heartless avranno l'aspetto della versione Final Mix."
-  gr: "The Herzlosen werden die Final Mix Farben verwenden."
+  gr: "Die Herzlosen werden die Final Mix-Farben verwenden."
   fr: "Les sans-coeurs utiliseront la palette Final Mix."
   sp: "Los sincorazón usarán la paleta del Final Mix."
 
 - id: 0x5722
   en: "Button Prompts"
   it: "Icone dei comandi"
-  gr: "Steuerungseingaben"
+  gr: "Tastensymbole"
   fr: "Affichage des contrôles"
   sp: "Iconos de los botones"
 
@@ -332,16 +332,15 @@
   it: "Il gioco sceglierà automaticamente la 
   
     tipologia di comandi da mostrare."
-  gr: "Das Spiel passt die Steuerungsangaben des
+  gr: "Passt die Tastensymbole automatisch
   
-
-    Controllers automatisch an."
+    an die verwendete Eingabemethode an."
   fr: "Le jeu changera l'affichage des contrôles automatiquement."
   sp: "El juego ajustará los iconos automáticamente." 
 
 - id: 0x5727
   en: "Prepare & Retry"
-  gr: "Vorbereiten und Erneut versuchen"
+  gr: "Ausrüsten & Neustart"
   it: "Preparati e Riprova"
   fr: "Se Préparer et Réessayer"
   sp: "Prepararse y reintentar"
@@ -364,14 +363,14 @@
     
     Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Molto consigliato!]"
 
-  gr: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
+  gr: "{:icon question-mark}{:color #FF010180}FRAGE{:reset}
 
 
-    {:width 90}Ein neues Update wurde entdeckt!
+    {:width 90}Es neues Update für Re:Fined wurde entdeckt!
+
+    Neue Updates bieten meistens mehr Stabilität.
     
-    Neue Updates sind üblicher weise mehr stabil.
-    
-    Möchtest du das Update herunterladen? {:color #FFFF0180}[Very Recommended!]"
+    Möchtest du das Update herunterladen? {:color #FFFF0180}[Sehr empfohlen!]"
 
   fr: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
 
@@ -413,9 +412,9 @@
   gr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
-    Update-paket wird heruntergeladen. 
+    Update-Paket wird heruntergeladen. 
 
-    Bitte geduldig bleiben. Es kann eine Weile dauern.
+    Bitte habe etwas Geduld. Es kann eine Weile dauern.
     
     
     [####################]"
@@ -453,9 +452,9 @@
   gr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
-    Re:Fined wurde erfolgreich herunterladen! 
+    Re:Fined wurde erfolgreich aktualisiert! 
     
-    Das Spiel wird neugestartet um die Änderungen wirksam zu machen"
+    Das Spiel startet jetzt neu, um die Änderungen anzuwenden..."
   fr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
@@ -495,11 +494,11 @@
     apparence venue d'un lieu familier
 
     mais enigmatique."
-  gr: Benutze ein Kommando-Menü, was an eine Zeit
+  gr: Benutze ein Kommando-Menü, das an eine Zeit
 
-    und einen Ort erinnert, welches bekannt und
+    und einen Ort erinnert, doch dabei so
 
-    doch rätselhaft erscheint."
+    vertraut wie rätselhaft erscheint."
   it: "Usa un menu dei comandi reminescente di
 
     un certo luogo e tempo, sia familiare che
@@ -555,7 +554,7 @@
   it: "                Salta interamente il prologo.
   
     {:color #FFFF0080}Procedendo perderai elementi di trama importanti!"
-  gr: "                  Überspringe den Prolog komplett.
+  gr: "               Überspringe den Prolog komplett.
   
     {:color #FFFF0080} (Du wirst wichtige Elemente der Geschichte verpassen!)"
   fr: "               Passer le prologue entièrement.
@@ -568,49 +567,49 @@
 - id: 0x5733
   en: "Autosaving Functionality"
   it: "Seleziona la modalità di salvataggio automatico."
-  gr: "Auto-Speichern Funktionalität"
+  gr: "Auto-Speicherfunktion wählen"
   fr: "Sauvegarde Automatique"
   sp: "Funcionalidad de autoguardado"
 
 - id: 0x5734
   en: "In-Game Dialog Language"
   it: "Seleziona la lingua del doppiaggio."
-  gr: "Textsprache"
+  gr: "Textsprache wählen"
   fr: "Langue des dialogues"
   sp: "Idioma de los diálogos del juego"
 
 - id: 0x5735
   en: "In-Game Soundtrack"
   it: "Seleziona la tipologia di colonna sonora."
-  gr: "Soundtrack"
+  gr: "Soundtrack wählen"
   fr: "Musique en jeu"
   sp: "Música del juego"
 
 - id: 0x5736
   en: "Heartless Color Palette"
   it: "Seleziona l'aspetto degli Heartless."
-  gr: "Herzlosen-Palette"
+  gr: "Herzlosen-Palette wählen"
   fr: "Palette de couleur des sans-coeurs"
   sp: "Paleta de los sincorazón"
 
 - id: 0x5737
   en: "Button Prompts"
   it: "Seleziona le icone dei comandi da mostrare."
-  gr: "Steuerungseingaben"
+  gr: "Tastensymbole wählen"
   fr: "Icones des boutons"
   sp: "Iconos de los botones"
 
 - id: 0x5738
   en: "YES"
   it: "Sì"
-  gr: "JA"
+  gr: "Ja"
   fr: "OUI"
   sp: "Sí"
 
 - id: 0x5739
   en: "NO"
   it: "No"
-  gr: "NEIN"
+  gr: "Nein"
   fr: "NON"
   sp: "No"
 
@@ -656,7 +655,7 @@
 - id: 0x5745
   en: "You have uncovered a secret! I wonder what it did, kupo..."
   sp: "¡Has descubierto un secreto! Me pregunto que será, kupo..."
-  gr: "Du hast ein Geheimnis entdeckt! Ich frage mich was passiert ist, kupo..."
+  gr: "Du hast ein Geheimnis entdeckt! Ich frage mich, was passiert ist, kupo..."
   it: "Hai scoperto un segreto! Mi chiedo cosa abbia fatto, kupo..."
   fr: "Ouah! Tu as découvert un secret! Qu'est-ce que ca a fait, je me demande..?"
   
@@ -691,9 +690,9 @@
 
   gr: "Ein Schlüsselanhänger, der nur dem Patron der Mods gehorcht.
   
-    Seine Kraft hängt vollständig davon ab, was sein Träger
+    Seine Kraft ist gänzlich von den Wünschen seines
     
-    ihm befiehlt."
+    Trägers abhängig."
     
 - id: 0x5752
   en: "Absolution"
@@ -725,9 +724,9 @@
     de la volonté de son porteur."
   gr: "Ein Schlüsselanhänger, der nur denen gehorcht, die sich
   
-    jeder Vernunft widersetzen. Seine Macht hängt
+    jeder Vernunft widersetzen. Seine Kraft ist gänzlich
     
-    vollständig davon ab, was sein Träger ihm befiehlt."
+    von den Befehlen seines Trägers abhängig."
 
 - id: 0x0649
   en: "Using the Keyblade's true power,
@@ -740,9 +739,9 @@
     potrai usare il comando Turbo per effettuare
     
     la Fusione Finale."
-  gr: "Mit der wahren Macht des Schlüsselschwertes,
+  gr: "Mit der wahren Macht des Schlüsselschwerts
     
-    nutze das Drive-Kommando, um
+    kannst du das Drive-Kommando benutzen, um
     
     in die Über-Form zu wechseln."
   fr: "En utilisant le vrai pouvoir de la Keyblade,
@@ -781,9 +780,9 @@
     potrai usare il comando Turbo per effettuare
     
     l'Anti-Fusione."
-  gr: "Mit der Dunkelheit in Soras Herzen,
+  gr: "Mit der Dunkelheit in Soras Herzen
     
-    nutze das Drive-Kommando, um
+    kannst du das Drive-Kommando benutzen, um
     
     in die Anti-Form zu wechseln."
   fr: "En utilisant les ténèbres du coeur de Sora,
@@ -826,21 +825,21 @@
 - id: 0x4E83
   en: "Dodge Roll LV1"
   it: "Destrezza I"
-  gr: "Ausweichrolle LV1"
+  gr: "Ausweichrolle LV. 1"
   fr: "Roulade LV1"
   sp: "Voltereta 1"
 
 - id: 0x4E85
   en: "Dodge Roll LV2"
   it: "Destrezza II"
-  gr: "Ausweichrolle LV2"
+  gr: "Ausweichrolle LV. 2"
   fr: "Roulade LV2"
   sp: "Voltereta 2"
 
 - id: 0x4E87
   en: "Dodge Roll LV3"
   it: "Destrezza III"
-  gr: "Ausweichrolle LV3"
+  gr: "Ausweichrolle LV. 3"
   fr: "Roulade LV3"
   sp: "Voltereta 3"
 
