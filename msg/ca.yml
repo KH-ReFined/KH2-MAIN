@@ -24,7 +24,7 @@
 
     {:chardelay 00 00}No importa...
   gr: >-
-    {:unk08 02 00 06}In die See stechen nach--
+    {:unk08 02 00 06}In See stechen nach--
 
     {:chardelay 3C 00}Port Royal!
 
@@ -60,7 +60,7 @@
 
     {:chardelay 00 00}No importa...
   gr: >-
-    {:unk08 02 00 06}In die See stechen nach--
+    {:unk08 02 00 06}In See stechen nach--
 
     {:chardelay 3C 00}Port Royal!
 
@@ -98,7 +98,7 @@
 
     {:chardelay 00 00}No importa...
   gr: >-
-    {:unk08 02 00 06}In die See stechen nach--
+    {:unk08 02 00 06}In See stechen nach--
 
     {:chardelay 3C 00}Port Royal!
 
@@ -146,7 +146,7 @@
 
     {:chardelay 00 00}No importa...
   gr: >-
-    {:unk08 02 00 06}In die See stechen nach--
+    {:unk08 02 00 06}In See stechen nach--
 
     {:chardelay 3C 00}Port Royal!
 
