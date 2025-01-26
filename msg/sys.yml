@@ -17,14 +17,14 @@
 - id: 0x5702
   en: "Your progress is safe, kupo!"
   it: "Il tuo progresso è al sicuro, kupò!"
-  gr: "Dein Fortschritt wurde gespeichert, kupo!"
+  gr: "Dein Fortschritt ist gespeichert, kupo!"
   fr: "Votre progression a été sauvegardée, kupo!"
   sp: "Tu progreso se ha guardado, ¡kupó!"
 
 - id: 0x5703
   en: "Could not save your progress, kupo! Please save the game manually!"
   it: "Il tuo progresso non può essere salvato, kupò! Si prega di salvare manualmente!"
-  gr: "Dein Fortschritt wurde nicht gespeichert, kupo! Bitte speichere selbst!"
+  gr: "Dein Fortschritt wurde nicht gespeichert, kupo! Bitte speichere manuell!"
   fr: "Votre progression n'a pas pu être sauvegardée, kupo! Sauvegardez manuellement!"
   sp: "No he podido guardar tu progreso, ¡kupó! ¡Por favor guarda el juego manualmente!"
 
@@ -84,7 +84,7 @@
   it: "Il salvataggio automatico sarà effettuato
   
     mostrando un avviso."
-  gr: "Auto-Speichern mit Indikator einschalten."
+  gr: "Auto-Speichern mit Hinweisanzeige einschalten."
   fr: "La sauvegarde auto. sera faite avec un indicateur."
   sp: "El autoguardado se realizará con un aviso."
 
@@ -100,7 +100,7 @@
   it: "Il salvataggio automatico sarà
   
     effettuato silenziosamente."
-  gr: "Auto-Speichern ohne Indikator einschalten."
+  gr: "Auto-Speichern ohne Hinweisanzeige einschalten."
   fr: "La sauvegarde auto. sera faite silencieusement."
   sp: "El autoguardado se realizará silenciosamente."
 
@@ -295,7 +295,7 @@
 - id: 0x5721
   en: "The Heartless will use the Final Mix Palette."
   it: "Gli Heartless avranno l'aspetto della versione Final Mix."
-  gr: "The Herzlosen werden die Final Mix-Farben verwenden."
+  gr: "Die Herzlosen werden die Final Mix-Farben verwenden."
   fr: "Les sans-coeurs utiliseront la palette Final Mix."
   sp: "Los sincorazón usarán la paleta del Final Mix."
 
@@ -366,7 +366,7 @@
   gr: "{:icon question-mark}{:color #FF010180}FRAGE{:reset}
 
 
-    {:width 90}Es gibt ein Update für Re:Fined!
+    {:width 90}Es neues Update für Re:Fined wurde entdeckt!
 
     Neue Updates bieten meistens mehr Stabilität.
     
@@ -609,7 +609,7 @@
 - id: 0x5739
   en: "NO"
   it: "No"
-  gr: "NEIN"
+  gr: "Nein"
   fr: "NON"
   sp: "No"
 
