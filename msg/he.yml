@@ -3,8 +3,14 @@
 
 - id: 0x1D60
   en: "The Phil Cup trophy."
+  fr: "Le trophée de la coupe Philoctète."
   gr: "Der Phil-Cup-Pokal."
+  it: "Il trofeo della Coppa Fil."
+  sp: "El trofeo de la Copa Fil."
 
 - id: 0x1D61
   en: "The Pegasus Cup shield."
+  fr: "Le trophée de la coupe Pégase."
   gr: "Der Pegasus-Cup-Schild."
+  it: "Lo scudo della Coppa Pegaso."
+  sp: "El escudo de la Copa Pegaso."
