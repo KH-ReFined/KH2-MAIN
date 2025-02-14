@@ -254,7 +254,7 @@
   Weight: 100
   SpawnLimiter: 0
   Page: 0
-  ObjectShadowSize: MiddleShadow
+  ObjectShadowSize: NoShadow
   ObjectForm: SoraRoxasDefault
   SpawnObject1: 0
   SpawnObject2: 0
@@ -436,66 +436,6 @@
   Page: 18
   ObjectShadowSize: NoShadow
   ObjectForm: AntiForm
-  SpawnObject1: 0
-  SpawnObject2: 0
-  SpawnObject3: 0
-  SpawnObject4: 0
-  NoApdx: false
-  Before: false
-  FixColor: true
-  Fly: false
-  Scissoring: false
-  IsPirate: false
-  WallOcclusion: false
-  Hift: false
-0x0A12:
-  ObjectId: 0x0A12
-  ObjectType: FRIEND
-  SubType: 0
-  DrawPriority: 0
-  WeaponJoint: 2
-  ModelName: P_EX020_CA
-  AnimationName: P_EX020.mset
-  Flags: 1
-  ObjectTargetType: M
-  Padding: 0
-  NeoStatus: 2
-  NeoMoveset: 19
-  Weight: 50
-  SpawnLimiter: 0
-  Page: 55
-  ObjectShadowSize: SmallShadow
-  ObjectForm: Default
-  SpawnObject1: 0
-  SpawnObject2: 0
-  SpawnObject3: 0
-  SpawnObject4: 0
-  NoApdx: false
-  Before: false
-  FixColor: true
-  Fly: false
-  Scissoring: false
-  IsPirate: false
-  WallOcclusion: false
-  Hift: false
-0x0A13:
-  ObjectId: 0x0A13
-  ObjectType: FRIEND
-  SubType: 0
-  DrawPriority: 0
-  WeaponJoint: 3
-  ModelName: P_EX030_CA
-  AnimationName: P_EX030.mset
-  Flags: 1
-  ObjectTargetType: M
-  Padding: 0
-  NeoStatus: 3
-  NeoMoveset: 22
-  Weight: 50
-  SpawnLimiter: 0
-  Page: 18
-  ObjectShadowSize: SmallShadow
-  ObjectForm: Default
   SpawnObject1: 0
   SpawnObject2: 0
   SpawnObject3: 0
