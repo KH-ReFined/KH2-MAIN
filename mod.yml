@@ -507,41 +507,37 @@ assets:
   source:
   - name: remastered/field2d/qd0command.2dd/JP.dds
 
-- name: field2d/us/qd0cmdxbox.2dd
+- name: field2d/us/zz0command.2dd
   multi:
-    - name: field2d/fr/qd0cmdxbox.2dd
-    - name: field2d/gr/qd0cmdxbox.2dd
-    - name: field2d/sp/qd0cmdxbox.2dd
-    - name: field2d/it/qd0cmdxbox.2dd
-    - name: field2d/jp/qd0cmdxbox.2dd
+    - name: field2d/fr/zz0command.2dd
+    - name: field2d/gr/zz0command.2dd
+    - name: field2d/sp/zz0command.2dd
+    - name: field2d/it/zz0command.2dd
+    - name: field2d/jp/zz0command.2dd
   method: copy
   source:
-  - name: field2d/qd0cmdxbox.2dd
+  - name: field2d/zz0command.2dd
 
-- name: remastered/field2d/us/qd0cmdxbox.2dd/~0.dds
+- name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
   method: copy
   source:
-  - name: remastered/field2d/qd0cmdxbox.2dd/US.dds
-- name: remastered/field2d/fr/qd0cmdxbox.2dd/~0.dds
+  - name: remastered/field2d/zz0command.2dd/US.png
+- name: remastered/field2d/sp/zz0command.2dd/SP_zz0command_2dd0.png
   method: copy
   source:
-  - name: remastered/field2d/qd0cmdxbox.2dd/FR.dds
-- name: remastered/field2d/gr/qd0cmdxbox.2dd/~0.dds
+  - name: remastered/field2d/zz0command.2dd/SP.png
+- name: remastered/field2d/gr/zz0command.2dd/GR_zz0command_2dd0.png
   method: copy
   source:
-  - name: remastered/field2d/qd0cmdxbox.2dd/DE.dds
-- name: remastered/field2d/sp/qd0cmdxbox.2dd/~0.dds
+  - name: remastered/field2d/zz0command.2dd/GR.png
+- name: remastered/field2d/it/zz0command.2dd/IT_zz0command_2dd0.png
   method: copy
   source:
-  - name: remastered/field2d/qd0cmdxbox.2dd/ES.dds
-- name: remastered/field2d/it/qd0cmdxbox.2dd/~0.dds
+  - name: remastered/field2d/zz0command.2dd/IT.png
+- name: remastered/field2d/fr/zz0command.2dd/FR_zz0command_2dd0.png
   method: copy
   source:
-  - name: remastered/field2d/qd0cmdxbox.2dd/IT.dds
-- name: remastered/field2d/jp/qd0cmdxbox.2dd/~0.dds
-  method: copy
-  source:
-  - name: remastered/field2d/qd0cmdxbox.2dd/JP.dds
+  - name: remastered/field2d/zz0command.2dd/FR.png
 
 # === Title Screen Files ===
 
@@ -866,6 +862,11 @@ assets:
     method: copy
     source:
     - name: 03system.bin/went.bin
+  - name: memt
+    type: list
+    method: copy
+    source:
+    - name: 03system.bin/memt.bin
   - name: trsr
     type: list
     method: listpatch
