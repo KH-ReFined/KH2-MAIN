@@ -862,11 +862,6 @@ assets:
     method: copy
     source:
     - name: 03system.bin/went.bin
-  - name: memt
-    type: list
-    method: copy
-    source:
-    - name: 03system.bin/memt.bin
   - name: trsr
     type: list
     method: listpatch
