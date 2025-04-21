@@ -316,6 +316,12 @@ assets:
   - name: menu/us/camp.2ld
 
 - name: menu/us/title_fast.2ld
+  multi:
+  - name: menu/gr/title_fast.2ld
+  - name: menu/sp/title_fast.2ld
+  - name: menu/it/title_fast.2ld
+  - name: menu/fr/title_fast.2ld
+  - name: menu/es/title_fast.2ld
   package: kh2_fifth
   method: copy
   source:
