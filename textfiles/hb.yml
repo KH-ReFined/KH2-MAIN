@@ -1,0 +1,26 @@
+- id: 0x5501
+  en: "{:unk 08}{:unk 02}{:unk 00}{:unk 06}Battle Sephiroth again?
+  
+    {:unk 15}{:unk 33}{:unk 00}Not right now.
+    
+    {:unk 15}{:unk 00}{:unk 13}I'm ready for a fight!"
+  sp: "{:unk 08}{:unk 02}{:unk 00}{:unk 06}¿Quieres enfrentarte a Sephiroth?
+  
+    {:unk 15}{:unk 33}{:unk 00}Ahora no.
+    
+    {:unk 15}{:unk 00}{:unk 13}¡A batirse tocan!"
+  fr: "{:unk 08}{:unk 02}{:unk 00}{:unk 06}Combattre Séphiroth à nouveau?
+  
+    {:unk 15}{:unk 33}{:unk 00}Pas maintenant.
+
+    {:unk 15}{:unk 00}{:unk 13}Je suis prêt à me battre!"
+  gr: "{:unk 08}{:unk 02}{:unk 00}{:unk 06}Möchtest du dich mit Sephiroth messen?
+  
+    {:unk 15}{:unk 33}{:unk 00}Das lass ich lieber.
+    
+    {:unk 15}{:unk 00}{:unk 13}Au ja! Auf in den Kampf!"
+  it: "{:unk 08}{:unk 02}{:unk 00}{:unk 06}Combatti di nuovo con Sephiroth?
+  
+    {:unk 15}{:unk 33}{:unk 00}Non ora.
+    
+    {:unk 15}{:unk 00}{:unk 13}Non mi fa paura!"

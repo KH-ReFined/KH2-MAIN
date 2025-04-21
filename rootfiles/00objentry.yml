@@ -1,0 +1,248 @@
+# === Retribution Values === #
+
+0x0A03: 
+  Page: 17
+  WeaponJoint: 25
+  ObjectId: 0x0A03
+  AnimationName: ''
+  ObjectType: WEAPON
+  ObjectForm: Default
+  ObjectTargetType: M
+  ModelName: W_EX010_RF
+  ObjectShadowSize: SmallShadow
+0x0A04: 
+  Page: 17
+  WeaponJoint: 25
+  ObjectId: 0x0A04
+  AnimationName: ''
+  ObjectType: WEAPON
+  ObjectForm: Default
+  ObjectTargetType: M
+  ModelName: W_EX010_RF_NM
+  ObjectShadowSize: SmallShadow
+0x0A05: 
+  Page: 17
+  WeaponJoint: 25
+  ObjectId: 0x0A05
+  AnimationName: ''
+  ObjectType: WEAPON
+  ObjectForm: Default
+  ObjectTargetType: M
+  ModelName: W_EX010_RF_TR
+  ObjectShadowSize: SmallShadow
+0x0A06: 
+  Page: 17
+  WeaponJoint: 25
+  ObjectId: 0x0A06
+  AnimationName: ''
+  ObjectType: WEAPON
+  ObjectForm: Default
+  ObjectTargetType: M
+  ModelName: W_EX010_RF_WI
+  ObjectShadowSize: SmallShadow
+
+# == Absolution Values === #
+
+0x0A07: 
+  Page: 17
+  WeaponJoint: 25
+  ObjectId: 0x0A07
+  AnimationName: ''
+  ObjectType: WEAPON
+  ObjectForm: Default
+  ObjectTargetType: M
+  ModelName: W_EX010_RX
+  ObjectShadowSize: SmallShadow
+0x0A08: 
+  Page: 17
+  WeaponJoint: 25
+  ObjectId: 0x0A08
+  AnimationName: ''
+  ObjectType: WEAPON
+  ObjectForm: Default
+  ObjectTargetType: M
+  ModelName: W_EX010_RX_NM
+  ObjectShadowSize: SmallShadow
+0x0A09: 
+  Page: 17
+  WeaponJoint: 25
+  ObjectId: 0x0A09
+  AnimationName: ''
+  ObjectType: WEAPON
+  ObjectForm: Default
+  ObjectTargetType: M
+  ModelName: W_EX010_RX_TR
+  ObjectShadowSize: SmallShadow
+0x0A0A: 
+  Page: 17
+  WeaponJoint: 25
+  ObjectId: 0x0A0A
+  AnimationName: ''
+  ObjectType: WEAPON
+  ObjectForm: Default
+  ObjectTargetType: M
+  ModelName: W_EX010_RX_WI
+  ObjectShadowSize: SmallShadow
+
+# === Pirate Outfits === #
+
+0x0A0B:
+  ObjectId: 0x0A0B
+  ObjectType: PLAYER
+  WeaponJoint: 1
+  ModelName: P_EX100_CA
+  AnimationName: P_EX100.mset
+  ObjectTargetType: M
+  NeoStatus: 1
+  NeoMoveset: 11
+  Weight: 100
+  ObjectShadowSize: MiddleShadow
+  ObjectForm: SoraRoxasDefault
+0x0A0C:
+  ObjectId: 0x0A0C
+  ObjectType: PLAYER
+  WeaponJoint: 1
+  ModelName: P_EX100_CA_BTLF
+  AnimationName: P_EX100_BTLF.mset
+  ObjectTargetType: M
+  NeoStatus: 1
+  NeoMoveset: 12
+  Weight: 100
+  ObjectShadowSize: MiddleShadow
+  ObjectForm: ValorForm
+0x0A0D:
+  ObjectId: 0x0A0D
+  ObjectType: PLAYER
+  WeaponJoint: 1
+  ModelName: P_EX100_CA_MAGF
+  AnimationName: P_EX100_MAGF.mset
+  ObjectTargetType: M
+  NeoStatus: 1
+  NeoMoveset: 13
+  Weight: 100
+  ObjectShadowSize: MiddleShadow
+  ObjectForm: WisdomForm
+0x0A0E:
+  ObjectId: 0x0A0E
+  ObjectType: PLAYER
+  WeaponJoint: 1
+  ModelName: P_EX100_CA_KH1F
+  AnimationName: P_EX100_KH1F.mset
+  ObjectTargetType: M
+  NeoStatus: 1
+  NeoMoveset: 67
+  Weight: 100
+  ObjectShadowSize: MiddleShadow
+  ObjectForm: LimitForm
+0x0A0F:
+  ObjectId: 0x0A0F
+  ObjectType: PLAYER
+  WeaponJoint: 1
+  ModelName: P_EX100_CA_TRIF
+  AnimationName: P_EX100_TRIF.mset
+  ObjectTargetType: M
+  NeoStatus: 1
+  NeoMoveset: 14
+  Weight: 100
+  ObjectShadowSize: MiddleShadow
+  ObjectForm: MasterForm
+0x0A10:
+  ObjectId: 0x0A10
+  ObjectType: PLAYER
+  WeaponJoint: 1
+  ModelName: P_EX100_CA_ULTF
+  AnimationName: P_EX100_ULTF.mset
+  ObjectTargetType: M
+  NeoStatus: 1
+  NeoMoveset: 15
+  Weight: 100
+  ObjectShadowSize: MiddleShadow
+  ObjectForm: FinalForm
+0x0A11:
+  ObjectId: 0x0A11
+  ObjectType: PLAYER
+  WeaponJoint: 1
+  ModelName: P_EX100_CA_HTLF
+  AnimationName: P_EX100_HTLF.mset
+  ObjectTargetType: M
+  NeoStatus: 1
+  NeoMoveset: 16
+  Weight: 25
+  ObjectShadowSize: NoShadow
+  ObjectForm: AntiForm
+0x0A12:
+  ObjectId: 0x0A12
+  ObjectType: FRIEND
+  WeaponJoint: 2
+  ModelName: P_EX020_CA
+  AnimationName: P_EX020.mset
+  ObjectTargetType: M
+  NeoStatus: 2
+  NeoMoveset: 19
+  Weight: 50
+  Page: 55
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+0x0A13:
+  ObjectId: 0x0A13
+  ObjectType: FRIEND
+  WeaponJoint: 3
+  ModelName: P_EX030_CA
+  AnimationName: P_EX030.mset
+  ObjectTargetType: M
+  NeoStatus: 3
+  NeoMoveset: 22
+  Weight: 50
+  Page: 18
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+0x0A15:
+  ObjectId: 0x0A15
+  ObjectType: NPC
+  ModelName: N_EX760_CA
+  AnimationName: N_EX760.mset
+  Flags: 1
+  ObjectTargetType: M
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+0x0A16:
+  ObjectId: 0x0A16
+  ObjectType: RTN
+  WeaponJoint: 2
+  ModelName: P_EX020_CA_RTN
+  AnimationName: P_EX020_RTN.mset
+  ObjectTargetType: M
+  NeoStatus: 0
+  NeoMoveset: 0
+  Weight: 500
+  Page: 16
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+  NoApdx: true
+  Scissoring: true
+0x0A17:
+  ObjectId: 0x0A17
+  ObjectType: RTN
+  WeaponJoint: 3
+  ModelName: P_EX030_CA_RTN
+  AnimationName: P_EX030_RTN.mset
+  ObjectTargetType: M
+  NeoStatus: 0
+  NeoMoveset: 0
+  Weight: 500
+  Page: 16
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+  NoApdx: true
+  Scissoring: true
+
+# === Sephiroth Absent Silhouette === #
+
+0x1300:
+  ObjectId: 0x1300
+  ObjectType: G_OBJ
+  AnimationName: ''
+  ModelName: F_CZ240
+  ObjectForm: Default
+  ObjectTargetType: M
+  ObjectShadowSize: NoShadow

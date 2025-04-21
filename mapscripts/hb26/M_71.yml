@@ -1,0 +1,22 @@
+- Id: 0x01A6
+  Type: 0x01
+  Flag: 0
+  Teleport:
+    Place: 0
+    Door: 0
+    World: 0
+    Unknown: 0
+  Unk20: 0
+  Unk24: 0
+  Entities:
+  - ObjectId: 0x09EC
+    Serial: 85
+    Argument1: 102
+    PositionX: 1940
+    PositionY: -21
+    PositionZ: 294
+    RotationY: 5.4105206
+  EventActivators: []
+  WalkPath: []
+  ReturnParameters: []
+  Signals: []

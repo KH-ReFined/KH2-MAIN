@@ -1,0 +1,42 @@
+- Id: 0x0186
+  Type: 0x01
+  Flag: 0
+  Id: 0
+  Teleport:
+    Place: 0
+    Door: 0
+    World: 0
+    Unknown: 0
+  Unk20: 0
+  Unk24: 0
+  Entities:
+  - ObjectId: 0x0339
+    Serial: 83
+    Argument1: 100
+    PositionX: -830
+    PositionY: 560
+    PositionZ: 247
+    RotationY: 1.5358897
+  - ObjectId: 0x0339
+    Serial: 84
+    Argument1: 101
+    PositionX: -830
+    PositionY: 560
+    PositionZ: -250
+    RotationY: 1.5358897
+  - ObjectId: 0x0239
+    Serial: 85
+    PositionX: 685
+    PositionY: 460
+    PositionZ: -405
+  - ObjectId: 0x0882
+    Serial: 86
+    Command: 0x00CB
+    PositionX: 685
+    PositionY: 400
+    PositionZ: 405
+    RotationY: 4.712389
+  EventActivators: []
+  WalkPath: []
+  ReturnParameters: []
+  Signals: []
