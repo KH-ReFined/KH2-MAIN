@@ -4,7 +4,7 @@
   en: "Press{:icon dynamic-cross} to cancel!"
   it: "Premi{:icon dynamic-cross} per annullare!"
   gr: "Drücke {:icon dynamic-circle}, um abzubrechen."
-  fr: "Appuyez sur {:icon dynamic-cross} pour annuler!"
+  fr: "Appuyez sur {:icon dynamic-cross} pour annuler !"
   sp: "¡Pulsa{:icon dynamic-cross} para cancelar!"
   
 
@@ -12,7 +12,7 @@
   en: "Soft-Reset cancelled!"
   it: "Soft-Reset annullato!"
   gr: "Soft-Reset abgebrochen!"
-  fr: "Soft-Reset annulé!"
+  fr: "Soft-Reset annulé !"
   sp: "¡Soft-Reset cancelado!"
   
 
@@ -20,7 +20,7 @@
   en: "Your progress is safe, kupo!"
   it: "Il tuo progresso è al sicuro, kupò!"
   gr: "Dein Fortschritt ist gespeichert, kupo!"
-  fr: "Votre progression a été sauvegardée, kupo!"
+  fr: "Votre progression a été sauvegardée, kupo !"
   sp: "Tu progreso se ha guardado, ¡kupó!"
   
 
@@ -28,7 +28,7 @@
   en: "Could not save your progress, kupo! Please save the game manually!"
   it: "Il tuo progresso non può essere salvato, kupò! Si prega di salvare manualmente!"
   gr: "Dein Fortschritt wurde nicht gespeichert, kupo! Bitte speichere manuell!"
-  fr: "Votre progression n'a pas pu être sauvegardée, kupo! Sauvegardez manuellement!"
+  fr: "Votre progression n'a pas pu être sauvegardée, kupo ! Sauvegardez manuellement !"
   sp: "No he podido guardar tu progreso, ¡kupó! ¡Por favor guarda el juego manualmente!"
   
 
@@ -70,7 +70,7 @@
   en: "What are Shortcut Sets?"
   it: "Cosa sono i Set di Uso rapido?"
   gr: "Was sind 'Kurzbefehle-Sets'?"
-  fr: "Comment utiliser les sets de raccourcis?"
+  fr: "Comment utiliser les sets de raccourcis ?"
   sp: "¿Qué son los sets de atajos?"
 
 # === Config Menu Text === #
@@ -420,11 +420,11 @@
   fr: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
 
 
-    {:width 90}Une mise à jour de Re:Fined est disponible!
+    {:width 90}Une mise à jour de Re:Fined est disponible !
     
     Les versions récentes sont généralement plus stables.
     
-    Voulez vous mettre à jour? {:color #FFFF0180}[Recommandé!]"
+    Voulez vous mettre à jour ? {:color #FFFF0180}[Recommandé !]"
 
   sp: "{:icon question-mark}{:color #FF010180}PREGUNTA{:reset}
 
@@ -503,7 +503,7 @@
   fr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
   
 
-    Re:Fined a été mis à jour avec succès! 
+    Re:Fined a été mis à jour avec succès ! 
     
     Le jeu va redémarrer pour appliquer la mise à jour..."
   
@@ -586,7 +586,7 @@
   en: "Play through the prologue?"
   it: "Vuoi giocare il prologo?"
   gr: "Durch den Prolog spielen?"
-  fr: "Jouer le prologue?"
+  fr: "Jouer le prologue ?"
   sp: "¿Jugar el prólogo?"
   
 
@@ -610,7 +610,7 @@
     {:color #FFFF0080} (Du wirst wichtige Elemente der Geschichte verpassen!)"
   fr: "               Passer le prologue entièrement.
   
-    {:color #FFFF0080} (Vous raterez des éléments important de l'histoire si vous le faites!)"
+    {:color #FFFF0080} (Vous raterez des éléments important de l'histoire si vous le faites !)"
   sp: "                  Salta el prólogo completamente.
   
     {:color #FFFF0080} (¡Omitirás elementos de la historia importantes si lo haces!)"
@@ -719,7 +719,7 @@
   sp: "¡Has descubierto un secreto! Me pregunto que será, kupo..."
   gr: "Du hast ein Geheimnis entdeckt! Was da wohl passiert ist, kupo...?"
   it: "Hai scoperto un segreto! Mi chiedo cosa abbia fatto, kupo..."
-  fr: "Ouah! Tu as découvert un secret! Qu'est-ce que ca a fait, je me demande..?"
+  fr: "Ouah ! Tu as découvert un secret ! Qu'est-ce que ca a fait, je me demande...?"
   
 - id: 0x5750
   en: "Retribution"
