@@ -236,6 +236,71 @@
   NoApdx: true
   Scissoring: true
 
+# === High-Poly Pirates === #
+
+0x0A18:
+  ObjectId: 0x0A18
+  ObjectType: NPC
+  ModelName: H_EX500_CA
+  AnimationName: ""
+  Page: 18
+  ObjectShadowSize: MiddleShadow
+  NoApdx: true
+0x0A19:
+  ObjectId: 0x0A19
+  ObjectType: NPC
+  ModelName: H_EX500_CA_BTLF
+  AnimationName: ""
+  Page: 18
+  ObjectShadowSize: MiddleShadow
+  NoApdx: true
+0x0A1A:
+  ObjectId: 0x0A1A
+  ObjectType: NPC
+  ModelName: H_EX500_CA_MAGF
+  AnimationName: ""
+  Page: 18
+  ObjectShadowSize: MiddleShadow
+  NoApdx: true
+0x0A1B:
+  ObjectId: 0x0A1B
+  ObjectType: NPC
+  ModelName: H_EX500_CA_KH1F
+  AnimationName: ""
+  Page: 18
+  ObjectShadowSize: MiddleShadow
+  NoApdx: true
+0x0A1C:
+  ObjectId: 0x0A1C
+  ObjectType: NPC
+  ModelName: H_EX500_CA_TRIF
+  AnimationName: ""
+  Page: 18
+  ObjectShadowSize: MiddleShadow
+  NoApdx: true
+0x0A1D:
+  ObjectId: 0x0A1D
+  ObjectType: NPC
+  ModelName: H_EX500_CA_ULTF
+  AnimationName: ""
+  Page: 18
+  ObjectShadowSize: MiddleShadow
+  NoApdx: true
+0x0A1E:
+  ObjectId: 0x0A1E
+  ObjectType: NPC
+  ModelName: H_ZZ020_CA
+  AnimationName: ""
+  ObjectShadowSize: SmallShadow
+  NoApdx: true
+0x0A1F:
+  ObjectId: 0x0A1F
+  ObjectType: NPC
+  ModelName: H_ZZ030_CA
+  AnimationName: ""
+  ObjectShadowSize: SmallShadow
+  NoApdx: true
+
 # === Sephiroth Absent Silhouette === #
 
 0x1300:
