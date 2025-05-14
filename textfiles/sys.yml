@@ -3,7 +3,7 @@
 - id: 0x5700
   en: "Press{:icon dynamic-cross} to cancel!"
   it: "Premi{:icon dynamic-cross} per annullare!"
-  gr: "Drücke {:icon dynamic-circle}, um abzubrechen."
+  gr: "Drücke {:icon dynamic-cross}, um abzubrechen."
   fr: "Appuyez sur {:icon dynamic-cross} pour annuler !"
   sp: "¡Pulsa{:icon dynamic-cross} para cancelar!"
   
