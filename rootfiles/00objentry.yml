@@ -301,7 +301,96 @@
   ObjectShadowSize: SmallShadow
   NoApdx: true
 
-# === Sephiroth Absent Silhouette === #
+# === Disney Castle === #
+
+0x0A20:
+  ObjectId: 0x0A20
+  ObjectType: FRIEND
+  WeaponJoint: 2
+  ModelName: P_EX020_DC
+  AnimationName: P_EX020.mset
+  ObjectTargetType: M
+  NeoStatus: 2
+  NeoMoveset: 19
+  Weight: 50
+  Page: 55
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+0x0A21:
+  ObjectId: 0x0A21
+  ObjectType: FRIEND
+  WeaponJoint: 3
+  ModelName: P_EX030_DC
+  AnimationName: P_EX030.mset
+  ObjectTargetType: M
+  NeoStatus: 3
+  NeoMoveset: 22
+  Weight: 50
+  Page: 18
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+0x0A22:
+  ObjectId: 0x0A22
+  ObjectType: RTN
+  WeaponJoint: 2
+  ModelName: P_EX020_DC_RTN
+  AnimationName: P_EX020_RTN.mset
+  ObjectTargetType: M
+  NeoStatus: 0
+  NeoMoveset: 0
+  Weight: 500
+  Page: 16
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+  NoApdx: true
+  Scissoring: true
+0x0A23:
+  ObjectId: 0x0A23
+  ObjectType: RTN
+  WeaponJoint: 3
+  ModelName: P_EX030_DC_RTN
+  AnimationName: P_EX030_RTN.mset
+  ObjectTargetType: M
+  NeoStatus: 0
+  NeoMoveset: 0
+  Weight: 500
+  Page: 16
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+  NoApdx: true
+  Scissoring: true
+0x0A24:
+  ObjectId: 0x0A24
+  ObjectType: NPC
+  ModelName: H_ZZ020_DC
+  AnimationName: ""
+  ObjectShadowSize: SmallShadow
+  NoApdx: true
+0x0A25:
+  ObjectId: 0x0A25
+  ObjectType: NPC
+  ModelName: H_ZZ030_DC
+  AnimationName: ""
+  ObjectShadowSize: SmallShadow
+  NoApdx: true
+
+# === Organization XIII Moogle (Thanks Oathseeker!) === #
+
+0x0A26:
+  ObjectId: 0x0A26
+  ObjectType: RTN
+  ModelName: N_EX640_XIII_MOOGLE_RTN
+  AnimationName: N_EX640_RTN.mset
+  ObjectTargetType: M
+  NeoStatus: 0
+  NeoMoveset: 0
+  Weight: 0
+  Page: 8
+  ObjectShadowSize: NoShadow
+  ObjectForm: Default
+  NoApdx: true
+  
+# === Sephiroth Absent Silhouette (Thanks CrazyCatz00!) === #
 
 0x1300:
   ObjectId: 0x1300
@@ -311,3 +400,4 @@
   ObjectForm: Default
   ObjectTargetType: M
   ObjectShadowSize: NoShadow
+  

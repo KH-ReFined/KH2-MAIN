@@ -29,11 +29,11 @@
     PositionX: 685
     PositionY: 460
     PositionZ: -405
-  - ObjectId: 0x0882
+  - ObjectId: 0x0A26
     Serial: 86
-    Command: 0x00CB
+    Command: 0x026E
     PositionX: 685
-    PositionY: 400
+    PositionY: 370
     PositionZ: 405
     RotationY: 4.712389
   EventActivators: []

@@ -11,6 +11,26 @@ assets:
   source:
   - name: reFined-v4.bin
 
+- name: dll/ReFined.dll
+  method: copy
+  source:
+  - name: engine/ReFined.dll
+
+- name: dll/refined/discord_game_sdk.dll
+  method: copy
+  source:
+  - name: engine/refined/discord_game_sdk.dll
+
+- name: dll/refined/keystone.dll
+  method: copy
+  source:
+  - name: engine/refined/keystone.dll
+
+- name: dll/refined/engine.exe
+  method: copy
+  source:
+  - name: engine/refined/engine.exe
+
 - name: 00objentry.bin
   type: list
   method: listpatch
@@ -43,6 +63,7 @@ assets:
     method: copy
     source:
     - name: system/MEMT
+      type: memt
   - name: trsr
     type: list
     method: listpatch
@@ -258,6 +279,14 @@ assets:
   method: copy
   source:
   - name: shopface/p_ca030.bin
+- name: menu/shopface/p_dc020.bin
+  method: copy
+  source:
+  - name: shopface/p_dc020.bin
+- name: menu/shopface/p_dc030.bin
+  method: copy
+  source:
+  - name: shopface/p_dc030.bin
 - name: menu/shopface/p_ca100.bin
   method: copy
   source:
@@ -361,7 +390,201 @@ assets:
   source:
   - name: libretto/libretto-hb.bar
 
+# === Background Music Files === #
+
+- name: bgm/music506.win32.scd
+  method: copy
+  source:
+  - name: bgm/music506.win32.scd
+- name: bgm/music507.win32.scd
+  method: copy
+  source:
+  - name: bgm/music507.win32.scd
+- name: bgm/music508.win32.scd
+  method: copy
+  source:
+  - name: bgm/music508.win32.scd
+- name: bgm/music509.win32.scd
+  method: copy
+  source:
+  - name: bgm/music509.win32.scd
+- name: bgm/music513.win32.scd
+  method: copy
+  source:
+  - name: bgm/music513.win32.scd
+
+# === Atlantica Voice Files === #
+
+- name: voice/us/event/lmmu1-01.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu1-01.win32.scd
+- name: voice/us/event/lmmu1-03.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu1-03.win32.scd
+- name: voice/us/event/lmmu1-08.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu1-08.win32.scd
+- name: voice/us/event/lmmu1-13.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu1-13.win32.scd
+- name: voice/us/event/lmmu1-18.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu1-18.win32.scd
+- name: voice/us/event/lmmu1-20.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu1-20.win32.scd
+- name: voice/us/event/lmmu1-23.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu1-23.win32.scd
+- name: voice/us/event/lmmu1-25.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu1-25.win32.scd
+- name: voice/us/event/lmmu1-30.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu1-30.win32.scd
+- name: voice/us/event/lmmu1-31.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu1-31.win32.scd
+- name: voice/us/event/lmmu2-1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu2-1.win32.scd
+- name: voice/us/event/lmmu2-2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu2-2.win32.scd
+- name: voice/us/event/lmmu2-3.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu2-3.win32.scd
+- name: voice/us/event/lmmu2-4.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu2-4.win32.scd
+- name: voice/us/event/lmmu2-5.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu2-5.win32.scd
+- name: voice/us/event/lmmu3-1-2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu3-1-2.win32.scd
+- name: voice/us/event/lmmu3-3.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu3-3.win32.scd
+- name: voice/us/event/lmmu3-4.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu3-4.win32.scd
+- name: voice/us/event/lmmu3-5.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu3-5.win32.scd
+- name: voice/us/event/lmmu4-01.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu4-01.win32.scd
+- name: voice/us/event/lmmu4-03.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu4-03.win32.scd
+- name: voice/us/event/lmmu4-06.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu4-06.win32.scd
+- name: voice/us/event/lmmu4-09.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu4-09.win32.scd
+- name: voice/us/event/lmmu4-11.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu4-11.win32.scd
+- name: voice/us/event/lmmu5-1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu5-1.win32.scd
+- name: voice/us/event/lmmu5-2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu5-2.win32.scd
+- name: voice/us/event/lmmu5-3.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu5-3.win32.scd
+- name: voice/us/event/lmmu5-4.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu5-4.win32.scd
+- name: voice/us/event/lmmu5-5-1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu5-5-1.win32.scd
+- name: voice/us/event/lmmu5-5-2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu5-5-2.win32.scd
+- name: voice/us/event/lmmu5-6.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu5-6.win32.scd
+- name: voice/us/event/lmmu6-1.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu6-1.win32.scd
+- name: voice/us/event/lmmu6-2.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu6-2.win32.scd
+- name: voice/us/event/lmmu6-3.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu6-3.win32.scd
+- name: voice/us/event/lmmu7.win32.scd
+  method: copy
+  source:
+  - name: voice/us/event/lmmu7.win32.scd
+
 # === ARD Edits and Scripts === #
+
+- name: ard/us/eh04.ard
+  multi:
+  - name: ard/fr/eh04.ard
+  - name: ard/gr/eh04.ard
+  - name: ard/it/eh04.ard
+  - name: ard/sp/eh04.ard
+  method: binarc
+  source:
+  - name: z00s
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: mapscripts/eh04/Z00S.yml
+
+- name: ard/us/eh09.ard
+  multi:
+  - name: ard/fr/eh09.ard
+  - name: ard/gr/eh09.ard
+  - name: ard/it/eh09.ard
+  - name: ard/sp/eh09.ard
+  method: binarc
+  source:
+  - name: z00s
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: mapscripts/eh09/Z00S.yml
 
 - name: ard/us/hb26.ard
   multi:
@@ -802,15 +1025,100 @@ assets:
     source:
     - name: cutscenes/ca25-112.event
 
+- name: ard/us/dc01.ard
+  method: binarc
+  multi:
+  - name: ard/jp/dc01.ard
+  - name: ard/fr/dc01.ard
+  - name: ard/gr/dc01.ard
+  - name: ard/it/dc01.ard
+  - name: ard/sp/dc01.ard
+  - name: ard/uk/dc01.ard
+  source:
+  - name: '101'
+    method: copy
+    type: Event
+    source:
+    - name: cutscenes/dc01-101.event
+  - name: '104'
+    method: copy
+    type: Event
+    source:
+    - name: cutscenes/dc01-104.event
+- name: ard/us/dc03.ard
+  method: binarc
+  multi:
+  - name: ard/jp/dc03.ard
+  - name: ard/fr/dc03.ard
+  - name: ard/gr/dc03.ard
+  - name: ard/it/dc03.ard
+  - name: ard/sp/dc03.ard
+  - name: ard/uk/dc03.ard
+  source:
+  - name: '103'
+    method: copy
+    type: Event
+    source:
+    - name: cutscenes/dc03-103.event
+- name: ard/us/dc04.ard
+  method: binarc
+  multi:
+  - name: ard/jp/dc04.ard
+  - name: ard/fr/dc04.ard
+  - name: ard/gr/dc04.ard
+  - name: ard/it/dc04.ard
+  - name: ard/sp/dc04.ard
+  - name: ard/uk/dc04.ard
+  source:
+  - name: '108'
+    method: copy
+    type: Event
+    source:
+    - name: cutscenes/dc04-108.event
+  - name: '109'
+    method: copy
+    type: Event
+    source:
+    - name: cutscenes/dc04-109.event
+- name: ard/us/dc05.ard
+  method: binarc
+  multi:
+  - name: ard/jp/dc05.ard
+  - name: ard/fr/dc05.ard
+  - name: ard/gr/dc05.ard
+  - name: ard/it/dc05.ard
+  - name: ard/sp/dc05.ard
+  - name: ard/uk/dc05.ard
+  source:
+  - name: '111'
+    method: copy
+    type: Event
+    source:
+    - name: cutscenes/dc05-111.event
+  - name: '205'
+    method: copy
+    type: Event
+    source:
+    - name: cutscenes/dc05-205.event
+- name: ard/us/dc06.ard
+  method: binarc
+  multi:
+  - name: ard/jp/dc06.ard
+  - name: ard/fr/dc06.ard
+  - name: ard/gr/dc06.ard
+  - name: ard/it/dc06.ard
+  - name: ard/sp/dc06.ard
+  - name: ard/uk/dc06.ard
+  source:
+  - name: '102'
+    method: copy
+    type: Event
+    source:
+    - name: cutscenes/dc06-102.event
+
 # === Object Files === #
 
 - name: obj/F_CZ240.a.us
-  multi:
-  - name: obj/F_CZ240.a.jp
-  - name: obj/F_CZ240.a.gr
-  - name: obj/F_CZ240.a.fr
-  - name: obj/F_CZ240.a.it
-  - name: obj/F_CZ240.a.sp
   method: copy
   source:
   - name: objects/sephsilhouette/F_CZ240.apdx
@@ -967,6 +1275,45 @@ assets:
   method: copy
   source:
   - name: objects/piratefellas/P_EX030_CA.apdx
+
+# === Disney Castle Changes === #
+
+- name: obj/P_EX020_DC.mdlx
+  method: copy
+  source:
+  - name: objects/disneyfellas/P_EX020_DC.mdlx
+- name: obj/P_EX030_DC.mdlx
+  method: copy
+  source:
+  - name: objects/disneyfellas/P_EX030_DC.mdlx
+
+- name: obj/P_EX020_DC.a.us
+  multi:
+  - name: obj/P_EX020_DC.a.jp
+  - name: obj/P_EX020_DC.a.de
+  - name: obj/P_EX020_DC.a.es
+  - name: obj/P_EX020_DC.a.bg
+  method: copy
+  source:
+  - name: objects/disneyfellas/P_EX020_DC.apdx
+- name: obj/P_EX030_DC.a.us
+  multi:
+  - name: obj/P_EX030_DC.a.jp
+  - name: obj/P_EX030_DC.a.de
+  - name: obj/P_EX030_DC.a.es
+  - name: obj/P_EX030_DC.a.bg
+  method: copy
+  source:
+  - name: objects/disneyfellas/P_EX030_DC.apdx
+  
+- name: obj/H_ZZ020_DC.mdlx
+  method: copy
+  source:
+  - name: objects/disneyfellas/H_ZZ020_DC.mdlx
+- name: obj/H_ZZ030_DC.mdlx
+  method: copy
+  source:
+  - name: objects/disneyfellas/H_ZZ030_DC.mdlx
 
 # === Tutorial Images === #x
 
@@ -1585,6 +1932,43 @@ assets:
   source:
   - name: remastered/objects/piratefellas/H_ZZ030_CA.mdlx/-2.dds
 
+- name: remastered/obj/H_ZZ020_DC.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/H_ZZ020_DC.mdlx/-0.dds
+- name: remastered/obj/H_ZZ020_DC.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/H_ZZ020_DC.mdlx/-1.dds
+- name: remastered/obj/H_ZZ020_DC.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/H_ZZ020_DC.mdlx/-2.dds
+- name: remastered/obj/H_ZZ020_DC.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/H_ZZ020_DC.mdlx/-3.dds
+- name: remastered/obj/H_ZZ020_DC.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/H_ZZ020_DC.mdlx/-4.dds
+
+- name: remastered/obj/H_ZZ030_DC.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/H_ZZ030_DC.mdlx/-0.dds
+- name: remastered/obj/H_ZZ030_DC.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/H_ZZ030_DC.mdlx/-1.dds
+- name: remastered/obj/H_ZZ030_DC.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/H_ZZ030_DC.mdlx/-2.dds
+- name: remastered/obj/H_ZZ030_DC.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/H_ZZ030_DC.mdlx/-3.dds
 
 - name: remastered/obj/N_EX760_CA.mdlx/-0.dds
   method: copy
@@ -1611,6 +1995,14 @@ assets:
   method: copy
   source:
   - name: remastered/shopface/p_ca030.bin/-0.png
+- name: remastered/menu/shopface/p_dc020.bin/-0.png
+  method: copy
+  source:
+  - name: remastered/shopface/p_dc020.bin/-0.png
+- name: remastered/menu/shopface/p_dc030.bin/-0.png
+  method: copy
+  source:
+  - name: remastered/shopface/p_dc030.bin/-0.png
 - name: remastered/menu/shopface/p_ca100.bin/-0.png
   method: copy
   source:
@@ -2230,7 +2622,7 @@ assets:
   - name: remastered/obj/P_EX100_HTLF.a.de/-0.dds
   - name: remastered/obj/P_EX100_HTLF.a.es/-0.dds
   - name: remastered/obj/P_EX100_HTLF.a.bg/-0.dds
-  - name: remastered/obj/P_EX100_CA_HTLF.a.us/-1.dds
+  - name: remastered/obj/P_EX100_CA_HTLF.a.us/-0.dds
   - name: remastered/obj/P_EX100_CA_HTLF.a.jp/-0.dds
   - name: remastered/obj/P_EX100_CA_HTLF.a.de/-0.dds
   - name: remastered/obj/P_EX100_CA_HTLF.a.es/-0.dds
@@ -2278,10 +2670,10 @@ assets:
 
 - name: remastered/obj/P_EX100_ULTF.a.us/-0.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-0.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-0.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-0.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-0.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-0.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-0.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-0.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-0.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-0.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-0.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.de/-0.dds
@@ -2293,10 +2685,10 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-0.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-1.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-1.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-1.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-1.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-1.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-1.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-1.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-1.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-1.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-1.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-1.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.de/-1.dds
@@ -2308,10 +2700,10 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-1.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-2.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-2.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-2.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-2.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-2.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-2.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-2.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-2.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-2.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-2.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-2.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.de/-2.dds
@@ -2323,10 +2715,10 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-2.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-3.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-3.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-3.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-3.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-3.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-3.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-3.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-3.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-3.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-3.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-3.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.de/-3.dds
@@ -2338,10 +2730,10 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-3.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-4.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-4.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-4.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-4.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-4.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-4.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-4.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-4.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-4.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-4.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-4.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.de/-4.dds
@@ -2353,10 +2745,10 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-4.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-5.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-5.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-5.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-5.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-5.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-5.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-5.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-5.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-5.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-5.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-5.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.de/-5.dds
@@ -2368,10 +2760,10 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-5.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-6.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-6.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-6.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-6.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-6.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-6.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-6.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-6.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-6.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-6.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-6.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.de/-6.dds
@@ -2383,10 +2775,10 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-6.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-7.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-7.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-7.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-7.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-7.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-7.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-7.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-7.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-7.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-7.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-7.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.de/-7.dds
@@ -2398,10 +2790,10 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-7.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-8.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-8.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-8.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-8.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-8.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-8.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-8.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-8.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-8.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-8.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-8.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.de/-8.dds
@@ -2413,10 +2805,10 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-8.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-9.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-9.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-9.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-9.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-9.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-9.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-9.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-9.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-9.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-9.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-9.dds
   - name: remastered/obj/P_EX100_CA_ULTF.a.de/-9.dds
@@ -2428,10 +2820,10 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-9.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
   multi:
-  - name: remastered/obj/P_EX100_UTLF.a.jp/-10.dds
-  - name: remastered/obj/P_EX100_UTLF.a.de/-10.dds
-  - name: remastered/obj/P_EX100_UTLF.a.es/-10.dds
-  - name: remastered/obj/P_EX100_UTLF.a.bg/-10.dds
+  - name: remastered/obj/P_EX100_ULTF.a.jp/-10.dds
+  - name: remastered/obj/P_EX100_ULTF.a.de/-10.dds
+  - name: remastered/obj/P_EX100_ULTF.a.es/-10.dds
+  - name: remastered/obj/P_EX100_ULTF.a.bg/-10.dds
   package: kh2_sixth
   method: copy
   source:
@@ -2594,6 +2986,98 @@ assets:
   source:
   - name: remastered/objects/piratefellas/P_EX030_CA.apdx/-2.dds
 
+- name: remastered/obj/P_EX020_DC.a.us/-0.dds
+  multi:
+  - name: remastered/obj/P_EX020_DC.a.jp/-0.dds
+  - name: remastered/obj/P_EX020_DC.a.de/-0.dds
+  - name: remastered/obj/P_EX020_DC.a.es/-0.dds
+  - name: remastered/obj/P_EX020_DC.a.bg/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.apdx/-0.dds
+- name: remastered/obj/P_EX020_DC.a.us/-1.dds
+  multi:
+  - name: remastered/obj/P_EX020_DC.a.jp/-1.dds
+  - name: remastered/obj/P_EX020_DC.a.de/-1.dds
+  - name: remastered/obj/P_EX020_DC.a.es/-1.dds
+  - name: remastered/obj/P_EX020_DC.a.bg/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.apdx/-1.dds
+- name: remastered/obj/P_EX020_DC.a.us/-2.dds
+  multi:
+  - name: remastered/obj/P_EX020_DC.a.jp/-2.dds
+  - name: remastered/obj/P_EX020_DC.a.de/-2.dds
+  - name: remastered/obj/P_EX020_DC.a.es/-2.dds
+  - name: remastered/obj/P_EX020_DC.a.bg/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.apdx/-2.dds
+- name: remastered/obj/P_EX020_DC.a.us/-3.dds
+  multi:
+  - name: remastered/obj/P_EX020_DC.a.jp/-3.dds
+  - name: remastered/obj/P_EX020_DC.a.de/-3.dds
+  - name: remastered/obj/P_EX020_DC.a.es/-3.dds
+  - name: remastered/obj/P_EX020_DC.a.bg/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.apdx/-3.dds
+- name: remastered/obj/P_EX020_DC.a.us/-4.dds
+  multi:
+  - name: remastered/obj/P_EX020_DC.a.jp/-4.dds
+  - name: remastered/obj/P_EX020_DC.a.de/-4.dds
+  - name: remastered/obj/P_EX020_DC.a.es/-4.dds
+  - name: remastered/obj/P_EX020_DC.a.bg/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.apdx/-4.dds
+- name: remastered/obj/P_EX020_DC.a.us/-5.dds
+  multi:
+  - name: remastered/obj/P_EX020_DC.a.jp/-5.dds
+  - name: remastered/obj/P_EX020_DC.a.de/-5.dds
+  - name: remastered/obj/P_EX020_DC.a.es/-5.dds
+  - name: remastered/obj/P_EX020_DC.a.bg/-5.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.apdx/-5.dds
+- name: remastered/obj/P_EX020_DC.a.us/-6.dds
+  multi:
+  - name: remastered/obj/P_EX020_DC.a.jp/-6.dds
+  - name: remastered/obj/P_EX020_DC.a.de/-6.dds
+  - name: remastered/obj/P_EX020_DC.a.es/-6.dds
+  - name: remastered/obj/P_EX020_DC.a.bg/-6.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.apdx/-6.dds
+
+- name: remastered/obj/P_EX030_DC.a.us/-0.dds
+  multi:
+  - name: remastered/obj/P_EX030_DC.a.jp/-0.dds
+  - name: remastered/obj/P_EX030_DC.a.de/-0.dds
+  - name: remastered/obj/P_EX030_DC.a.es/-0.dds
+  - name: remastered/obj/P_EX030_DC.a.bg/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX030_DC.apdx/-0.dds
+- name: remastered/obj/P_EX030_DC.a.us/-1.dds
+  multi:
+  - name: remastered/obj/P_EX030_DC.a.jp/-1.dds
+  - name: remastered/obj/P_EX030_DC.a.de/-1.dds
+  - name: remastered/obj/P_EX030_DC.a.es/-1.dds
+  - name: remastered/obj/P_EX030_DC.a.bg/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX030_DC.apdx/-1.dds
+- name: remastered/obj/P_EX030_DC.a.us/-2.dds
+  multi:
+  - name: remastered/obj/P_EX030_DC.a.jp/-2.dds
+  - name: remastered/obj/P_EX030_DC.a.de/-2.dds
+  - name: remastered/obj/P_EX030_DC.a.es/-2.dds
+  - name: remastered/obj/P_EX030_DC.a.bg/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX030_DC.apdx/-2.dds
+
 - name: remastered/obj/F_CZ240.a.us/-0.dds
   method: copy
   source:
@@ -2622,6 +3106,95 @@ assets:
   method: copy
   source:
   - name: remastered/objects/F_CZ240.apdx/se/obj/se399
+
+- name: remastered/obj/P_EX020_DC.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.mdlx/-0.dds
+- name: remastered/obj/P_EX020_DC.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.mdlx/-1.dds
+- name: remastered/obj/P_EX020_DC.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.mdlx/-2.dds
+- name: remastered/obj/P_EX020_DC.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC.mdlx/-3.dds
+  
+- name: remastered/obj/P_EX020_DC_ANGRY_NPC.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC_ANGRY_NPC.mdlx/-0.dds
+- name: remastered/obj/P_EX020_DC_ANGRY_NPC.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC_ANGRY_NPC.mdlx/-1.dds
+- name: remastered/obj/P_EX020_DC_ANGRY_NPC.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC_ANGRY_NPC.mdlx/-2.dds
+- name: remastered/obj/P_EX020_DC_ANGRY_NPC.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC_ANGRY_NPC.mdlx/-3.dds
+- name: remastered/obj/P_EX020_DC_ANGRY_NPC.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC_ANGRY_NPC.mdlx/-4.dds
+- name: remastered/obj/P_EX020_DC_ANGRY_NPC.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC_ANGRY_NPC.mdlx/-5.dds
+- name: remastered/obj/P_EX020_DC_ANGRY_NPC.mdlx/-6.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX020_DC_ANGRY_NPC.mdlx/-6.dds
+
+- name: remastered/obj/P_EX030_DC.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX030_DC.mdlx/-0.dds
+- name: remastered/obj/P_EX030_DC.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX030_DC.mdlx/-1.dds
+- name: remastered/obj/P_EX030_DC.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX030_DC.mdlx/-2.dds
+- name: remastered/obj/P_EX030_DC.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/disneyfellas/P_EX030_DC.mdlx/-3.dds
+
+- name: remastered/obj/H_ZZ020_CA.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratefellas/H_ZZ020_CA.mdlx/-0.dds
+- name: remastered/obj/H_ZZ020_CA.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratefellas/H_ZZ020_CA.mdlx/-1.dds
+- name: remastered/obj/H_ZZ020_CA.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratefellas/H_ZZ020_CA.mdlx/-2.dds
+
+- name: remastered/obj/H_ZZ030_CA.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratefellas/H_ZZ030_CA.mdlx/-0.dds
+- name: remastered/obj/H_ZZ030_CA.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratefellas/H_ZZ030_CA.mdlx/-1.dds
+- name: remastered/obj/H_ZZ030_CA.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratefellas/H_ZZ030_CA.mdlx/-2.dds
 
 - name: remastered/obj/B_EX140.a.us/se/obj/se320
   multi:
@@ -3756,3 +4329,93 @@ assets:
   method: copy
   source:
   - name: remastered/obj/B_EX390.a.us/voice/battle/us/n_roxas
+
+- name: voice/us/battle/preview_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/preview_sora.win32.scd
+- name: voice/us/battle/preview_roxas.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/preview_roxas.win32.scd
+
+# === Moogle XIII === #
+
+- name: obj\N_EX640_XIII_MOOGLE_RTN.mdlx
+  method: copy
+  source:
+  - name: objects\moogle\N_EX640_XIII_MOOGLE_RTN.mdlx
+- name: obj\N_EX640_XIII_SHOP_RTN.mdlx
+  method: copy
+  source:
+  - name: objects\moogle\N_EX640_XIII_SHOP_RTN.mdlx
+
+- name: remastered\obj\N_EX640_XIII_MOOGLE_RTN.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\objects\moogle\N_EX640_XIII_MOOGLE_RTN.mdlx\-0.dds
+- name: remastered\obj\N_EX640_XIII_MOOGLE_RTN.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\objects\moogle\N_EX640_XIII_MOOGLE_RTN.mdlx\-1.dds
+- name: remastered\obj\N_EX640_XIII_MOOGLE_RTN.mdlx\-2.dds
+  method: copy
+  source:
+  - name: remastered\objects\moogle\N_EX640_XIII_MOOGLE_RTN.mdlx\-2.dds
+- name: remastered\obj\N_EX640_XIII_MOOGLE_RTN.mdlx\-3.dds
+  method: copy
+  source:
+  - name: remastered\objects\moogle\N_EX640_XIII_MOOGLE_RTN.mdlx\-3.dds
+- name: remastered\obj\N_EX640_XIII_MOOGLE_RTN.mdlx\-4.dds
+  method: copy
+  source:
+  - name: remastered\objects\moogle\N_EX640_XIII_MOOGLE_RTN.mdlx\-4.dds
+
+- name: remastered\obj\N_EX640_XIII_SHOP_RTN.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\objects\moogle\N_EX640_XIII_SHOP_RTN.mdlx\-0.dds
+- name: remastered\obj\N_EX640_XIII_SHOP_RTN.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\objects\moogle\N_EX640_XIII_SHOP_RTN.mdlx\-1.dds
+- name: remastered\obj\N_EX640_XIII_SHOP_RTN.mdlx\-2.dds
+  method: copy
+  source:
+  - name: remastered\objects\moogle\N_EX640_XIII_SHOP_RTN.mdlx\-2.dds
+- name: remastered\obj\N_EX640_XIII_SHOP_RTN.mdlx\-3.dds
+  method: copy
+  source:
+  - name: remastered\objects\moogle\N_EX640_XIII_SHOP_RTN.mdlx\-3.dds
+- name: remastered\obj\N_EX640_XIII_SHOP_RTN.mdlx\-4.dds
+  method: copy
+  source:
+  - name: remastered\objects\moogle\N_EX640_XIII_SHOP_RTN.mdlx\-4.dds
+
+- name: field2d/us/al0field.2dd
+  multi:
+  - name: field2d/us/bb0field.2dd
+  - name: field2d/us/ca0field.2dd
+  - name: field2d/us/dc0field.2dd
+  - name: field2d/us/di0field.2dd
+  - name: field2d/us/eh0field.2dd
+  - name: field2d/us/es0field.2dd
+  - name: field2d/us/hb0field.2dd
+  - name: field2d/us/he0field.2dd
+  - name: field2d/us/mu0field.2dd
+  - name: field2d/us/nm0field.2dd
+  - name: field2d/us/lm0field.2dd
+  - name: field2d/us/lk0field.2dd
+  - name: field2d/us/po0field.2dd
+  - name: field2d/us/tr0field.2dd
+  - name: field2d/us/tt0field.2dd
+  - name: field2d/us/wi0field.2dd
+  - name: field2d/us/wm0field.2dd
+  - name: field2d/us/zz0field.2dd
+  method: binarc
+  source:
+  - name: mapj
+    type: seqd
+    method: copy
+    source:
+    - name: widefix/MAPJ.sqd

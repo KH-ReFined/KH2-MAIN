@@ -6,7 +6,6 @@
   gr: "Drücke {:icon dynamic-cross}, um abzubrechen."
   fr: "Appuyez sur {:icon dynamic-cross} pour annuler !"
   sp: "¡Pulsa{:icon dynamic-cross} para cancelar!"
-  
 
 - id: 0x5701
   en: "Soft-Reset cancelled!"
@@ -14,7 +13,6 @@
   gr: "Soft-Reset abgebrochen!"
   fr: "Soft-Reset annulé !"
   sp: "¡Soft-Reset cancelado!"
-  
 
 - id: 0x5702
   en: "Your progress is safe, kupo!"
@@ -22,7 +20,6 @@
   gr: "Dein Fortschritt ist gespeichert, kupo!"
   fr: "Votre progression a été sauvegardée, kupo !"
   sp: "Tu progreso se ha guardado, ¡kupó!"
-  
 
 - id: 0x5703
   en: "Could not save your progress, kupo! Please save the game manually!"
@@ -31,13 +28,12 @@
   fr: "Votre progression n'a pas pu être sauvegardée, kupo ! Sauvegardez manuellement !"
   sp: "No he podido guardar tu progreso, ¡kupó! ¡Por favor guarda el juego manualmente!"
   
-
 - id: 0x051F
-  en: "{:width 85}Shortcut Set A"
-  it: "{:width 85}Uso rapido Set A"
-  gr: "{:width 85}Kurzbefehle-Set A"
-  fr: "{:width 75}Set de raccourcis A"
-  sp: "{:width 85}Set de atajos A"
+  en: "{:width 85}Shortcut Set X{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}"
+  it: "{:width 85}Uso rapido Set X{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}"
+  gr: "{:width 85}Kurzbefehle-Set X{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}"
+  fr: "{:width 75}Set de raccourcis X{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}"
+  sp: "{:width 85}Set de atajos X{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}"
 
 - id: 0x3B89
   en: "Select settings for shortcut commands
@@ -82,14 +78,12 @@
   fr: "Sauvegarde auto."
   sp: "Autoguardado"
   
-
 - id: 0x5705
   en: "Informative"
   it: "Informativo"
   gr: "Informativ"
   fr: "Informatif"
   sp: "Informativo"
-  
 
 - id: 0x5706
   en: "Autosaving will be done with an indicator."
@@ -100,14 +94,12 @@
   fr: "La sauvegarde auto. sera faite avec un indicateur."
   sp: "El autoguardado se realizará con un aviso."
   
-
 - id: 0x5707
   en: "Silent"
   it: "Silenzioso"
   gr: "Unbemerkt"
   fr: "Silencieux"
   sp: "Silencioso"
-  
 
 - id: 0x5708
   en: "Autosaving will be done silently."
@@ -117,7 +109,6 @@
   gr: "Auto-Speichern ohne Hinweisanzeige einschalten."
   fr: "La sauvegarde auto. sera faite silencieusement."
   sp: "El autoguardado se realizará silenciosamente."
-  
 
 - id: 0x5709
   en: "Disabled"
@@ -125,7 +116,6 @@
   gr: "Deaktiviert"
   fr: "Désactivé"
   sp: "Desactivado"
-  
 
 - id: 0x570A
   en: "Autosaving will be disabled."
@@ -133,7 +123,6 @@
   gr: "Auto-Speichern ausschalten."
   fr: "La sauvegarde auto. sera désactivée."
   sp: "El autoguardado estará deshabilitado."
-  
 
 - id: 0x570B
   en: "Audio Language"
@@ -141,7 +130,6 @@
   gr: "Sprachausgabe"
   fr: "Langue audio"
   sp: "Idioma de audio"
-  
 
 - id: 0x570C
   en: "English"
@@ -150,14 +138,12 @@
   fr: "Anglais"
   sp: "Inglés"
   
-
 - id: 0x570D
   en: "The audio will be in English."
   it: "La lingua del doppiaggio sarà in Inglese."
   gr: "Die Sprachausgabe wird auf Englisch sein."
   fr: "La langue audio sera en Anglais."
   sp: "El idioma del audio será en inglés."
-  
 
 - id: 0x570E
   en: "Japanese"
@@ -166,7 +152,6 @@
   fr: "Japonais"
   sp: "Japonés"
   
-
 - id: 0x570F
   en: "The audio will be in Japanese."
   it: "La lingua del doppiaggio sarà in Giapponese."
@@ -174,7 +159,6 @@
   fr: "La langue audio sera en Japonais."
   sp: "El idioma del audio será en japonés."
   
-
 - id: 0x5710
   en: "Spanish"
   it: "Spagnolo"
@@ -182,7 +166,6 @@
   fr: "Espagnol"
   sp: "Español"
   
-
 - id: 0x5711
   en: "The audio will be in Spanish."
   it: "La lingua del doppiaggio sarà in Spagnolo."
@@ -190,14 +173,12 @@
   fr: "La langue audio sera en Espagnol."
   sp: "El idioma del audio será en español."
   
-
 - id: 0x5712
   en: "German"
   it: "Tedesco"
   gr: "Deutsch"
   fr: "Allemand"
   sp: "Alemán"
-  
 
 - id: 0x5713
   en: "The audio will be in German."
@@ -205,7 +186,6 @@
   gr: "Die Sprachausgabe wird auf Deutsch sein."
   fr: "La langue audio sera en Allemand."
   sp: "El idioma del audio será en alemán."
-  
 
 - id: 0x5714
   en: "French"
@@ -213,7 +193,6 @@
   gr: "Französisch"
   fr: "Francais"
   sp: "Francés"
-  
 
 - id: 0x5715
   en: "The audio will be in French."
@@ -222,7 +201,6 @@
   fr: "La langue audio sera en Francais."
   sp: "El idioma del audio será en francés."
   
-
 - id: 0x5716
   en: "European"
   it: "Europeo"
@@ -230,7 +208,6 @@
   fr: "Européen"
   sp: "Europeo"
   
-
 - id: 0x5717
   en: "The audio will be in one of the European
   
@@ -247,7 +224,6 @@
   sp: "El idioma del audio será uno de los
   
     siguientes idiomas europeos."
-  
 
 - id: 0x5718
   en: "Background Music"
@@ -255,7 +231,6 @@
   gr: "Hintergrundmusik"
   fr: "Musique de fond"
   sp: "Música de fondo"
-  
 
 - id: 0x5719
   en: "Original"
@@ -263,7 +238,6 @@
   gr: "Original"
   fr: "Original"
   sp: "Original"
-  
   
 - id: 0x571A
   en: "The background music will be the
@@ -281,7 +255,6 @@
   sp: "La música de fondo será de la versión
   
     original de Playstation® 2."
-  
 
 - id: 0x571B
   en: "Remastered"
@@ -289,7 +262,6 @@
   gr: "Neuauflage"
   fr: "Remasterisé"
   sp: "Remasterizada"
-  
 
 - id: 0x571C
   en: "The background music will be remastered."
@@ -297,7 +269,6 @@
   gr: "Die Hintergrundmusik wird die Neuauflage verwenden."
   fr: "La musique sera la version remasterisée."
   sp: "La música de fondo será de la versión remasterizada."
-  
 
 - id: 0x571D
   en: "Heartless Palette"
@@ -305,7 +276,6 @@
   gr: "Herzlosen-Palette"
   fr: "Visuels des sans-coeurs"
   sp: "Paleta de los sincorazón"
-  
 
 - id: 0x571E
   en: "Original"
@@ -313,7 +283,6 @@
   gr: "Original"
   fr: "Originale"
   sp: "Original"
-  
 
 - id: 0x571F
   en: "The Heartless will use the Original Palette."
@@ -321,7 +290,6 @@
   gr: "Die Herzlosen werden die originalen Farben verwenden."
   fr: "Les sans-coeurs utiliseront la palette originale."
   sp: "Los sincorazón usarán la paleta de colores original."
-  
 
 - id: 0x5720
   en: "Final Mix"
@@ -329,7 +297,6 @@
   gr: "Final Mix"
   fr: "Final Mix"
   sp: "Final Mix"
-  
 
 - id: 0x5721
   en: "The Heartless will use the Final Mix Palette."
@@ -338,7 +305,6 @@
   fr: "Les sans-coeurs utiliseront la palette Final Mix."
   sp: "Los sincorazón usarán la paleta del Final Mix."
   
-
 - id: 0x5722
   en: "Button Prompts"
   it: "Icone dei comandi"
@@ -346,7 +312,6 @@
   fr: "Affichage des contrôles"
   sp: "Iconos de los botones"
   
-
 - id: 0x5723
   en: "Controller"
   it: "Controller"
@@ -354,14 +319,12 @@
   fr: "Manette"
   sp: "Mando"
   
-
 - id: 0x5724
   en: "The game will only display Controller Prompts."
   it: "Il gioco mostrerà i comandi del controller."
   gr: "Das Spiel wird nur Controller-Eingaben anzeigen."
   fr: "Le jeu affichera les contrôles pour manette."
   sp: "El juego solo mostrará los iconos del mando."
-  
 
 - id: 0x5725
   en: "Automatic"
@@ -370,7 +333,6 @@
   fr: "Automatique"
   sp: "Automático"
   
-
 - id: 0x5726
   en: "The game will adjust the prompts automatically."
   it: "Il gioco sceglierà automaticamente la 
@@ -382,7 +344,6 @@
   fr: "Le jeu changera l'affichage des contrôles automatiquement."
   sp: "El juego ajustará los iconos automáticamente." 
   
-
 - id: 0x5727
   en: "Prepare & Retry"
   gr: "Ausrüsten & Neustart"
@@ -390,129 +351,11 @@
   fr: "Se Préparer et Réessayer"
   sp: "Prepararse y reintentar"
   
-
 - id: 0x5728
-  en: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
-
-
-    {:width 90}A new update for Re:Fined has been found!
-    
-    New updates tend to be more stable overall.
-    
-    Do you want to update? {:color #FFFF0180}[Very Recommended!]"
-  it: "{:icon question-mark}{:color #FF010180}AVVISO{:reset}
-
-
-    {:width 90}È disponibile un aggiornamento per Re:Fined!
-    
-    I nuovi aggiornamenti dovrebbero migliorarne la stabilità.
-    
-    Vuoi eseguire l'aggiornamento? {:color #FFFF0180}[Molto consigliato!]"
-
-  gr: "{:icon question-mark}{:color #FF010180}FRAGE{:reset}
-
-
-    {:width 90}Ein neues Update für Re:Fined wurde entdeckt!
-
-    Neue Updates bieten meistens mehr Stabilität.
-    
-    Möchtest du das Update starten? {:color #FFFF0180}[Sehr empfohlen!]"
-  fr: "{:icon question-mark}{:color #FF010180}QUESTION{:reset}
-
-
-    {:width 90}Une mise à jour de Re:Fined est disponible !
-    
-    Les versions récentes sont généralement plus stables.
-    
-    Voulez vous mettre à jour ? {:color #FFFF0180}[Recommandé !]"
-
-  sp: "{:icon question-mark}{:color #FF010180}PREGUNTA{:reset}
-
-
-    {:width 90}¡Se ha encontrado una nueva actualización de Re:Fined!
-    
-    Las nuevas actualizaciones suelen ser más estables
-    
-    ¿Quieres actualizar? {:color #FFFF0180}[¡Muy recomendado!]"
-
-- id: 0x5729
-  en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
-  
-
-    Downloading the Update Package. 
-
-    Please be patient. This may take a bit.
-    
-    
-    [####################]"
-  it: "{:icon exclamation-mark}{:color #FF010180}INFORMAZIONE{:reset}
-  
-
-    Download dell'aggiornamento in corso. 
-
-    Si prega di attendere. L'operazione potrebbe richiedere alcuni minuti.
-    
-    
-    [####################]"
-  gr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
-  
-
-    Update-Paket wird heruntergeladen. 
-
-    Bitte habe etwas Geduld. Es kann eine Weile dauern.
-    
-    
-    [####################]"
-  fr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
-  
-
-    Téléchargement de la mise à jour. 
-
-    Cela peut prendre un petit moment.
-    
-    [####################]"
-  sp: "{:icon exclamation-mark}{:color #FF010180}INFORMACIÓN{:reset}
-  
-
-    Descargando el paquete de la actualización. 
-
-    Por favor ten paciencia. Puede tardar un rato.
-    
-    
-    [####################]"
+  en: "Stiltzkin's Moogle Shop"
 
 - id: 0x572A
-  en: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
-  
-
-    Re:Fined was updated successfully! 
-    
-    The game will now restart to apply..."
-  it: "{:icon exclamation-mark}{:color #FF010180}INFORMAZIONE{:reset}
-  
-
-    Re:Fined è stato aggiornato con successo!
-    
-    Il gioco verrà riavviato per applicare le modifiche..."
-  gr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
-  
-
-    Re:Fined wurde erfolgreich aktualisiert! 
-    
-    Das Spiel startet jetzt neu, um die Änderungen anzuwenden..."
-  fr: "{:icon exclamation-mark}{:color #FF010180}INFORMATION{:reset}
-  
-
-    Re:Fined a été mis à jour avec succès ! 
-    
-    Le jeu va redémarrer pour appliquer la mise à jour..."
-  
-  sp: "{:icon exclamation-mark}{:color #FF010180}INFORMACIÓN{:reset}
-  
-
-    ¡Re:Fined ha sido actualizado! 
-    
-    El juego se reiniciará para aplicarlo..."
+  en: "Mogster's Moogle Shop"
 
 - id: 0x572B
   en: "※ European"
@@ -521,7 +364,6 @@
   fr: "※ Européen"
   sp: "※ Europeo"
   
-
 - id: 0x572C
   en: "Quadratum"
   fr: "Quadratum"
@@ -529,7 +371,6 @@
   it: "Quadratum"
   sp: "Quadratum"
   
-
 - id: 0x572D
   en: "Use a command menu reminiscent of a
 
@@ -563,7 +404,6 @@
   gr: "Sora"
   sp: "Sora"
   fr: "Sora"
-  
 
 - id: 0x3734
   en: "By World"
@@ -571,7 +411,6 @@
   gr: "Nach Welt"
   sp: "Por mundo"
   fr: "Par monde"
-  
 
 - id: 0x3735
   en: "Classic"
@@ -622,7 +461,6 @@
   fr: "Sauvegarde Automatique"
   sp: "Funcionalidad de autoguardado"
   
-
 - id: 0x5734
   en: "In-Game Dialog Language"
   it: "Seleziona la lingua del doppiaggio."
@@ -630,7 +468,6 @@
   fr: "Langue des dialogues"
   sp: "Idioma de los diálogos del juego"
   
-
 - id: 0x5735
   en: "In-Game Soundtrack"
   it: "Seleziona la tipologia di colonna sonora."
@@ -638,14 +475,12 @@
   fr: "Musique en jeu"
   sp: "Música del juego"
   
-
 - id: 0x5736
   en: "Heartless Color Palette"
   it: "Seleziona l'aspetto degli Heartless."
   gr: "Herzlosen-Palette wählen"
   fr: "Palette de couleur des sans-coeurs"
   sp: "Paleta de los sincorazón"
-  
 
 - id: 0x5737
   en: "Button Prompts"
@@ -653,7 +488,6 @@
   gr: "Tastensymbole wählen"
   fr: "Icones des boutons"
   sp: "Iconos de los botones"
-  
 
 - id: 0x5738
   en: "YES"
@@ -662,7 +496,6 @@
   fr: "OUI"
   sp: "Sí"
   
-
 - id: 0x5739
   en: "NO"
   it: "No"
@@ -679,14 +512,12 @@
   sp: "VT: [0] / PM: [1]"
   gr: "HP: [0] / MP: [1]"
   
-
 - id: 0x5741
   en: "Level [0] / Form: [1]"
   fr: "Niveau [0] / Forme: [1]"
   it: "Livello [0] / Fusione: [1]"
   sp: "Nivel [0] / Forma: [1]"
   gr: "Level [0] / Form: [1]"
-  
 
 - id: 0x5742
   en: "HP: [0] / MP: [1] / Round [2]"
@@ -695,7 +526,6 @@
   sp: "VT: [0] / PM: [1] / Ronda [2]"
   gr: "HP: [0] / MP: [1] / Runde [2]"
   
-
 - id: 0x5743
   en: "In-Game Time: [0]"
   fr: "Temps de jeu: [0]"
@@ -703,14 +533,12 @@
   sp: "Tiempo de juego: [0]"
   gr: "Spielzeit: [0]"
   
- 
 - id: 0x5744
   en: "On Recharge!"
   fr: "En Recharge!"
   it: "In Ricarica!"
   sp: "¡En recarga!"
   gr: "Beim Aufladen!"
-  
 
 # === Item Text === #
 
@@ -824,7 +652,6 @@
   fr: "Non-forme"
   sp: "Anti-Forma"
 
-
 - id: 0x01E9
   en: "Anti Form"
   it: "Anti-Fusione"
@@ -868,7 +695,6 @@
   fr: "Rencontre +"
   sp: "Más Encuentros"
   
-
 - id: 0x3788
   en: "Increases the rate in which enemies appear, 
   
@@ -893,14 +719,12 @@
   fr: "Roulade LV1"
   sp: "Voltereta 1"
   
-
 - id: 0x4E85
   en: "Dodge Roll LV2"
   it: "Destrezza II"
   gr: "Ausweichrolle LV. 2"
   fr: "Roulade LV2"
   sp: "Voltereta 2"
-  
 
 - id: 0x4E87
   en: "Dodge Roll LV3"
@@ -909,14 +733,12 @@
   fr: "Roulade LV3"
   sp: "Voltereta 3"
   
-
 - id: 0x4E8D
   en: "Sonic Blade"
   it: "Incrocio Sonico"
   gr: "Perforieren"
   fr: "Aquilon"
   sp: "Estocada Sónica"
-
 
 - id: 0x4EFE
   en: "Sonic Blade"
@@ -925,14 +747,12 @@
   fr: "Aquilon"
   sp: "Estocada Sónica"
 
-
 - id: 0x4E8F
   en: "Ars Arcanum"
   it: "Ultimo Arcanum"
   gr: "Tollwut"
   fr: "Arcanes"
   sp: "Último Arcano"
-  
 
 - id: 0x4F01
   en: "Ars Arcanum"
@@ -941,7 +761,6 @@
   fr: "Arcanes"
   sp: "Último Arcano"
 
-
 - id: 0x4E93
   en: "Ragnarok"
   it: "Ragnarok"
@@ -949,14 +768,12 @@
   fr: "Ragnarok"
   sp: "Ragnarok"
   
-
 - id: 0x4EF6
   en: "Ragnarok"
   it: "Ragnarok"
   gr: "Ragnarök"
   fr: "Ragnarok"
   sp: "Ragnarok"
-  
 
 # === ITA System Text Overhaul === #
 
