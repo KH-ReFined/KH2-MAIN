@@ -11,26 +11,6 @@ assets:
   source:
   - name: reFined-v4.bin
 
-- name: dll/ReFined.dll
-  method: copy
-  source:
-  - name: engine/ReFined.dll
-
-- name: dll/refined/discord_game_sdk.dll
-  method: copy
-  source:
-  - name: engine/refined/discord_game_sdk.dll
-
-- name: dll/refined/keystone.dll
-  method: copy
-  source:
-  - name: engine/refined/keystone.dll
-
-- name: dll/refined/engine.exe
-  method: copy
-  source:
-  - name: engine/refined/engine.exe
-
 - name: 00objentry.bin
   type: list
   method: listpatch
