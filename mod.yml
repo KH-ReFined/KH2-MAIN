@@ -11,12 +11,54 @@ assets:
   source:
   - name: reFined-v4.bin
 
+- name: dll/ReFined.KH2.dll
+  method: copy
+  source:
+  - name: engine/ReFined.KH2.dll
+- name: dll/discord_game_sdk.dll
+  method: copy
+  source:
+  - name: engine/discord_game_sdk.dll
+
+- name: dll/modules/ModuleRF-Autoattack.dll
+  method: copy
+  source:
+  - name: engine/modules/ModuleRF-Autoattack.dll
+- name: dll/modules/ModuleRF-CrownEngine.dll
+  method: copy
+  source:
+  - name: engine/modules/ModuleRF-CrownEngine.dll
+- name: dll/modules/ModuleRF-EncounterPlus.dll
+  method: copy
+  source:
+  - name: engine/modules/ModuleRF-EncounterPlus.dll
+- name: dll/modules/ModuleRF-PrologueSkip.dll
+  method: copy
+  source:
+  - name: engine/modules/ModuleRF-PrologueSkip.dll
+- name: dll/modules/ModuleRF-RetryBattles.dll
+  method: copy
+  source:
+  - name: engine/modules/ModuleRF-RetryBattles.dll
+- name: dll/modules/ModuleRF-ShortcutForms.dll
+  method: copy
+  source:
+  - name: engine/modules/ModuleRF-ShortcutForms.dll
+- name: dll/modules/ModuleRF-ShortcutSets.dll
+  method: copy
+  source:
+  - name: engine/modules/ModuleRF-ShortcutSets.dll
+
 - name: 00objentry.bin
   type: list
   method: listpatch
   source:
   - name: rootfiles/00objentry.yml
     type: objentry
+- name: 00prologue.bin
+  method: copy
+  source:
+  - name: rootfiles/00prologue.bin
 - name: 00helpimage.bin
   method: copy
   source:
@@ -38,18 +80,24 @@ assets:
     source:
     - name: system/ITEM.yml
       type: item
-  - name: memt
-    type: list
-    method: copy
-    source:
-    - name: system/MEMT
-      type: memt
   - name: trsr
     type: list
     method: listpatch
     source:
     - name: system/TRSR.yml
       type: trsr
+  - name: memt
+    type: list
+    method: copy
+    source:
+    - name: system/MEMT
+      type: memt
+  - name: shop
+    type: Unknown41
+    method: copy
+    source:
+    - name: system/SHOP
+      type: shop
 - name: 07localset.bin
   method: copy
   source:
@@ -331,15 +379,6 @@ assets:
 
 # === Field Elements === #
 
-- name: field2d/us/zz0command.2dd
-  multi:
-  - name: field2d/gr/zz0command.2dd
-  - name: field2d/fr/zz0command.2dd
-  - name: field2d/it/zz0command.2dd
-  - name: field2d/sp/zz0command.2dd
-  method: copy
-  source:
-  - name: fieldelems/zz0command.2dd
 - name: field2d/us/qd0command.2dd
   multi:
   - name: field2d/gr/qd0command.2dd
@@ -1004,7 +1043,6 @@ assets:
     type: Event
     source:
     - name: cutscenes/ca25-112.event
-
 - name: ard/us/dc01.ard
   method: binarc
   multi:
@@ -2027,27 +2065,6 @@ assets:
   method: copy
   source:
   - name: remastered/fieldelems/qd0command.2dd/IT.dds
-
-- name: remastered/field2d/us/zz0command.2dd/-0.png
-  method: copy
-  source:
-  - name: remastered/fieldelems/zz0command.2dd/US.png
-- name: remastered/field2d/fr/zz0command.2dd/-0.png
-  method: copy
-  source:
-  - name: remastered/fieldelems/zz0command.2dd/FR.png
-- name: remastered/field2d/gr/zz0command.2dd/-0.png
-  method: copy
-  source:
-  - name: remastered/fieldelems/zz0command.2dd/GR.png
-- name: remastered/field2d/sp/zz0command.2dd/-0.png
-  method: copy
-  source:
-  - name: remastered/fieldelems/zz0command.2dd/SP.png
-- name: remastered/field2d/it/zz0command.2dd/-0.png
-  method: copy
-  source:
-  - name: remastered/fieldelems/zz0command.2dd/IT.png
 
 - name: remastered/menu/us/title_fast.2ld/US_title_2ld0.png
   method: copy
