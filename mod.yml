@@ -389,6 +389,110 @@ assets:
   source:
   - name: fieldelems/qd0command.2dd
 
+- name: field2d/us/zz0field.2dd
+  multi:
+  - name: field2d/gr/zz0field.2dd
+  - name: field2d/it/zz0field.2dd
+  - name: field2d/fr/zz0field.2dd
+  - name: field2d/sp/zz0field.2dd
+  - name: field2d/us/al0field.2dd
+  - name: field2d/us/bb0field.2dd
+  - name: field2d/us/ca0field.2dd
+  - name: field2d/us/dc0field.2dd
+  - name: field2d/us/di0field.2dd
+  - name: field2d/us/eh0field.2dd
+  - name: field2d/us/es0field.2dd
+  - name: field2d/us/hb0field.2dd
+  - name: field2d/us/he0field.2dd
+  - name: field2d/us/mu0field.2dd
+  - name: field2d/us/nm0field.2dd
+  - name: field2d/us/lm0field.2dd
+  - name: field2d/us/lk0field.2dd
+  - name: field2d/us/po0field.2dd
+  - name: field2d/us/tr0field.2dd
+  - name: field2d/us/tt0field.2dd
+  - name: field2d/us/wi0field.2dd
+  - name: field2d/us/wm0field.2dd
+  - name: field2d/gr/al0field.2dd
+  - name: field2d/gr/bb0field.2dd
+  - name: field2d/gr/ca0field.2dd
+  - name: field2d/gr/dc0field.2dd
+  - name: field2d/gr/di0field.2dd
+  - name: field2d/gr/eh0field.2dd
+  - name: field2d/gr/es0field.2dd
+  - name: field2d/gr/hb0field.2dd
+  - name: field2d/gr/he0field.2dd
+  - name: field2d/gr/mu0field.2dd
+  - name: field2d/gr/nm0field.2dd
+  - name: field2d/gr/lm0field.2dd
+  - name: field2d/gr/lk0field.2dd
+  - name: field2d/gr/po0field.2dd
+  - name: field2d/gr/tr0field.2dd
+  - name: field2d/gr/tt0field.2dd
+  - name: field2d/gr/wi0field.2dd
+  - name: field2d/gr/wm0field.2dd
+  - name: field2d/fr/al0field.2dd
+  - name: field2d/fr/bb0field.2dd
+  - name: field2d/fr/ca0field.2dd
+  - name: field2d/fr/dc0field.2dd
+  - name: field2d/fr/di0field.2dd
+  - name: field2d/fr/eh0field.2dd
+  - name: field2d/fr/es0field.2dd
+  - name: field2d/fr/hb0field.2dd
+  - name: field2d/fr/he0field.2dd
+  - name: field2d/fr/mu0field.2dd
+  - name: field2d/fr/nm0field.2dd
+  - name: field2d/fr/lm0field.2dd
+  - name: field2d/fr/lk0field.2dd
+  - name: field2d/fr/po0field.2dd
+  - name: field2d/fr/tr0field.2dd
+  - name: field2d/fr/tt0field.2dd
+  - name: field2d/fr/wi0field.2dd
+  - name: field2d/fr/wm0field.2dd
+  - name: field2d/it/al0field.2dd
+  - name: field2d/it/bb0field.2dd
+  - name: field2d/it/ca0field.2dd
+  - name: field2d/it/dc0field.2dd
+  - name: field2d/it/di0field.2dd
+  - name: field2d/it/eh0field.2dd
+  - name: field2d/it/es0field.2dd
+  - name: field2d/it/hb0field.2dd
+  - name: field2d/it/he0field.2dd
+  - name: field2d/it/mu0field.2dd
+  - name: field2d/it/nm0field.2dd
+  - name: field2d/it/lm0field.2dd
+  - name: field2d/it/lk0field.2dd
+  - name: field2d/it/po0field.2dd
+  - name: field2d/it/tr0field.2dd
+  - name: field2d/it/tt0field.2dd
+  - name: field2d/it/wi0field.2dd
+  - name: field2d/it/wm0field.2dd
+  - name: field2d/sp/al0field.2dd
+  - name: field2d/sp/bb0field.2dd
+  - name: field2d/sp/ca0field.2dd
+  - name: field2d/sp/dc0field.2dd
+  - name: field2d/sp/di0field.2dd
+  - name: field2d/sp/eh0field.2dd
+  - name: field2d/sp/es0field.2dd
+  - name: field2d/sp/hb0field.2dd
+  - name: field2d/sp/he0field.2dd
+  - name: field2d/sp/mu0field.2dd
+  - name: field2d/sp/nm0field.2dd
+  - name: field2d/sp/lm0field.2dd
+  - name: field2d/sp/lk0field.2dd
+  - name: field2d/sp/po0field.2dd
+  - name: field2d/sp/tr0field.2dd
+  - name: field2d/sp/tt0field.2dd
+  - name: field2d/sp/wi0field.2dd
+  - name: field2d/sp/wm0field.2dd
+  method: binarc
+  source:
+  - name: fiel
+    type: seqd
+    method: copy
+    source:
+    - name: fieldelems/xx0field.2dd/FIEL.sqd
+
 # === Item Pictures === #
 
 - name: itempic/item-269.imd
@@ -4389,8 +4493,33 @@ assets:
   source:
   - name: remastered\objects\moogle\N_EX640_XIII_SHOP_RTN.mdlx\-4.dds
 
-- name: field2d/us/al0field.2dd
+- name: remastered/field2d/us/zz0field.2dd/US_zz0field_2dd0.png
   multi:
+  - name: remastered/field2d/us/al0field.2dd/US_al0field_2dd0.png
+  - name: remastered/field2d/us/bb0field.2dd/US_bb0field_2dd0.png
+  - name: remastered/field2d/us/ca0field.2dd/US_ca0field_2dd0.png
+  - name: remastered/field2d/us/dc0field.2dd/US_dc0field_2dd0.png
+  - name: remastered/field2d/us/di0field.2dd/US_di0field_2dd0.png
+  - name: remastered/field2d/us/eh0field.2dd/US_eh0field_2dd0.png
+  - name: remastered/field2d/us/es0field.2dd/US_es0field_2dd0.png
+  - name: remastered/field2d/us/hb0field.2dd/US_hb0field_2dd0.png
+  - name: remastered/field2d/us/he0field.2dd/US_he0field_2dd0.png
+  - name: remastered/field2d/us/mu0field.2dd/US_mu0field_2dd0.png
+  - name: remastered/field2d/us/nm0field.2dd/US_nm0field_2dd0.png
+  - name: remastered/field2d/us/lm0field.2dd/US_lm0field_2dd0.png
+  - name: remastered/field2d/us/lk0field.2dd/US_lk0field_2dd0.png
+  - name: remastered/field2d/us/po0field.2dd/US_po0field_2dd0.png
+  - name: remastered/field2d/us/tr0field.2dd/US_tr0field_2dd0.png
+  - name: remastered/field2d/us/tt0field.2dd/US_tt0field_2dd0.png
+  - name: remastered/field2d/us/wi0field.2dd/US_wi0field_2dd0.png
+  - name: remastered/field2d/us/wm0field.2dd/US_wm0field_2dd0.png
+  method: copy
+  source:
+  - name: remastered/fieldelems/xx0field.2dd/-0.png
+
+- name: field2d/us/zz0field.2dd
+  multi:
+  - name: field2d/us/al0field.2dd
   - name: field2d/us/bb0field.2dd
   - name: field2d/us/ca0field.2dd
   - name: field2d/us/dc0field.2dd
@@ -4408,7 +4537,6 @@ assets:
   - name: field2d/us/tt0field.2dd
   - name: field2d/us/wi0field.2dd
   - name: field2d/us/wm0field.2dd
-  - name: field2d/us/zz0field.2dd
   method: binarc
   source:
   - name: mapj
