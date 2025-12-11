@@ -1,6 +1,6 @@
-title: Kingdom Hearts II - Re:Fined [Main Patch]
+title: Kingdom Hearts II - Re:Fined
 originalAuthor: The Re:Fined Team
-description: The main patch for Kingdom Hearts II - Re:Fined. The mod will not function without this patch.
+description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r251211-320
 
 assets:
 
@@ -15,6 +15,10 @@ assets:
   method: copy
   source:
   - name: engine/ReFined.KH2.dll
+- name: dll/reFined.cfg
+  method: copy
+  source:
+  - name: engine/reFined.cfg
 - name: dll/discord_game_sdk.dll
   method: copy
   source:
