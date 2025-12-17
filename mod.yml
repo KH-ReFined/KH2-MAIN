@@ -496,6 +496,16 @@ assets:
     method: copy
     source:
     - name: fieldelems/xx0field.2dd/FIEL.sqd
+  - name: miss
+    type: seqd
+    method: copy
+    source:
+    - name: fieldelems/xx0field.2dd/MISS.sqd
+  - name: miss
+    type: imgd
+    method: copy
+    source:
+    - name: fieldelems/xx0field.2dd/MISS.imd
 
 # === Item Pictures === #
 
