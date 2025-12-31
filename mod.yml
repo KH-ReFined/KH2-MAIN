@@ -375,11 +375,16 @@ assets:
   source:
   - name: menu/us/camp.2ld
 
-- name: menu/us/title_fast.2ld
+- name: menu/us/title.2ld
   package: kh2_fifth
+  multi:
+  - name: menu/fr/title.2ld
+  - name: menu/it/title.2ld
+  - name: menu/gr/title.2ld
+  - name: menu/sp/title.2ld
   method: copy
   source:
-  - name: menu/us/title_fast.2ld
+  - name: menu/us/title.2ld
 
 # === Field Elements === #
 
@@ -2184,106 +2189,99 @@ assets:
   source:
   - name: remastered/fieldelems/qd0command.2dd/IT.dds
 
-- name: remastered/menu/us/title_fast.2ld/US_title_2ld0.png
+- name: remastered/menu/us/title.2ld/-0.png
   method: copy
   multi:
-  - name: remastered/menu/gr/title_fast.2ld/US_title_2ld0.png
-  - name: remastered/menu/fr/title_fast.2ld/US_title_2ld0.png
-  - name: remastered/menu/it/title_fast.2ld/US_title_2ld0.png
-  - name: remastered/menu/sp/title_fast.2ld/US_title_2ld0.png
+  - name: remastered/menu/gr/title.2ld/-0.png
+  - name: remastered/menu/fr/title.2ld/-0.png
+  - name: remastered/menu/sp/title.2ld/-0.png
+  - name: remastered/menu/it/title.2ld/-0.png
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/-0.png
-- name: remastered/menu/us/title_fast.2ld/US_title_2ld1.png
+  - name: remastered/menu/titlescreen/regular_screen/-0.png
+- name: remastered/menu/us/title.2ld/-1.png
   method: copy
   multi:
-  - name: remastered/menu/gr/title_fast.2ld/US_title_2ld1.png
-  - name: remastered/menu/fr/title_fast.2ld/US_title_2ld1.png
-  - name: remastered/menu/it/title_fast.2ld/US_title_2ld1.png
-  - name: remastered/menu/sp/title_fast.2ld/US_title_2ld1.png
+  - name: remastered/menu/gr/title.2ld/-1.png
+  - name: remastered/menu/fr/title.2ld/-1.png
+  - name: remastered/menu/sp/title.2ld/-1.png
+  - name: remastered/menu/it/title.2ld/-1.png
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/-1.png
-- name: remastered/menu/us/title_fast.2ld/US_title_2ld2.png
+  - name: remastered/menu/titlescreen/regular_screen/-1.png
+- name: remastered/menu/us/title.2ld/-2.png
   method: copy
   multi:
-  - name: remastered/menu/gr/title_fast.2ld/US_title_2ld2.png
-  - name: remastered/menu/fr/title_fast.2ld/US_title_2ld2.png
-  - name: remastered/menu/it/title_fast.2ld/US_title_2ld2.png
-  - name: remastered/menu/sp/title_fast.2ld/US_title_2ld2.png
+  - name: remastered/menu/gr/title.2ld/-2.png
+  - name: remastered/menu/fr/title.2ld/-2.png
+  - name: remastered/menu/sp/title.2ld/-2.png
+  - name: remastered/menu/it/title.2ld/-2.png
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/-2.png
-- name: remastered/menu/us/title_fast.2ld/US_title_2ld3.png
+  - name: remastered/menu/titlescreen/regular_screen/-2.png
+- name: remastered/menu/us/title.2ld/-3.png
   method: copy
   multi:
-  - name: remastered/menu/gr/title_fast.2ld/US_title_2ld3.png
-  - name: remastered/menu/fr/title_fast.2ld/US_title_2ld3.png
-  - name: remastered/menu/it/title_fast.2ld/US_title_2ld3.png
-  - name: remastered/menu/sp/title_fast.2ld/US_title_2ld3.png
+  - name: remastered/menu/gr/title.2ld/-3.png
+  - name: remastered/menu/fr/title.2ld/-3.png
+  - name: remastered/menu/sp/title.2ld/-3.png
+  - name: remastered/menu/it/title.2ld/-3.png
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/-3.png
-- name: remastered/menu/us/title_fast.2ld/US_title_2ld4.png
+  - name: remastered/menu/titlescreen/regular_screen/-3.png
+- name: remastered/menu/us/title.2ld/-4.png
   method: copy
   multi:
-  - name: remastered/menu/gr/title_fast.2ld/US_title_2ld4.png
-  - name: remastered/menu/fr/title_fast.2ld/US_title_2ld4.png
-  - name: remastered/menu/it/title_fast.2ld/US_title_2ld4.png
-  - name: remastered/menu/sp/title_fast.2ld/US_title_2ld4.png
+  - name: remastered/menu/gr/title.2ld/-4.png
+  - name: remastered/menu/fr/title.2ld/-4.png
+  - name: remastered/menu/sp/title.2ld/-4.png
+  - name: remastered/menu/it/title.2ld/-4.png
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/-4.png
-- name: remastered/menu/us/title_fast.2ld/US_title_2ld5.png
+  - name: remastered/menu/titlescreen/regular_screen/-4.png
+- name: remastered/menu/us/title.2ld/-5.png
   method: copy
   multi:
-  - name: remastered/menu/gr/title_fast.2ld/US_title_2ld5.png
-  - name: remastered/menu/fr/title_fast.2ld/US_title_2ld5.png
-  - name: remastered/menu/it/title_fast.2ld/US_title_2ld5.png
-  - name: remastered/menu/sp/title_fast.2ld/US_title_2ld5.png
+  - name: remastered/menu/gr/title.2ld/-5.png
+  - name: remastered/menu/fr/title.2ld/-5.png
+  - name: remastered/menu/sp/title.2ld/-5.png
+  - name: remastered/menu/it/title.2ld/-5.png
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/-5.png
-- name: remastered/menu/us/title.2ld/US_title_2ld8.png
+  - name: remastered/menu/titlescreen/regular_screen/-5.png
+- name: remastered/menu/us/title.2ld/-6.png
+  method: copy
   multi:
-  - name: remastered/menu/us/title.2ld/US_title_2ld9.png
-  - name: remastered/menu/us/title.2ld/US_title_2ld10.png
-  - name: remastered/menu/us/title.2ld/US_title_2ld11.png
-  - name: remastered/menu/us/title_fast.2ld/US_title_2ld6.png
-  - name: remastered/menu/us/title_fast.2ld/US_title_2ld7.png
-  - name: remastered/menu/us/title_fast.2ld/US_title_2ld8.png
-  - name: remastered/menu/us/title_fast.2ld/US_title_2ld9.png
-  - name: remastered/menu/us/title_fast.2ld/US_title_2ld10.png
-  - name: remastered/menu/us/title_fast.2ld/US_title_2ld11.png
+  - name: remastered/menu/gr/title.2ld/-6.png
+  - name: remastered/menu/fr/title.2ld/-6.png
+  - name: remastered/menu/sp/title.2ld/-6.png
+  - name: remastered/menu/it/title.2ld/-6.png
+  source:
+  - name: remastered/menu/titlescreen/regular_screen/-6.png
+- name: remastered/menu/us/title.2ld/-7.png
+  method: copy
+  multi:
+  - name: remastered/menu/gr/title.2ld/-7.png
+  - name: remastered/menu/fr/title.2ld/-7.png
+  - name: remastered/menu/sp/title.2ld/-7.png
+  - name: remastered/menu/it/title.2ld/-7.png
+  source:
+  - name: remastered/menu/titlescreen/regular_screen/-7.png
+  
+- name: remastered/menu/us/title.2ld/-8.png
   method: copy
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/US.png
-- name: remastered/menu/gr/title.2ld/GR_title_2ld8.png
-  multi:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld9.png
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld10.png
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld11.png
+  - name: remastered/menu/titlescreen/regular_screen/US.png
+- name: remastered/menu/fr/title.2ld/-8.png
   method: copy
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/GR.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld8.png
-  multi:
-  - name: remastered/menu/fr/title.2ld/FR_title_2ld9.png
-  - name: remastered/menu/fr/title.2ld/FR_title_2ld10.png
-  - name: remastered/menu/fr/title.2ld/FR_title_2ld11.png
+  - name: remastered/menu/titlescreen/regular_screen/FR.png
+- name: remastered/menu/it/title.2ld/-8.png
   method: copy
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/FR.png
-- name: remastered/menu/it/title.2ld/IT_title_2ld8.png
-  multi:
-  - name: remastered/menu/it/title.2ld/IT_title_2ld9.png
-  - name: remastered/menu/it/title.2ld/IT_title_2ld10.png
-  - name: remastered/menu/it/title.2ld/IT_title_2ld11.png
+  - name: remastered/menu/titlescreen/regular_screen/IT.png
+- name: remastered/menu/gr/title.2ld/-8.png
   method: copy
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/IT.png
-- name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
-  multi:
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld9.png
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld10.png
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld11.png
+  - name: remastered/menu/titlescreen/regular_screen/GR.png
+- name: remastered/menu/sp/title.2ld/-8.png
   method: copy
   source:
-  - name: remastered/menu/us/titlescreen/regular_screen/SP.png
+  - name: remastered/menu/titlescreen/regular_screen/SP.png
 
 - name: remastered/obj/P_EX100.a.us/-0.dds
   multi:
