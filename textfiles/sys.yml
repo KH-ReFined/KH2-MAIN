@@ -233,13 +233,27 @@
   sp: "Música de fondo"
 
 - id: 0x5719
+  en: "Remastered"
+  it: "Rimasterizzata"
+  gr: "Neuauflage"
+  fr: "Remasterisé"
+  sp: "Remasterizada"
+
+- id: 0x571A
+  en: "The background music will be remastered."
+  it: "La colonna sonora sarà quella rimasterizzata."
+  gr: "Die Hintergrundmusik wird die Neuauflage verwenden."
+  fr: "La musique sera la version remasterisée."
+  sp: "La música de fondo será de la versión remasterizada."
+
+- id: 0x571B
   en: "Original"
   it: "Originale"
   gr: "Original"
   fr: "Original"
   sp: "Original"
-  
-- id: 0x571A
+
+- id: 0x571C
   en: "The background music will be the
   
     original Playstation® 2 Release."
@@ -256,55 +270,19 @@
   
     original de Playstation® 2."
 
-- id: 0x571B
-  en: "Remastered"
-  it: "Rimasterizzata"
-  gr: "Neuauflage"
-  fr: "Remasterisé"
-  sp: "Remasterizada"
-
-- id: 0x571C
-  en: "The background music will be remastered."
-  it: "La colonna sonora sarà quella rimasterizzata."
-  gr: "Die Hintergrundmusik wird die Neuauflage verwenden."
-  fr: "La musique sera la version remasterisée."
-  sp: "La música de fondo será de la versión remasterizada."
-
 - id: 0x571D
+  en: "Extra Music"
+
+- id: 0x571E
+  en: "If you see this, you have an extram pack installed!"
+
+- id: 0x571F
   en: "Heartless Palette"
   it: "Aspetto degli Heartless"
   gr: "Herzlosen-Palette"
   fr: "Visuels des sans-coeurs"
   sp: "Paleta de los sincorazón"
 
-- id: 0x571E
-  en: "Original"
-  it: "Originale"
-  gr: "Original"
-  fr: "Originale"
-  sp: "Original"
-
-- id: 0x571F
-  en: "The Heartless will use the Original Palette."
-  it: "Gli Heartless avranno l'aspetto classico."
-  gr: "Die Herzlosen werden die originalen Farben verwenden."
-  fr: "Les sans-coeurs utiliseront la palette originale."
-  sp: "Los sincorazón usarán la paleta de colores original."
-
-- id: 0x5720
-  en: "Final Mix"
-  it: "Final Mix"
-  gr: "Final Mix"
-  fr: "Final Mix"
-  sp: "Final Mix"
-
-- id: 0x5721
-  en: "The Heartless will use the Final Mix Palette."
-  it: "Gli Heartless avranno l'aspetto della versione Final Mix."
-  gr: "Die Herzlosen werden die Final Mix-Farben verwenden."
-  fr: "Les sans-coeurs utiliseront la palette Final Mix."
-  sp: "Los sincorazón usarán la paleta del Final Mix."
-  
 - id: 0x5722
   en: "Button Prompts"
   it: "Icone dei comandi"
@@ -502,6 +480,40 @@
   gr: "Nein"
   fr: "NON"
   sp: "No"
+
+- id: 0x573A
+  en: "Final Mix"
+  it: "Final Mix"
+  gr: "Final Mix"
+  fr: "Final Mix"
+  sp: "Final Mix"
+
+- id: 0x573B
+  en: "The Heartless will use the Final Mix Palette."
+  it: "Gli Heartless avranno l'aspetto della versione Final Mix."
+  gr: "Die Herzlosen werden die Final Mix-Farben verwenden."
+  fr: "Les sans-coeurs utiliseront la palette Final Mix."
+  sp: "Los sincorazón usarán la paleta del Final Mix."
+
+- id: 0x573C
+  en: "Original"
+  it: "Originale"
+  gr: "Original"
+  fr: "Originale"
+  sp: "Original"
+
+- id: 0x573D
+  en: "The Heartless will use the Original Palette."
+  it: "Gli Heartless avranno l'aspetto classico."
+  gr: "Die Herzlosen werden die originalen Farben verwenden."
+  fr: "Les sans-coeurs utiliseront la palette originale."
+  sp: "Los sincorazón usarán la paleta de colores original."
+
+- id: 0x573E
+  en: "Extra Enemy"
+
+- id: 0x573F
+  en: "If you see this, you have an extra pack installed."
 
 # === Discord RPC Text === #
 
