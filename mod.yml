@@ -1,6 +1,6 @@
 title: Kingdom Hearts II - Re:Fined
 originalAuthor: The Re:Fined Team
-description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r301211-732
+description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r080126-1203
 
 assets:
 
@@ -24,10 +24,10 @@ assets:
   source:
   - name: engine/discord_game_sdk.dll
 
-- name: dll/modules/ModuleRF-Autoattack.dll
-  method: copy
-  source:
-  - name: engine/modules/ModuleRF-Autoattack.dll
+# - name: dll/modules/ModuleRF-Autoattack.dll
+#   method: copy
+#   source:
+#   - name: engine/modules/ModuleRF-Autoattack.dll
 - name: dll/modules/ModuleRF-CrownEngine.dll
   method: copy
   source:
