@@ -233,55 +233,37 @@
   sp: "Música de fondo"
 
 - id: 0x5719
-  en: "Remastered"
-  it: "Rimasterizzata"
-  gr: "Neuauflage"
-  fr: "Remasterisé"
-  sp: "Remasterizada"
+  en: "Unchanged"
+  it: "Invariato"
+  gr: "Unverändert"
+  fr: "Original"
+  sp: "Sin cambios"
 
 - id: 0x571A
-  en: "The background music will be remastered."
-  it: "La colonna sonora sarà quella rimasterizzata."
-  gr: "Die Hintergrundmusik wird die Neuauflage verwenden."
-  fr: "La musique sera la version remasterisée."
-  sp: "La música de fondo será de la versión remasterizada."
+  en: "Use the game's original, unchanged music."
+  it: "Utilizza la musica originale del gioco, senza modifiche."
+  gr: "Verwendet die originale, unveränderte Musik des Spiels."
+  fr: "Utiliser la musique originale, non modifiée."
+  sp: "Utiliza la música del juego original, sin modificar."
 
 - id: 0x571B
-  en: "Original"
-  it: "Originale"
-  gr: "Original"
-  fr: "Original"
-  sp: "Original"
+  en: "RESERVED"
 
 - id: 0x571C
-  en: "The background music will be the
-  
-    original Playstation® 2 Release."
-  it: "La colonna sonora sarà quella della
-  
-    versione originale Playstation® 2."
-  gr: "Die Hintergrundmusik wird die
-
-    originale Playstation® 2 Version sein."
-  fr: "La musique sera celle de la version
-  
-    originale Playstation® 2."
-  sp: "La música de fondo será de la versión
-  
-    original de Playstation® 2."
+  en: "RESERVED"
 
 - id: 0x571D
-  en: "Extra Music"
+  en: "RESERVED"
 
 - id: 0x571E
-  en: "If you see this, you have an extram pack installed!"
+  en: "RESERVED"
 
 - id: 0x571F
   en: "Heartless Palette"
-  it: "Aspetto degli Heartless"
-  gr: "Herzlosen-Palette"
-  fr: "Visuels des sans-coeurs"
-  sp: "Paleta de los sincorazón"
+  it: "Pacchetti Risorse"
+  gr: "Ressourcenpakete"
+  fr: "Pack de ressources"
+  sp: "Paquetes de recursos"
 
 - id: 0x5722
   en: "Button Prompts"
@@ -482,38 +464,30 @@
   sp: "No"
 
 - id: 0x573A
-  en: "Final Mix"
-  it: "Final Mix"
-  gr: "Final Mix"
-  fr: "Final Mix"
-  sp: "Final Mix"
+  en: "Unchanged"
+  it: "Invariato"
+  gr: "Unverändert"
+  fr: "Original"
+  sp: "Sin cambios"
 
 - id: 0x573B
-  en: "The Heartless will use the Final Mix Palette."
-  it: "Gli Heartless avranno l'aspetto della versione Final Mix."
-  gr: "Die Herzlosen werden die Final Mix-Farben verwenden."
-  fr: "Les sans-coeurs utiliseront la palette Final Mix."
-  sp: "Los sincorazón usarán la paleta del Final Mix."
+  en: "Use the game's original, unchanged assets."
+  it: "Utilizza gli asset di gioco originali."
+  gr: "Verwendet die originalen, unveränderten Inhalte des Spiels."
+  fr: "Utiliser les ressources du jeu original, non modifiées."
+  sp: "Utiliza los recursos visuales del juego originales, sin modificar."
 
 - id: 0x573C
-  en: "Original"
-  it: "Originale"
-  gr: "Original"
-  fr: "Originale"
-  sp: "Original"
+  en: "RESERVED"
 
 - id: 0x573D
-  en: "The Heartless will use the Original Palette."
-  it: "Gli Heartless avranno l'aspetto classico."
-  gr: "Die Herzlosen werden die originalen Farben verwenden."
-  fr: "Les sans-coeurs utiliseront la palette originale."
-  sp: "Los sincorazón usarán la paleta de colores original."
+  en: "RESERVED"
 
 - id: 0x573E
-  en: "Extra Enemy"
+  en: "RESERVED"
 
 - id: 0x573F
-  en: "If you see this, you have an extra pack installed."
+  en: "RESERVED"
 
 # === Discord RPC Text === #
 
@@ -629,6 +603,53 @@
     jeder Vernunft widersetzen. Seine Kraft richtet sich
     
     vollkommen nach den Befehlen seines Trägers."
+
+- id: 0x5754
+  en: "Lock-On Controls"
+  sp: "{:width 85}Controles de fijar objetivo"
+  fr: "{:width 90}Contrôle du verrouillage"
+
+- id: 0x5755
+  en: "Type A"
+  sp: "Tipo A"
+  fr: "Type A"
+
+- id: 0x5756
+  en: "Type B"
+  sp: "Tipo B"
+  fr: "Type B"
+
+- id: 0x5757
+  en: "Type C"
+  sp: "Tipo C"
+  fr: "Type C"
+
+- id: 0x5758
+  en: "Press {:icon dynamic-r2} to cycle targets clockwise. 
+  
+    Press {:icon dynamic-l2} to cycle targets counter-clockwise."
+  sp: "Pulsa {:icon dynamic-r2} para cambiar objetivos en sentido horario. 
+  
+    Pulsa {:icon dynamic-l2} para cambiar objetivos en sentido antihorario."
+  fr: "Appuyer sur {:icon dynamic-r2} pour changer de cible dans le sens des aiguilles d'une montre. 
+  
+    Appuyer sur {:icon dynamic-l2} pour changer de cible dans le sens inverse."
+
+- id: 0x5759
+  en: "Press {:icon dynamic-r2} to cycle targets counter-clockwise. 
+  
+    Press {:icon dynamic-l2} to cycle targets clockwise."
+  sp: "Pulsa {:icon dynamic-r2} para cambiar objetivos en sentido antihorario. 
+  
+    Pulsa {:icon dynamic-l2} para cambiar objetivos en sentido horario."
+  fr: "Appuyer sur {:icon dynamic-r2} pour changer de cible dans le sens inverse des aiguilles d'une montre. 
+  
+    Appuyer sur {:icon dynamic-l2} pour changer de cible dans le sens normal."
+
+- id: 0x575A
+  en: "Hold {:icon dynamic-r2} and use {:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} to cycle targets."
+  sp: "Mantén {:icon dynamic-r2} y usa {:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} para cambiar entre objetivos."
+  fr: "Laisser {:icon dynamic-r2} enfoncé et utiliser {:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} pour changer de cible."
 
 - id: 0x0649
   en: "Using the Keyblade's true power,
