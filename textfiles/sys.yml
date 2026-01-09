@@ -625,31 +625,31 @@
   fr: "Type C"
 
 - id: 0x5758
-  en: "Press{:icon dynamic-r2} to cycle targets clockwise. 
+  en: "Press {:icon dynamic-r2} to cycle targets clockwise. 
   
-    Press{:icon dynamic-l2} to cycle targets counter-clockwise."
-  sp: "Pulsa{:icon dynamic-r2} para cambiar objetivos en sentido horario. 
+    Press {:icon dynamic-l2} to cycle targets counter-clockwise."
+  sp: "Pulsa {:icon dynamic-r2} para cambiar objetivos en sentido horario. 
   
-    Pulsa{:icon dynamic-l2} para cambiar objetivos en sentido antihorario."
-  fr: "Appuyer sur{:icon dynamic-r2} pour changer de cible dans le sens des aiguilles d'une montre. 
+    Pulsa {:icon dynamic-l2} para cambiar objetivos en sentido antihorario."
+  fr: "Appuyer sur {:icon dynamic-r2} pour changer de cible dans le sens des aiguilles d'une montre. 
   
-    Appuyer sur{:icon dynamic-l2} pour changer de cible dans le sens inverse."
+    Appuyer sur {:icon dynamic-l2} pour changer de cible dans le sens inverse."
 
 - id: 0x5759
-  en: "Press{:icon dynamic-r2} to cycle targets counter-clockwise. 
+  en: "Press {:icon dynamic-r2} to cycle targets counter-clockwise. 
   
-    Press{:icon dynamic-l2} to cycle targets clockwise."
-  sp: "Pulsa{:icon dynamic-r2} para cambiar objetivos en sentido antihorario. 
+    Press {:icon dynamic-l2} to cycle targets clockwise."
+  sp: "Pulsa {:icon dynamic-r2} para cambiar objetivos en sentido antihorario. 
   
-    Pulsa{:icon dynamic-l2} para cambiar objetivos en sentido horario."
-  fr: "Appuyer sur{:icon dynamic-r2} pour changer de cible dans le sens inverse des aiguilles d'une montre. 
+    Pulsa {:icon dynamic-l2} para cambiar objetivos en sentido horario."
+  fr: "Appuyer sur {:icon dynamic-r2} pour changer de cible dans le sens inverse des aiguilles d'une montre. 
   
-    Appuyer sur{:icon dynamic-l2} pour changer de cible dans le sens normal."
+    Appuyer sur {:icon dynamic-l2} pour changer de cible dans le sens normal."
 
 - id: 0x575A
-  en: "Hold{:icon dynamic-r2} and use{:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} to cycle targets."
-  sp: "Mantén{:icon dynamic-r2} y usa{:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} para cambiar entre objetivos."
-  fr: "Laisser{:icon dynamic-r2} enfoncé et utiliser{:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} pour changer de cible."
+  en: "Hold {:icon dynamic-r2} and use{:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} to cycle targets."
+  sp: "Mantén {:icon dynamic-r2} y usa{:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} para cambiar entre objetivos."
+  fr: "Laisser {:icon dynamic-r2} enfoncé et utiliser{:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} pour changer de cible."
 
 - id: 0x0649
   en: "Using the Keyblade's true power,
