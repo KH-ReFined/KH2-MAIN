@@ -259,7 +259,7 @@
   en: "RESERVED"
 
 - id: 0x571F
-  en: "Heartless Palette"
+  en: "Resource Pack"
   it: "Pacchetti Risorse"
   gr: "Ressourcenpakete"
   fr: "Pack de ressources"
@@ -634,6 +634,12 @@
   fr: "Appuyer sur {:icon dynamic-r2} pour changer de cible dans le sens des aiguilles d'une montre. 
   
     Appuyer sur {:icon dynamic-l2} pour changer de cible dans le sens inverse."
+  gr: "Drücke {:icon dynamic-r2}, um die Ziele im Uhrzeigersinn zu wechseln.
+
+    Drücke {:icon dynamic-l2}, um die Ziele gegen den Uhrzeigersinn zu wechseln."
+  it: "Premi {:icon dynamic-r2} per scorrere i bersagli in senso orario.
+  
+    Premi {:icon dynamic-l2} per scorrere i bersagli in senso antiorario."
 
 - id: 0x5759
   en: "Press {:icon dynamic-r2} to cycle targets counter-clockwise. 
@@ -645,11 +651,19 @@
   fr: "Appuyer sur {:icon dynamic-r2} pour changer de cible dans le sens inverse des aiguilles d'une montre. 
   
     Appuyer sur {:icon dynamic-l2} pour changer de cible dans le sens normal."
+  gr: "Drücke {:icon dynamic-r2}, um die Ziele gegen den Uhrzeigersinn zu wechseln.
+
+    Drücke {:icon dynamic-l2}, um die Ziele im Uhrzeigersinn zu wechseln."
+  it: "Premi {:icon dynamic-r2} per scorrere i bersagli in senso antiorario.
+  
+    Premi {:icon dynamic-l2} per scorrere i bersagli in senso orario."
 
 - id: 0x575A
   en: "Hold {:icon dynamic-r2} and use{:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} to cycle targets."
   sp: "Mantén {:icon dynamic-r2} y usa{:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} para cambiar entre objetivos."
   fr: "Laisser {:icon dynamic-r2} enfoncé et utiliser{:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} pour changer de cible."
+  gr: "Halte {:icon dynamic-r2} gedrückt und benutze den{:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} um die Ziele zu wechseln."
+  it: "Tieni premuto {:icon dynamic-r2} e utilizza {:icon dynamic-right-analog-left} /{:icon dynamic-right-analog-right} per scorrere i bersagli."
 
 - id: 0x0649
   en: "Using the Keyblade's true power,
