@@ -246,18 +246,6 @@
   fr: "Utiliser la musique originale, non modifiée."
   sp: "Utiliza la música del juego original, sin modificar."
 
-- id: 0x571B
-  en: "RESERVED"
-
-- id: 0x571C
-  en: "RESERVED"
-
-- id: 0x571D
-  en: "RESERVED"
-
-- id: 0x571E
-  en: "RESERVED"
-
 - id: 0x571F
   en: "Resource Pack"
   it: "Pacchetti Risorse"
@@ -476,18 +464,6 @@
   gr: "Verwendet die originalen, unveränderten Inhalte des Spiels."
   fr: "Utiliser les ressources du jeu original, non modifiées."
   sp: "Utiliza los recursos visuales del juego originales, sin modificar."
-
-- id: 0x573C
-  en: "RESERVED"
-
-- id: 0x573D
-  en: "RESERVED"
-
-- id: 0x573E
-  en: "RESERVED"
-
-- id: 0x573F
-  en: "RESERVED"
 
 # === Discord RPC Text === #
 
