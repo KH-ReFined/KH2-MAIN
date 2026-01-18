@@ -424,11 +424,11 @@
   sp: "Música del juego"
   
 - id: 0x5736
-  en: "Heartless Color Palette"
-  it: "Seleziona l'aspetto degli Heartless."
-  gr: "Herzlosen-Palette wählen"
-  fr: "Palette de couleur des sans-coeurs"
-  sp: "Paleta de los sincorazón"
+  en: "Resource Pack"
+  it: "Pacchetti Risorse"
+  gr: "Ressourcenpakete"
+  fr: "Pack de ressources"
+  sp: "Paquetes de recursos"
 
 - id: 0x5737
   en: "Button Prompts"
