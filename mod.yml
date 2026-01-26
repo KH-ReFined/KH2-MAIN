@@ -40,10 +40,6 @@ assets:
   method: copy
   source:
   - name: engine/modules/ModuleRF-PrologueSkip.dll
-- name: dll/modules/ModuleRF-RetryBattles.dll
-  method: copy
-  source:
-  - name: engine/modules/ModuleRF-RetryBattles.dll
 - name: dll/modules/ModuleRF-ShortcutForms.dll
   method: copy
   source:

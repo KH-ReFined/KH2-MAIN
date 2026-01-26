@@ -29,11 +29,11 @@
   sp: "No he podido guardar tu progreso, ¡kupó! ¡Por favor guarda el juego manualmente!"
   
 - id: 0x051F
-  en: "{:width 85}Shortcut Set X{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}"
-  it: "{:width 85}Uso rapido Set X{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}"
-  gr: "{:width 85}Kurzbefehle-Set X{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}"
-  fr: "{:width 75}Set de raccourcis X{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}"
-  sp: "{:width 85}Set de atajos X{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}{:unk 00}"
+  en: "{:width 85}Shortcut Set X"
+  it: "{:width 85}Uso rapido Set X"
+  gr: "{:width 85}Kurzbefehle-Set X"
+  fr: "{:width 75}Set de raccourcis X"
+  sp: "{:width 85}Set de atajos X"
 
 - id: 0x3B89
   en: "Select settings for shortcut commands
