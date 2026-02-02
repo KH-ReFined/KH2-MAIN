@@ -541,169 +541,169 @@ assets:
 
 # === Background Music Files === #
 
-- name: bgm/music506.win32.scd
-  method: copy
-  source:
-  - name: bgm/music506.win32.scd
-- name: bgm/music507.win32.scd
-  method: copy
-  source:
-  - name: bgm/music507.win32.scd
-- name: bgm/music508.win32.scd
-  method: copy
-  source:
-  - name: bgm/music508.win32.scd
-- name: bgm/music509.win32.scd
-  method: copy
-  source:
-  - name: bgm/music509.win32.scd
-- name: bgm/music513.win32.scd
-  method: copy
-  source:
-  - name: bgm/music513.win32.scd
+# - name: bgm/music506.win32.scd
+#   method: copy
+#   source:
+#   - name: bgm/music506.win32.scd
+# - name: bgm/music507.win32.scd
+#   method: copy
+#   source:
+#   - name: bgm/music507.win32.scd
+# - name: bgm/music508.win32.scd
+#   method: copy
+#   source:
+#   - name: bgm/music508.win32.scd
+# - name: bgm/music509.win32.scd
+#   method: copy
+#   source:
+#   - name: bgm/music509.win32.scd
+# - name: bgm/music513.win32.scd
+#   method: copy
+#   source:
+#   - name: bgm/music513.win32.scd
 
 # === Atlantica Voice Files === #
 
-- name: voice/us/event/lmmu1-01.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu1-01.win32.scd
-- name: voice/us/event/lmmu1-03.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu1-03.win32.scd
-- name: voice/us/event/lmmu1-08.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu1-08.win32.scd
-- name: voice/us/event/lmmu1-13.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu1-13.win32.scd
-- name: voice/us/event/lmmu1-18.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu1-18.win32.scd
-- name: voice/us/event/lmmu1-20.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu1-20.win32.scd
-- name: voice/us/event/lmmu1-23.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu1-23.win32.scd
-- name: voice/us/event/lmmu1-25.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu1-25.win32.scd
-- name: voice/us/event/lmmu1-30.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu1-30.win32.scd
-- name: voice/us/event/lmmu1-31.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu1-31.win32.scd
-- name: voice/us/event/lmmu2-1.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu2-1.win32.scd
-- name: voice/us/event/lmmu2-2.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu2-2.win32.scd
-- name: voice/us/event/lmmu2-3.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu2-3.win32.scd
-- name: voice/us/event/lmmu2-4.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu2-4.win32.scd
-- name: voice/us/event/lmmu2-5.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu2-5.win32.scd
-- name: voice/us/event/lmmu3-1-2.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu3-1-2.win32.scd
-- name: voice/us/event/lmmu3-3.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu3-3.win32.scd
-- name: voice/us/event/lmmu3-4.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu3-4.win32.scd
-- name: voice/us/event/lmmu3-5.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu3-5.win32.scd
-- name: voice/us/event/lmmu4-01.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu4-01.win32.scd
-- name: voice/us/event/lmmu4-03.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu4-03.win32.scd
-- name: voice/us/event/lmmu4-06.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu4-06.win32.scd
-- name: voice/us/event/lmmu4-09.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu4-09.win32.scd
-- name: voice/us/event/lmmu4-11.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu4-11.win32.scd
-- name: voice/us/event/lmmu5-1.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu5-1.win32.scd
-- name: voice/us/event/lmmu5-2.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu5-2.win32.scd
-- name: voice/us/event/lmmu5-3.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu5-3.win32.scd
-- name: voice/us/event/lmmu5-4.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu5-4.win32.scd
-- name: voice/us/event/lmmu5-5-1.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu5-5-1.win32.scd
-- name: voice/us/event/lmmu5-5-2.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu5-5-2.win32.scd
-- name: voice/us/event/lmmu5-6.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu5-6.win32.scd
-- name: voice/us/event/lmmu6-1.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu6-1.win32.scd
-- name: voice/us/event/lmmu6-2.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu6-2.win32.scd
-- name: voice/us/event/lmmu6-3.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu6-3.win32.scd
-- name: voice/us/event/lmmu7.win32.scd
-  method: copy
-  source:
-  - name: voice/us/event/lmmu7.win32.scd
+# - name: voice/us/event/lmmu1-01.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu1-01.win32.scd
+# - name: voice/us/event/lmmu1-03.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu1-03.win32.scd
+# - name: voice/us/event/lmmu1-08.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu1-08.win32.scd
+# - name: voice/us/event/lmmu1-13.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu1-13.win32.scd
+# - name: voice/us/event/lmmu1-18.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu1-18.win32.scd
+# - name: voice/us/event/lmmu1-20.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu1-20.win32.scd
+# - name: voice/us/event/lmmu1-23.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu1-23.win32.scd
+# - name: voice/us/event/lmmu1-25.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu1-25.win32.scd
+# - name: voice/us/event/lmmu1-30.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu1-30.win32.scd
+# - name: voice/us/event/lmmu1-31.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu1-31.win32.scd
+# - name: voice/us/event/lmmu2-1.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu2-1.win32.scd
+# - name: voice/us/event/lmmu2-2.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu2-2.win32.scd
+# - name: voice/us/event/lmmu2-3.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu2-3.win32.scd
+# - name: voice/us/event/lmmu2-4.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu2-4.win32.scd
+# - name: voice/us/event/lmmu2-5.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu2-5.win32.scd
+# - name: voice/us/event/lmmu3-1-2.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu3-1-2.win32.scd
+# - name: voice/us/event/lmmu3-3.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu3-3.win32.scd
+# - name: voice/us/event/lmmu3-4.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu3-4.win32.scd
+# - name: voice/us/event/lmmu3-5.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu3-5.win32.scd
+# - name: voice/us/event/lmmu4-01.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu4-01.win32.scd
+# - name: voice/us/event/lmmu4-03.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu4-03.win32.scd
+# - name: voice/us/event/lmmu4-06.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu4-06.win32.scd
+# - name: voice/us/event/lmmu4-09.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu4-09.win32.scd
+# - name: voice/us/event/lmmu4-11.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu4-11.win32.scd
+# - name: voice/us/event/lmmu5-1.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu5-1.win32.scd
+# - name: voice/us/event/lmmu5-2.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu5-2.win32.scd
+# - name: voice/us/event/lmmu5-3.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu5-3.win32.scd
+# - name: voice/us/event/lmmu5-4.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu5-4.win32.scd
+# - name: voice/us/event/lmmu5-5-1.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu5-5-1.win32.scd
+# - name: voice/us/event/lmmu5-5-2.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu5-5-2.win32.scd
+# - name: voice/us/event/lmmu5-6.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu5-6.win32.scd
+# - name: voice/us/event/lmmu6-1.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu6-1.win32.scd
+# - name: voice/us/event/lmmu6-2.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu6-2.win32.scd
+# - name: voice/us/event/lmmu6-3.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu6-3.win32.scd
+# - name: voice/us/event/lmmu7.win32.scd
+#   method: copy
+#   source:
+#   - name: voice/us/event/lmmu7.win32.scd
 
 # === ARD Edits and Scripts === #
 
