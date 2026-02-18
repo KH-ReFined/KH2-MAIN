@@ -311,7 +311,7 @@
   AnimationName: P_EX020.mset
   ObjectTargetType: M
   NeoStatus: 2
-  NeoMoveset: 19
+  NeoMoveset: 17
   Weight: 50
   Page: 55
   ObjectShadowSize: SmallShadow
@@ -324,7 +324,7 @@
   AnimationName: P_EX030.mset
   ObjectTargetType: M
   NeoStatus: 3
-  NeoMoveset: 22
+  NeoMoveset: 20
   Weight: 50
   Page: 18
   ObjectShadowSize: SmallShadow
