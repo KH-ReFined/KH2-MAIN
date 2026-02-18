@@ -1275,6 +1275,11 @@ assets:
   source:
   - name: objects/sephsilhouette/F_CZ240.mdlx
 
+- name: obj/H_EX690.mdlx
+  method: copy
+  source:
+  - name: objects/H_EX690.mdlx
+
 - name: obj/P_EX100.a.us
   multi:
   - name: obj/P_EX100.a.jp
