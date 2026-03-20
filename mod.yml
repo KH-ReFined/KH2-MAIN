@@ -1,6 +1,6 @@
 title: Kingdom Hearts II - Re:Fined
 originalAuthor: The Re:Fined Team
-description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r200326-STABLE
+description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r090326-STABLE
 
 assets:
 
@@ -1356,10 +1356,20 @@ assets:
   - name: objects/disneyfellas/P_EX030_DC.mdlx
 
 - name: obj/P_EX020_DC.a.us
+  multi:
+  - name: obj/P_EX020_DC.a.jp
+  - name: obj/P_EX020_DC.a.de
+  - name: obj/P_EX020_DC.a.es
+  - name: obj/P_EX020_DC.a.bg
   method: copy
   source:
   - name: objects/disneyfellas/P_EX020_DC.apdx
 - name: obj/P_EX030_DC.a.us
+  multi:
+  - name: obj/P_EX030_DC.a.jp
+  - name: obj/P_EX030_DC.a.de
+  - name: obj/P_EX030_DC.a.es
+  - name: obj/P_EX030_DC.a.bg
   method: copy
   source:
   - name: objects/disneyfellas/P_EX030_DC.apdx
@@ -2291,34 +2301,50 @@ assets:
   - name: remastered/menu/titlescreen/regular_screen/SP.png
 
 - name: remastered/obj/P_EX100.a.us/-0.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA.a.us/-0.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-0.dds
 - name: remastered/obj/P_EX100.a.us/-1.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA.a.us/-1.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-1.dds
 - name: remastered/obj/P_EX100.a.us/-2.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA.a.us/-2.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-2.dds
 - name: remastered/obj/P_EX100.a.us/-3.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA.a.us/-3.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-3.dds
 - name: remastered/obj/P_EX100.a.us/-4.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA.a.us/-4.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-4.dds
 - name: remastered/obj/P_EX100.a.us/-5.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA.a.us/-5.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-5.dds
 - name: remastered/obj/P_EX100.a.us/-6.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA.a.us/-6.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-6.dds
 - name: remastered/obj/P_EX100.a.us/-7.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA.a.us/-7.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-7.dds
@@ -2328,18 +2354,26 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-8.dds
 
 - name: remastered/obj/P_EX100_BTLF.a.us/-0.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_BTLF.a.us/-0.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_BTLF.apdx/-0.dds
 - name: remastered/obj/P_EX100_BTLF.a.us/-1.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_BTLF.a.us/-1.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_BTLF.apdx/-1.dds
 - name: remastered/obj/P_EX100_BTLF.a.us/-2.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_BTLF.a.us/-2.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_BTLF.apdx/-2.dds
 - name: remastered/obj/P_EX100_BTLF.a.us/-3.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_BTLF.a.us/-3.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_BTLF.apdx/-3.dds
@@ -2349,10 +2383,14 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_BTLF.apdx/-4.dds
 
 - name: remastered/obj/P_EX100_MAGF.a.us/-0.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_MAGF.a.us/-0.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_MAGF.apdx/-0.dds
 - name: remastered/obj/P_EX100_MAGF.a.us/-1.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_MAGF.a.us/-1.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_MAGF.apdx/-1.dds
@@ -2362,38 +2400,56 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_MAGF.apdx/-2.dds
 
 - name: remastered/obj/P_EX100_KH1F.a.us/-0.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-0.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-0.dds
 - name: remastered/obj/P_EX100_KH1F.a.us/-1.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-1.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-1.dds
 - name: remastered/obj/P_EX100_KH1F.a.us/-2.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-2.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-2.dds
 - name: remastered/obj/P_EX100_KH1F.a.us/-3.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-3.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-3.dds
 - name: remastered/obj/P_EX100_KH1F.a.us/-4.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-4.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-4.dds
 - name: remastered/obj/P_EX100_KH1F.a.us/-5.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-5.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-5.dds
 - name: remastered/obj/P_EX100_KH1F.a.us/-6.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-6.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-6.dds
 - name: remastered/obj/P_EX100_KH1F.a.us/-7.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-7.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-7.dds
 - name: remastered/obj/P_EX100_KH1F.a.us/-8.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-8.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-8.dds
@@ -2403,22 +2459,32 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-9.dds
 
 - name: remastered/obj/P_EX100_TRIF.a.us/-0.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_TRIF.a.us/-0.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_TRIF.apdx/-0.dds
 - name: remastered/obj/P_EX100_TRIF.a.us/-1.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_TRIF.a.us/-1.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_TRIF.apdx/-1.dds
 - name: remastered/obj/P_EX100_TRIF.a.us/-2.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_TRIF.a.us/-2.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_TRIF.apdx/-2.dds
 - name: remastered/obj/P_EX100_TRIF.a.us/-3.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_TRIF.a.us/-3.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_TRIF.apdx/-3.dds
 - name: remastered/obj/P_EX100_TRIF.a.us/-4.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_TRIF.a.us/-4.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_TRIF.apdx/-4.dds
@@ -2428,14 +2494,20 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_TRIF.apdx/-5.dds
 
 - name: remastered/obj/P_EX100_HTLF.a.us/-0.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_HTLF.a.us/-0.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_HTLF.apdx/-0.dds
 - name: remastered/obj/P_EX100_HTLF.a.us/-1.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_HTLF.a.us/-1.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_HTLF.apdx/-1.dds
 - name: remastered/obj/P_EX100_HTLF.a.us/-2.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_HTLF.a.us/-2.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_HTLF.apdx/-2.dds
@@ -2445,26 +2517,36 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_HTLF.apdx/-3.dds
 
 - name: remastered/obj/P_EX100_ULTF.a.us/-0.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-0.dds
   package: kh2_sixth
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-0.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-1.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-1.dds
   package: kh2_sixth
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-1.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-2.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-2.dds
   package: kh2_sixth
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-2.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-3.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-3.dds
   package: kh2_sixth
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-3.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-4.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-4.dds
   multi:
   package: kh2_sixth
   method: copy
@@ -2472,27 +2554,37 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-4.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-5.dds
   multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-5.dds
+  multi:
   package: kh2_sixth
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-5.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-6.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-6.dds
   package: kh2_sixth
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-6.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-7.dds
   multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-7.dds
+  multi:
   package: kh2_sixth
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-7.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-8.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-8.dds
   package: kh2_sixth
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-8.dds
 - name: remastered/obj/P_EX100_ULTF.a.us/-9.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-9.dds
   package: kh2_sixth
   method: copy
   source:
