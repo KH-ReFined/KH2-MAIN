@@ -2547,7 +2547,6 @@ assets:
 - name: remastered/obj/P_EX100_ULTF.a.us/-4.dds
   multi:
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-4.dds
-  multi:
   package: kh2_sixth
   method: copy
   source:
@@ -2555,7 +2554,6 @@ assets:
 - name: remastered/obj/P_EX100_ULTF.a.us/-5.dds
   multi:
   - name: remastered/obj/P_EX100_CA_ULTF.a.us/-5.dds
-  multi:
   package: kh2_sixth
   method: copy
   source:
