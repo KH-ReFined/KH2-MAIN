@@ -503,11 +503,6 @@ assets:
   - name: field2d/sp/wm0field.2dd
   method: binarc
   source:
-  - name: fiel
-    type: seqd
-    method: copy
-    source:
-    - name: fieldelems/xx0field.2dd/FIEL.sqd
   - name: miss
     type: seqd
     method: copy
