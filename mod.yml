@@ -28,10 +28,6 @@ assets:
 #   method: copy
 #   source:
 #   - name: engine/modules/ModuleRF-Autoattack.dll
-- name: dll/modules/ModuleRF-CrownEngine.dll
-  method: copy
-  source:
-  - name: engine/modules/ModuleRF-CrownEngine.dll
 - name: dll/modules/ModuleRF-EncounterPlus.dll
   method: copy
   source:
