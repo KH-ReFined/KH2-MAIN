@@ -201,52 +201,6 @@ assets:
     - name: textfiles/he.yml
       language: gr
 
-- name: msg/us/ca.bar
-  method: binarc
-  source:
-  - name: ca
-    type: list
-    method: kh2msg
-    source:
-    - name: textfiles/ca.yml
-      language: en
-- name: msg/fr/ca.bar
-  method: binarc
-  source:
-  - name: ca
-    type: list
-    method: kh2msg
-    source:
-    - name: textfiles/ca.yml
-      language: fr
-- name: msg/sp/ca.bar
-  method: binarc
-  source:
-  - name: ca
-    type: list
-    method: kh2msg
-    source:
-    - name: textfiles/ca.yml
-      language: sp
-- name: msg/it/ca.bar
-  method: binarc
-  source:
-  - name: ca
-    type: list
-    method: kh2msg
-    source:
-    - name: textfiles/ca.yml
-      language: it
-- name: msg/gr/ca.bar
-  method: binarc
-  source:
-  - name: ca
-    type: list
-    method: kh2msg
-    source:
-    - name: textfiles/ca.yml
-      language: gr
-
 - name: msg/us/hb.bar
   method: binarc
   source:
@@ -543,10 +497,6 @@ assets:
 
 # === Libretto Files === #
 
-- name: libretto-ca.bar
-  method: copy
-  source:
-  - name: libretto/libretto-ca.bar
 - name: libretto-hb.bar
   method: copy
   source:
