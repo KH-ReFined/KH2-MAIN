@@ -329,13 +329,13 @@ assets:
 
 # === Font Files === #
 
-- name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png
+- name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png.png
   multi:
-    - name: remastered/msg/us/fontimage.bar/US_fontimage_bar2.png
-    - name: remastered/msg/fr/fontimage.bar/FR_fontimage_bar2.png
-    - name: remastered/msg/gr/fontimage.bar/GR_fontimage_bar2.png
-    - name: remastered/msg/it/fontimage.bar/IT_fontimage_bar2.png
-    - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar2.png
+    - name: remastered/msg/us/fontimage.bar/US_fontimage_bar2.png.png
+    - name: remastered/msg/fr/fontimage.bar/FR_fontimage_bar2.png.png
+    - name: remastered/msg/gr/fontimage.bar/GR_fontimage_bar2.png.png
+    - name: remastered/msg/it/fontimage.bar/IT_fontimage_bar2.png.png
+    - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar2.png.png
   method: copy
   source:
     - name: remastered/fonts/iconfont.png
@@ -388,6 +388,28 @@ assets:
   method: copy
   source:
   - name: menu/us/title_fast.2ld
+
+# === Mission Files === #
+
+- name: msn/us/EH26_MS108.bar
+  multi:
+  - name: msn/gr/EH26_MS108.bar
+  - name: msn/fr/EH26_MS108.bar
+  - name: msn/it/EH26_MS108.bar
+  - name: msn/sp/EH26_MS108.bar
+  method: copy
+  source:
+  - name: missions/EH26_MS108.bar
+
+  - name: msn/us/EH14_MS103.bar
+  multi:
+  - name: msn/gr/EH14_MS103.bar
+  - name: msn/fr/EH14_MS103.bar
+  - name: msn/it/EH14_MS103.bar
+  - name: msn/sp/EH14_MS103.bar
+  method: copy
+  source:
+  - name: missions/EH14_MS103.bar
 
 # === Field Elements === #
 
@@ -2081,12 +2103,12 @@ assets:
   source:
   - name: remastered/itempic/item-271.dds
 
-- name: remastered/msg/us/hb.bar/US_hb_bar0.png
+- name: remastered/msg/us/hb.bar/US_hb_bar0.png.png
   mulit:
-  - name: remastered/msg/gr/hb.bar/GR_hb_bar0.png
-  - name: remastered/msg/fr/hb.bar/FR_hb_bar0.png
-  - name: remastered/msg/sp/hb.bar/SP_hb_bar0.png
-  - name: remastered/msg/it/hb.bar/IT_hb_bar0.png
+  - name: remastered/msg/gr/hb.bar/GR_hb_bar0.png.png
+  - name: remastered/msg/fr/hb.bar/FR_hb_bar0.png.png
+  - name: remastered/msg/sp/hb.bar/SP_hb_bar0.png.png
+  - name: remastered/msg/it/hb.bar/IT_hb_bar0.png.png
   method: copy
   source:
   - name: remastered/textfiles/hb_bubbles.png
@@ -2898,6 +2920,156 @@ assets:
   method: copy
   source:
   - name: remastered/tutorials/rf_020_x.bar/SP.png
+
+- name: remastered/msn/us/EH26_MS108.bar/US_EH26_MS108_bar0.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-0_US.png
+- name: remastered/msn/us/EH26_MS108.bar/US_EH26_MS108_bar1.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-1_US.png
+- name: remastered/msn/us/EH26_MS108.bar/US_EH26_MS108_bar2.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-2_US.png
+- name: remastered/msn/us/EH26_MS108.bar/US_EH26_MS108_bar3.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-3.png
+
+- name: remastered/msn/fr/EH26_MS108.bar/FR_EH26_MS108_bar0.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-0_FR.png
+- name: remastered/msn/fr/EH26_MS108.bar/FR_EH26_MS108_bar1.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-1_FR.png
+- name: remastered/msn/fr/EH26_MS108.bar/FR_EH26_MS108_bar2.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-2_FR.png
+- name: remastered/msn/fr/EH26_MS108.bar/FR_EH26_MS108_bar3.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-3.png
+
+- name: remastered/msn/sp/EH26_MS108.bar/SP_EH26_MS108_bar0.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-0_SP.png
+- name: remastered/msn/sp/EH26_MS108.bar/SP_EH26_MS108_bar1.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-1_SP.png
+- name: remastered/msn/sp/EH26_MS108.bar/SP_EH26_MS108_bar2.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-2_SP.png
+- name: remastered/msn/sp/EH26_MS108.bar/SP_EH26_MS108_bar3.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-3.png
+
+- name: remastered/msn/gr/EH26_MS108.bar/GR_EH26_MS108_bar0.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-0_GR.png
+- name: remastered/msn/gr/EH26_MS108.bar/GR_EH26_MS108_bar1.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-1_GR.png
+- name: remastered/msn/gr/EH26_MS108.bar/GR_EH26_MS108_bar2.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-2_GR.png
+- name: remastered/msn/gr/EH26_MS108.bar/GR_EH26_MS108_bar3.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-3.png
+
+- name: remastered/msn/it/EH26_MS108.bar/IT_EH26_MS108_bar0.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-0_IT.png
+- name: remastered/msn/it/EH26_MS108.bar/IT_EH26_MS108_bar1.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-1_IT.png
+- name: remastered/msn/it/EH26_MS108.bar/IT_EH26_MS108_bar2.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-2_IT.png
+- name: remastered/msn/it/EH26_MS108.bar/IT_EH26_MS108_bar3.png
+  method: copy
+  source:
+  - name: remastered/missions/EH26_MS108/-3.png
+
+- name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-0_US.png
+- name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar1.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-1_US.png
+- name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-2_US.png
+
+- name: remastered/msn/fr/EH14_MS103.bar/FR_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-0_FR.png
+- name: remastered/msn/fr/EH14_MS103.bar/FR_EH14_MS103_bar1.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-1_FR.png
+- name: remastered/msn/fr/EH14_MS103.bar/FR_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-2_FR.png
+
+- name: remastered/msn/gr/EH14_MS103.bar/GR_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-0_GR.png
+- name: remastered/msn/gr/EH14_MS103.bar/GR_EH14_MS103_bar1.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-1_GR.png
+- name: remastered/msn/gr/EH14_MS103.bar/GR_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-2_GR.png
+
+- name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-0_SP.png
+- name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar1.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-1_SP.png
+- name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-2_SP.png
+
+- name: remastered/msn/it/EH14_MS103.bar/IT_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-0_IT.png
+- name: remastered/msn/it/EH14_MS103.bar/IT_EH14_MS103_bar1.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-1_IT.png
+- name: remastered/msn/it/EH14_MS103.bar/IT_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered/missions/EH14_MS103/-2_IT.png
 
 - name: raw/event/effect/tt_event_012_2.pax
   method: copy
