@@ -401,7 +401,7 @@ assets:
   source:
   - name: missions/EH26_MS108.bar
 
-  - name: msn/us/EH14_MS103.bar
+- name: msn/us/EH14_MS103.bar
   multi:
   - name: msn/gr/EH14_MS103.bar
   - name: msn/fr/EH14_MS103.bar
