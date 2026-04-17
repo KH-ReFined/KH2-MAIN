@@ -1244,35 +1244,25 @@ assets:
   - name: objects/H_EX690.mdlx
 
 - name: obj/P_EX100.a.us
-  method: copy
+  multi:
+  - name: obj/P_EX100_BTLF.a.us
+  - name: obj/P_EX100_MAGF.a.us
+  - name: obj/P_EX100_KH1F.a.us
+  - name: obj/P_EX100_TRIF.a.us
+  - name: obj/P_EX100_ULTF.a.us
+  - name: obj/P_EX100_HTLF.a.us
+  method: binarc
   source:
-  - name: objects/soraapdx/P_EX100.apdx
-- name: obj/P_EX100_BTLF.a.us
-  method: copy
-  source:
-  - name: objects/soraapdx/P_EX100_BTLF.apdx
-- name: obj/P_EX100_MAGF.a.us
-  method: copy
-  source:
-  - name: objects/soraapdx/P_EX100_MAGF.apdx
-- name: obj/P_EX100_KH1F.a.us
-  method: copy
-  source:
-  - name: objects/soraapdx/P_EX100_KH1F.apdx
-- name: obj/P_EX100_TRIF.a.us
-  method: copy
-  source:
-  - name: objects/soraapdx/P_EX100_TRIF.apdx
-- name: obj/P_EX100_ULTF.a.us
-  package: kh2_sixth
-  method: copy
-  source:
-  - name: objects/soraapdx/P_EX100_ULTF.apdx
-- name: obj/P_EX100_HTLF.a.us
-  method: copy
-  source:
-  - name: objects/soraapdx/P_EX100_HTLF.apdx
-
+  - name: crwn
+    type: imgd
+    method: copy
+    source:
+    - name: objects/soraapdx/crown_hud/image
+  - name: crwn
+    type: seqd
+    method: copy
+    source:
+    - name: objects/soraapdx/crown_hud/sequence
 - name: obj/P_EX100_CA.a.us
   method: copy
   source:
@@ -2589,6 +2579,36 @@ assets:
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-hudPIRATE.dds
+
+- name: remastered/obj/P_EX100.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/P_EX100.apdx/-hudCROWN.png
+- name: remastered/obj/P_EX100_BTLF.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/P_EX100_BTLF.apdx/-hudCROWN.png
+- name: remastered/obj/P_EX100_MAGF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/P_EX100_MAGF.apdx/-hudCROWN.png
+- name: remastered/obj/P_EX100_KH1F.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/P_EX100_KH1F.apdx/-hudCROWN.png
+- name: remastered/obj/P_EX100_TRIF.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/P_EX100_TRIF.apdx/-hudCROWN.png
+- name: remastered/obj/P_EX100_HTLF.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/P_EX100_HTLF.apdx/-hudCROWN.png
+- name: remastered/obj/P_EX100_ULTF.a.us/-11.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-hudCROWN.png
 
 - name: remastered/obj/P_EX020_CA.a.us/-0.dds
   method: copy
