@@ -82,7 +82,7 @@
   en: "Informative"
   it: "Informativo"
   gr: "Informativ"
-  fr: "Informatif"
+  fr: "Informative"
   sp: "Informativo"
 
 - id: 0x5706
@@ -191,14 +191,14 @@
   en: "French"
   it: "Francese"
   gr: "Französisch"
-  fr: "Francais"
+  fr: "Français"
   sp: "Francés"
 
 - id: 0x5715
   en: "The audio will be in French."
   it: "La lingua del doppiaggio sarà in Francese."
   gr: "Die Sprachausgabe wird auf Französisch sein."
-  fr: "La langue audio sera en Francais."
+  fr: "La langue audio sera en Français."
   sp: "El idioma del audio será en francés."
   
 - id: 0x5716
@@ -509,7 +509,7 @@
   sp: "¡Has descubierto un secreto! Me pregunto que será, kupo..."
   gr: "Du hast ein Geheimnis entdeckt! Was da wohl passiert ist, kupo...?"
   it: "Hai scoperto un segreto! Mi chiedo cosa abbia fatto, kupo..."
-  fr: "Ouah ! Tu as découvert un secret ! Qu'est-ce que ca a fait, je me demande...?"
+  fr: "Ouah ! Tu as découvert un secret ! Qu'est-ce que ça a fait, je me demande...?"
   
 - id: 0x5750
   en: "Retribution"
@@ -583,7 +583,7 @@
 - id: 0x5754
   en: "Lock-On Controls"
   sp: "{:width 85}Controles de fijar objetivo"
-  fr: "{:width 90}Contrôle du verrouillage"
+  fr: "{:width 90}Contrôles du verrouillage"
 
 - id: 0x5755
   en: "Type A"
