@@ -98,7 +98,7 @@
   en: "Silent"
   it: "Silenzioso"
   gr: "Unbemerkt"
-  fr: "Silencieux"
+  fr: "Silencieuse"
   sp: "Silencioso"
 
 - id: 0x5708
@@ -114,7 +114,7 @@
   en: "Disabled"
   it: "Disattivato"
   gr: "Deaktiviert"
-  fr: "Désactivé"
+  fr: "Désactivée"
   sp: "Desactivado"
 
 - id: 0x570A
@@ -329,7 +329,7 @@
 
     apparence venue d'un lieu familier
 
-    mais enigmatique."
+    mais énigmatique."
   gr: "Benutze ein Kommando-Menü, das an eine Zeit
 
     und einen Ort erinnert, doch dabei so
@@ -497,7 +497,7 @@
   
 - id: 0x5744
   en: "On Recharge!"
-  fr: "En Recharge!"
+  fr: "En Recharge !"
   it: "In Ricarica!"
   sp: "¡En recarga!"
   gr: "Beim Aufladen!"
@@ -698,7 +698,7 @@
     kannst du mittels des Drive-Kommandos
     
     in die Anti-Form wechseln."
-  fr: "En utilisant les ténèbres du coeur de Sora,
+  fr: "En utilisant les ténèbres du cæur de Sora,
     
     utilisez le menu de Fusion pour utiliser
     
@@ -739,21 +739,21 @@
   en: "Dodge Roll LV1"
   it: "Destrezza I"
   gr: "Ausweichrolle LV. 1"
-  fr: "Roulade LV1"
+  fr: "Roulade Niv. 1"
   sp: "Voltereta 1"
   
 - id: 0x4E85
   en: "Dodge Roll LV2"
   it: "Destrezza II"
   gr: "Ausweichrolle LV. 2"
-  fr: "Roulade LV2"
+  fr: "Roulade Niv. 2"
   sp: "Voltereta 2"
 
 - id: 0x4E87
   en: "Dodge Roll LV3"
   it: "Destrezza III"
   gr: "Ausweichrolle LV. 3"
-  fr: "Roulade LV3"
+  fr: "Roulade Niv. 3"
   sp: "Voltereta 3"
   
 - id: 0x4E8D
