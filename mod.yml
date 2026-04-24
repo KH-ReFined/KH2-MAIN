@@ -1,15 +1,10 @@
 title: Kingdom Hearts II - Re:Fined
 originalAuthor: The Re:Fined Team
-description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r170426-STABLE
+description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r240426-STABLE
 
 assets:
 
 # === System Files === #
-
-- name: reFined-v4.bin
-  method: copy
-  source:
-  - name: reFined-v4.bin
 
 - name: dll/ReFined.KH2.dll
   method: copy
@@ -1251,6 +1246,13 @@ assets:
   - name: obj/P_EX100_TRIF.a.us
   - name: obj/P_EX100_ULTF.a.us
   - name: obj/P_EX100_HTLF.a.us
+  - name: obj/P_EX100_LAST.a.us
+  - name: obj/P_EX100_SIDECAR.a.us
+  - name: obj/P_EX100_SIDECAR.a.fr
+  - name: obj/P_EX100_SIDECAR.a.gr
+  - name: obj/P_EX100_SIDECAR.a.sp
+  - name: obj/P_EX100_SIDECAR.a.it
+  - name: obj/P_EX100_AL_CARPET.a.us
   method: binarc
   source:
   - name: crwn
@@ -1314,20 +1316,10 @@ assets:
   - name: objects/disneyfellas/P_EX030_DC.mdlx
 
 - name: obj/P_EX020_DC.a.us
-  multi:
-  - name: obj/P_EX020_DC.a.jp
-  - name: obj/P_EX020_DC.a.de
-  - name: obj/P_EX020_DC.a.es
-  - name: obj/P_EX020_DC.a.bg
   method: copy
   source:
   - name: objects/disneyfellas/P_EX020_DC.apdx
 - name: obj/P_EX030_DC.a.us
-  multi:
-  - name: obj/P_EX030_DC.a.jp
-  - name: obj/P_EX030_DC.a.de
-  - name: obj/P_EX030_DC.a.es
-  - name: obj/P_EX030_DC.a.bg
   method: copy
   source:
   - name: objects/disneyfellas/P_EX030_DC.apdx
