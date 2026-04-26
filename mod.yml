@@ -1,6 +1,6 @@
 title: Kingdom Hearts II - Re:Fined
 originalAuthor: The Re:Fined Team
-description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r240426-STABLE
+description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r260426-STABLE
 
 assets:
 
@@ -2253,52 +2253,107 @@ assets:
 - name: remastered/obj/P_EX100.a.us/-0.dds
   multi:
   - name: remastered/obj/P_EX100_CA.a.us/-0.dds
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-0.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-0.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-0.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-0.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-0.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-0.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-0.dds
 - name: remastered/obj/P_EX100.a.us/-1.dds
   multi:
   - name: remastered/obj/P_EX100_CA.a.us/-1.dds
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-1.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-1.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-1.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-1.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-1.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-1.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-1.dds
 - name: remastered/obj/P_EX100.a.us/-2.dds
   multi:
   - name: remastered/obj/P_EX100_CA.a.us/-2.dds
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-2.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-2.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-2.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-2.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-2.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-2.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-2.dds
 - name: remastered/obj/P_EX100.a.us/-3.dds
   multi:
   - name: remastered/obj/P_EX100_CA.a.us/-3.dds
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-3.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-3.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-3.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-3.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-3.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-3.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-3.dds
 - name: remastered/obj/P_EX100.a.us/-4.dds
   multi:
   - name: remastered/obj/P_EX100_CA.a.us/-4.dds
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-4.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-4.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-4.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-4.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-4.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-4.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-4.dds
 - name: remastered/obj/P_EX100.a.us/-5.dds
   multi:
   - name: remastered/obj/P_EX100_CA.a.us/-5.dds
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-5.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-5.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-5.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-5.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-5.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-5.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-5.dds
 - name: remastered/obj/P_EX100.a.us/-6.dds
   multi:
   - name: remastered/obj/P_EX100_CA.a.us/-6.dds
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-6.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-6.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-6.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-6.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-6.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-6.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-6.dds
 - name: remastered/obj/P_EX100.a.us/-7.dds
   multi:
   - name: remastered/obj/P_EX100_CA.a.us/-7.dds
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-7.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-7.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-7.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-7.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-7.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-7.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-7.dds
 - name: remastered/obj/P_EX100.a.us/-8.dds
+  multi:
+    - name: remastered/obj/P_EX100_AL_CARPET.a.us/-8.dds
+    - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.dds
+    - name: remastered/obj/P_EX100_SIDECAR.a.it/-8.dds
+    - name: remastered/obj/P_EX100_SIDECAR.a.sp/-8.dds
+    - name: remastered/obj/P_EX100_SIDECAR.a.fr/-8.dds
+    - name: remastered/obj/P_EX100_SIDECAR.a.gr/-8.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-8.dds
@@ -2573,6 +2628,13 @@ assets:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-hudPIRATE.dds
 
 - name: remastered/obj/P_EX100.a.us/-9.dds
+  multi:
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-9.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-9.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-9.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-9.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-9.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-9.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-hudCROWN.png
