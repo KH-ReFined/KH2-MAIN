@@ -1,6 +1,6 @@
 title: Kingdom Hearts II - Re:Fined
 originalAuthor: The Re:Fined Team
-description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r260426-STABLE
+description: Kingdom Hearts - Re:Fined for Kingdom Hearts II | r280426-STABLE
 
 assets:
 
@@ -2630,11 +2630,11 @@ assets:
 - name: remastered/obj/P_EX100.a.us/-9.dds
   multi:
   - name: remastered/obj/P_EX100_AL_CARPET.a.us/-9.dds
-  - name: remastered/obj/P_EX100_SIDECAR.a.us/-9.dds
-  - name: remastered/obj/P_EX100_SIDECAR.a.it/-9.dds
-  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-9.dds
-  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-9.dds
-  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-9.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-10.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-10.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-10.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-10.dds
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-10.dds
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100.apdx/-hudCROWN.png
@@ -2663,6 +2663,32 @@ assets:
   method: copy
   source:
   - name: remastered/objects/soraapdx/P_EX100_ULTF.apdx/-hudCROWN.png
+
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-9.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/-SIDECAR_SP.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-9.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/-SIDECAR_GR.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-9.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/-SIDECAR_FR.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-9.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/-SIDECAR_IT.png
+- name: remastered/obj/P_EX100_SIDECAR.a.us/-9.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: remastered/objects/soraapdx/-SIDECAR_US.png
 
 - name: remastered/obj/P_EX020_CA.a.us/-0.dds
   method: copy
