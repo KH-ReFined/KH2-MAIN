@@ -278,13 +278,13 @@ assets:
 
 # === Font Files === #
 
-- name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png.png
+- name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png
   multi:
-    - name: remastered/msg/us/fontimage.bar/US_fontimage_bar2.png.png
-    - name: remastered/msg/fr/fontimage.bar/FR_fontimage_bar2.png.png
-    - name: remastered/msg/gr/fontimage.bar/GR_fontimage_bar2.png.png
-    - name: remastered/msg/it/fontimage.bar/IT_fontimage_bar2.png.png
-    - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar2.png.png
+    - name: remastered/msg/us/fontimage.bar/US_fontimage_bar2.png
+    - name: remastered/msg/fr/fontimage.bar/FR_fontimage_bar2.png
+    - name: remastered/msg/gr/fontimage.bar/GR_fontimage_bar2.png
+    - name: remastered/msg/it/fontimage.bar/IT_fontimage_bar2.png
+    - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar2.png
   method: copy
   source:
     - name: remastered/fonts/iconfont.png
