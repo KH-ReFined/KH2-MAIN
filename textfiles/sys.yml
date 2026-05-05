@@ -467,6 +467,17 @@
   
 - id: 0x575B
   en: "The Prologue"
+  sp: "El Prólogo"
+  gr: "Prolog spielen"
+  it: "Il Prologo"
+  fr: "Prologue"
+
+- id: 0x575C
+  en: "Change shortcuts for Limit Form."
+  gr: "Bearbeite die Kurzbefehle für die Limit-Form."
+  it: "Modifica i comandi per la Fusione Limite."
+  sp: "Cambia los atajos de la Forma Suma."
+  fr: "Changer les raccourcis de la Forme Souvenance."
 
 # === Discord RPC Text === #
 
@@ -586,22 +597,30 @@
 - id: 0x5754
   en: "Lock-On Controls"
   sp: "{:width 85}Controles de fijar objetivo"
+  gr: "{:width 85}Zielerfassungs-Steuerung"
   fr: "{:width 90}Contrôles du verrouillage"
+  it: "{:width 90}Comandi di aggancio"
 
 - id: 0x5755
   en: "Type A"
   sp: "Tipo A"
   fr: "Type A"
+  gr: "Typ A"
+  it: "Tipo A"
 
 - id: 0x5756
   en: "Type B"
   sp: "Tipo B"
   fr: "Type B"
+  gr: "Typ B"
+  it: "Tipo B"
 
 - id: 0x5757
   en: "Type C"
   sp: "Tipo C"
   fr: "Type C"
+  gr: "Typ C"
+  it: "Tipo C"
 
 - id: 0x5758
   en: "Press {:icon dynamic-r2} to cycle targets clockwise. 
