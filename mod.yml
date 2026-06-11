@@ -23,6 +23,12 @@ assets:
 #   method: copy
 #   source:
 #   - name: engine/modules/ModuleRF-Autoattack.dll
+
+# - name: dll/modules/ModuleRF-ShortcutSetsRF.dll
+#   method: copy
+#   source:
+#   - name: engine/modules/ModuleRF-ShortcutSetsRF.dll
+
 - name: dll/modules/ModuleRF-EncounterPlus.dll
   method: copy
   source:
@@ -35,10 +41,10 @@ assets:
   method: copy
   source:
   - name: engine/modules/ModuleRF-ShortcutForms.dll
-- name: dll/modules/ModuleRF-ShortcutSets.dll
+- name: dll/modules/ModuleRF-ShortcutSetsKH3.dll
   method: copy
   source:
-  - name: engine/modules/ModuleRF-ShortcutSets.dll
+  - name: engine/modules/ModuleRF-ShortcutSetsKH3.dll
 
 - name: 00objentry.bin
   type: list

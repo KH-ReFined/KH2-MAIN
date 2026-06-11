@@ -1,5 +1,70 @@
 # === System Text === #
 
+- id: 0x5761
+  en: "Select settings for shortcut commands
+  
+    and other various functions.
+    
+    {:color #E070E080}Press {:icon dynamic-l1} /{:icon dynamic-r1} to switch between sets."
+  it: "Scegli le impostazioni per l'Uso
+  
+    rapido e altre funzioni.
+    
+    {:color #E070E080}Premi {:icon dynamic-l1} /{:icon dynamic-r1} per cambiare Set."
+  gr: "Einstellungen für Kurzbefehle und
+  
+    diverse andere Funktionen ändern.
+    
+    {:color #E070E080}Drücke {:icon dynamic-l1} /{:icon dynamic-r1}, um zwischen den Sets zu wechseln."
+  fr: "Choisir des options pour les raccourcis
+  
+    et d'autres fonctions variées.
+    
+    {:color #E070E080}Appuyer sur {:icon dynamic-l1} /{:icon dynamic-r1} pour changer de set."
+  sp: "Selecciona los ajustes para atajos de comandos
+  
+    y otras funciones varias.
+    
+    {:color #E070E080}Pulsa {:icon dynamic-l1} /{:icon dynamic-r1} para alternar entre sets."
+
+- id: 0x5762
+  en: "{:width 85}Shortcut Set A"
+  it: "{:width 85}Uso rapido Set A"
+  gr: "{:width 85}Kurzbefehle-Set A"
+  fr: "{:width 75}Set de raccourcis A"
+  sp: "{:width 85}Set de atajos A"
+
+- id: 0x5763
+  en: "{:width 85}Shortcut Set B"
+  it: "{:width 85}Uso rapido Set B"
+  gr: "{:width 85}Kurzbefehle-Set B"
+  fr: "{:width 75}Set de raccourcis B"
+  sp: "{:width 85}Set de atajos B"
+
+- id: 0x5764
+  en: "{:width 85}Shortcut Set C"
+  it: "{:width 85}Uso rapido Set C"
+  gr: "{:width 85}Kurzbefehle-Set C"
+  fr: "{:width 75}Set de raccourcis C"
+  sp: "{:width 85}Set de atajos C"
+
+- id: 0x5765
+  en: "Select settings for MP Recharge and
+  
+    Auto-Reload."
+  it: "Seleziona le opzioni di Carica MP e
+  
+    Autoricarica."
+  gr: "Einstellungen für MP-Aufladung und
+  
+    Auto-Nachfüllen ändern."
+  fr: "Choisir les options de Recharge MP
+  
+    et d'Auto-recharge."
+  sp: "Selecciona los ajustes para la Carga PM
+  
+    y Autorrecarga."
+
 - id: 0x5700
   en: "Press{:icon dynamic-cross} to cancel!"
   it: "Premi{:icon dynamic-cross} per annullare!"
@@ -27,47 +92,6 @@
   gr: "Dein Fortschritt wurde nicht gespeichert, kupo! Bitte speichere manuell!"
   fr: "Votre progression n'a pas pu être sauvegardée, kupo ! Sauvegardez manuellement !"
   sp: "No he podido guardar tu progreso, ¡kupó! ¡Por favor guarda el juego manualmente!"
-  
-- id: 0x051F
-  en: "{:width 85}Shortcut Set X"
-  it: "{:width 85}Uso rapido Set X"
-  gr: "{:width 85}Kurzbefehle-Set X"
-  fr: "{:width 75}Set de raccourcis X"
-  sp: "{:width 85}Set de atajos X"
-
-- id: 0x3B89
-  en: "Select settings for shortcut commands
-  
-    and other various functions.
-    
-    {:color #E070E080}Press {:icon dynamic-l1} /{:icon dynamic-r1} to switch between sets."
-  it: "Scegli le impostazioni per l'Uso
-  
-    rapido e altre funzioni.
-    
-    {:color #E070E080}Premi {:icon dynamic-l1} /{:icon dynamic-r1} per cambiare Set."
-  gr: "Einstellungen für Kurzbefehle und
-  
-    diverse andere Funktionen ändern.
-    
-    {:color #E070E080}Drücke {:icon dynamic-l1} /{:icon dynamic-r1}, um zwischen den Sets zu wechseln."
-  fr: "Choisir des options pour les raccourcis
-  
-    et d'autres fonctions variées.
-    
-    {:color #E070E080}Appuyer sur {:icon dynamic-l1} /{:icon dynamic-r1} pour changer de set."
-  sp: "Selecciona los ajustes para atajos de comandos
-  
-    y otras funciones varias.
-    
-    {:color #E070E080}Pulsa {:icon dynamic-l1} /{:icon dynamic-r1} para alternar entre sets."
-
-- id: 0x5758
-  en: "What are Shortcut Sets?"
-  it: "Cosa sono i Set di Uso rapido?"
-  gr: "Was sind 'Kurzbefehle-Sets'?"
-  fr: "Comment utiliser les sets de raccourcis ?"
-  sp: "¿Qué son los sets de atajos?"
 
 # === Config Menu Text === #
 
@@ -300,10 +324,11 @@
   sp: "Prepararse y reintentar"
   
 - id: 0x5728
-  en: "Stiltzkin's Moogle Shop"
-
-- id: 0x572A
   en: "Mogster's Moogle Shop"
+  sp: "Tienda moguri de Mogster"
+  fr: "Boutique de Mogster"
+  it: "L'officina di Mogster"
+  gr: "Mogster's Mogry-Laden"
 
 - id: 0x572B
   en: "※ European"
@@ -478,6 +503,34 @@
   it: "Modifica i comandi per la Fusione Limite."
   sp: "Cambia los atajos de la Forma Suma."
   fr: "Changer les raccourcis de la Forme Souvenance."
+
+- id: 0x575D
+  en: "{:width 85}Shortcuts A"
+  it: "{:width 85}Shortcuts A"
+  gr: "{:width 85}Shortcuts A"
+  fr: "{:width 90}Raccourcis A"
+  sp: "Atajos A"
+
+- id: 0x575E
+  en: "{:width 85}Shortcuts B"
+  it: "{:width 85}Shortcuts B"
+  gr: "{:width 85}Shortcuts B"
+  fr: "{:width 90}Raccourcis B"
+  sp: "Atajos B"
+
+- id: 0x575F
+  en: "{:width 85}Shortcuts C"
+  it: "{:width 85}Shortcuts C"
+  gr: "{:width 85}Shortcuts C"
+  fr: "{:width 90}Raccourcis C"
+  sp: "Atajos C"
+
+- id: 0x5760
+  en: "Change shortcuts for this shortcut set."
+  it: "Change shortcuts for this shortcut set."
+  gr: "Change shortcuts for this shortcut set."
+  fr: "Changer les raccourcis de ce set."
+  sp: "Cambia los atajos por los de este set."
 
 # === Discord RPC Text === #
 
