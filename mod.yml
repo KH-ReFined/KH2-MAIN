@@ -2051,26 +2051,26 @@ assets:
   source:
   - name: remastered/textfiles/hb_bubbles.png
 
-- name: remastered/field2d/us/qd0command.2dd/-0.dds
+- name: remastered/field2d/us/qd0command.2dd/-0.png
   method: copy
   source:
-  - name: remastered/fieldelems/qd0command.2dd/US.dds
-- name: remastered/field2d/fr/qd0command.2dd/-0.dds
+  - name: remastered/fieldelems/qd0command.2dd/US.png
+- name: remastered/field2d/fr/qd0command.2dd/-0.png
   method: copy
   source:
-  - name: remastered/fieldelems/qd0command.2dd/FR.dds
-- name: remastered/field2d/gr/qd0command.2dd/-0.dds
+  - name: remastered/fieldelems/qd0command.2dd/FR.png
+- name: remastered/field2d/gr/qd0command.2dd/-0.png
   method: copy
   source:
-  - name: remastered/fieldelems/qd0command.2dd/DE.dds
-- name: remastered/field2d/sp/qd0command.2dd/-0.dds
+  - name: remastered/fieldelems/qd0command.2dd/DE.png
+- name: remastered/field2d/sp/qd0command.2dd/-0.png
   method: copy
   source:
-  - name: remastered/fieldelems/qd0command.2dd/ES.dds
-- name: remastered/field2d/it/qd0command.2dd/-0.dds
+  - name: remastered/fieldelems/qd0command.2dd/ES.png
+- name: remastered/field2d/it/qd0command.2dd/-0.png
   method: copy
   source:
-  - name: remastered/fieldelems/qd0command.2dd/IT.dds
+  - name: remastered/fieldelems/qd0command.2dd/IT.png
 
 - name: remastered/menu/us/title.2ld/-0.png
   method: copy
