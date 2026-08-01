@@ -1,0 +1,6 @@
+- TalkMessageId: 0x1301 
+  Type: 2
+  Contents: 
+    - CodeType: 0x0001 
+      Unknown: 0x0001 
+      TextId: 0x5501 

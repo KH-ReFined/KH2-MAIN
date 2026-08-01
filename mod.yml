@@ -52,6 +52,16 @@ assets:
   source:
   - name: rootfiles/00objentry.yml
     type: objentry
+- name: 07localset.bin
+  type: list
+  method: binarc
+  source:
+  - index: 4
+    type: list
+    method: listpatch
+    source:
+    - name: rootfiles/07localset.yml
+      type: localset
 - name: 00prologue.bin
   method: copy
   source:
@@ -95,10 +105,6 @@ assets:
     source:
     - name: system/SHOP
       type: shop
-- name: 07localset.bin
-  method: copy
-  source:
-  - name: rootfiles/07localset.bin
 - name: 14mission.bar
   method: copy
   source:
@@ -509,9 +515,14 @@ assets:
 # === Libretto Files === #
 
 - name: libretto-hb.bar
-  method: copy
+  method: binarc
   source:
-  - name: libretto/libretto-hb.bar
+  - name: hb
+    type: list
+    method: listpatch
+    source:
+    - name: libretto/libretto-hb.yml
+      type: libretto
 
 # === Background Music Files === #
 
